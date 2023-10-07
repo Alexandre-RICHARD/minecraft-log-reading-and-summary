@@ -1,0 +1,49 @@
+body {
+  background-color: #000000;
+}
+
+.listPart {
+  padding: 3px 0 3px 10px;
+  color: #adadad;
+}
+
+.listPart:nth-child(2n) {
+  background-color: #1f0404;
+}
+
+.listPart:nth-child(2n+1) {
+  background-color: #000000;
+}
+
+.results {
+  display: flex;
+}
+
+.resultsLeft {
+  margin: 50px 0 20px 50px;
+}
+
+.resultsMiddle {
+  margin: 50px 0 20px 0;
+}
+.resultsRight {
+  margin: 50px 0 20px 0;
+}
+
+.result {
+  color: white;
+  padding: 2px 5px;
+  border-bottom: solid 2px #707070;
+}
+
+.getDataByFTP {
+   background-color: gray;
+   padding: 10px;
+   font-size: 20px;
+}
+
+.getDataByFTP:active {
+  background-color: #000000;
+  color: white;
+  border: 1px solid gray;
+}

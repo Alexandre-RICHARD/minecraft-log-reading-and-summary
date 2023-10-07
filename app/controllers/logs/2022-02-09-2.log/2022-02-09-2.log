@@ -1,0 +1,111 @@
+[05:12:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:12:13] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:12:15] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:12:21] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:12:21] [Server thread/INFO]: Loading properties
+[05:12:21] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:12:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:12:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:12:22] [Server thread/INFO]: Default game type: SURVIVAL
+[05:12:22] [Server thread/INFO]: Generating keypair
+[05:12:23] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:12:23] [Server thread/INFO]: Using epoll channel type
+[05:12:23] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:12:23] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:12:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:12:23] [Server thread/INFO]: Preparing level "world"
+[05:12:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:12:29] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:29] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:31] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:31] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:32] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:32] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:33] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:33] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:34] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:34] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:35] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:35] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:36] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:36] [Server thread/INFO]: Preparing spawn area: 28%
+[05:12:36] [Server thread/INFO]: Time elapsed: 9001 ms
+[05:12:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:12:37] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:37] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:37] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:38] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:38] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:39] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:39] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:40] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:40] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:41] [Server thread/INFO]: Time elapsed: 4439 ms
+[05:12:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:12:41] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:41] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:42] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:42] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:43] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:44] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:45] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:45] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:45] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:45] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:46] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:46] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:47] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:48] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:48] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:48] [Server thread/INFO]: Time elapsed: 7361 ms
+[05:12:48] [Server thread/INFO]: Starting GS4 status listener
+[05:12:49] [Server thread/INFO]: Thread Query Listener started
+[05:12:49] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:12:49] [Server thread/INFO]: Running delayed init tasks
+[05:12:49] [Server thread/INFO]: Done (27.790s)! For help, type "help"
+[05:12:49] [Server thread/INFO]: Timings Reset
+[05:12:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5330ms or 106 ticks behind
+[05:13:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[05:18:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5438ms or 108 ticks behind
+[11:25:55] [User Authenticator #1/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[11:25:55] [Server thread/INFO]: Arcabat joined the game
+[11:25:55] [Server thread/INFO]: Arcabat[/46.193.65.177:56109] logged in with entity id 1592 at ([world]52.31692114358737, 67.0, 309.1678850836755)
+[11:29:19] [User Authenticator #2/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[11:29:19] [Server thread/INFO]: Shadowmere_Swift joined the game
+[11:29:19] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65439] logged in with entity id 2186 at ([world]95.08664362388865, 70.0, 304.3760216085627)
+[11:29:25] [Async Chat Thread - #0/INFO]: <Arcabat> oh
+[11:29:32] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> yo
+[11:29:35] [Async Chat Thread - #0/INFO]: <Arcabat> yo
+[11:29:55] [Async Chat Thread - #0/INFO]: <Arcabat> j'ai fini de ranger les coffres
+[11:29:58] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> déso je joue moins en ce moment, il m'arrive pleins de trucs relou qui font que je peux pas/veux pas jouer
+[11:30:01] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> GG
+[11:30:02] [Async Chat Thread - #0/INFO]: <Arcabat> la je mets les pancartes
+[11:30:23] [Async Chat Thread - #0/INFO]: <Arcabat> ouais j'ai remarqué, mais tqt, joues quand ça te fais plaisir ;)
+[11:32:48] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> t'as mis qu'un coffre à bordel ?
+[11:32:51] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> hihi
+[11:33:10] [Async Chat Thread - #1/INFO]: <Arcabat> pour l'instant
+[11:33:19] [Async Chat Thread - #1/INFO]: <Arcabat> je cherche où les mettre autrement
+[11:34:42] [Async Chat Thread - #2/INFO]: <Arcabat> tu peux surtout aller voir en bas maintenant
+[11:35:21] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> ok ça c'est classe
+[11:35:27] [Async Chat Thread - #2/INFO]: <Arcabat> ah cool :D
+[11:35:36] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> même si on a vraiment trop de coffre
+[11:35:40] [Async Chat Thread - #2/INFO]: <Arcabat> oui
+[11:35:42] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> je vais jamais m'y retrouver
+[11:35:49] [Async Chat Thread - #2/INFO]: <Arcabat> je mets des panneaux tqt xD
+[11:36:43] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[11:50:25] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[11:50:25] [Server thread/INFO]: Shadowmere_Swift left the game
+[11:52:56] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[11:52:56] [Server thread/INFO]: Arcabat left the game
+[12:47:33] [User Authenticator #3/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[12:47:33] [Server thread/INFO]: Shadowmere_Swift joined the game
+[12:47:33] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64394] logged in with entity id 5658 at ([world]125.87024454050051, 76.3431684764654, 355.6974952519694)
+[12:47:56] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[12:48:03] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[12:49:55] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[12:49:55] [Server thread/INFO]: Shadowmere_Swift left the game

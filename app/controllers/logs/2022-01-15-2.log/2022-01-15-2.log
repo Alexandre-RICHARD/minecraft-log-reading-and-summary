@@ -1,0 +1,372 @@
+[05:10:27] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:10:29] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:10:31] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:10:40] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:10:40] [Server thread/INFO]: Loading properties
+[05:10:41] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:10:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:10:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:10:41] [Server thread/INFO]: Default game type: SURVIVAL
+[05:10:41] [Server thread/INFO]: Generating keypair
+[05:10:42] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:10:42] [Server thread/INFO]: Using epoll channel type
+[05:10:42] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:10:42] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:10:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:10:43] [Server thread/INFO]: Preparing level "world"
+[05:10:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:10:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:54] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:54] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:55] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:55] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:57] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:57] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:58] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:58] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:59] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:59] [Server thread/INFO]: Time elapsed: 10356 ms
+[05:10:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:11:00] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:00] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:00] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:01] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:01] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:02] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:02] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:03] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:03] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:04] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:04] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:06] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:06] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:06] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:06] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:07] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:07] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:08] [Server thread/INFO]: Time elapsed: 8995 ms
+[05:11:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:11:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:09] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:09] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:10] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:10] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:11] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:11] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:12] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:11:12] [Server thread/INFO]: Time elapsed: 4400 ms
+[05:11:13] [Server thread/INFO]: Starting GS4 status listener
+[05:11:13] [Server thread/INFO]: Thread Query Listener started
+[05:11:13] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:11:13] [Server thread/INFO]: Running delayed init tasks
+[05:11:13] [Server thread/INFO]: Done (32.371s)! For help, type "help"
+[05:11:13] [Server thread/INFO]: Timings Reset
+[05:11:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
+[08:33:11] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[08:33:11] [Server thread/INFO]: Shadowmere_Swift joined the game
+[08:33:11] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65488] logged in with entity id 301 at ([world]81.48868235148538, 73.0, 297.0827803650054)
+[08:54:56] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[08:54:56] [Server thread/INFO]: Shadowmere_Swift left the game
+[09:05:04] [User Authenticator #2/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[09:05:04] [Server thread/INFO]: Shadowmere_Swift joined the game
+[09:05:04] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63854] logged in with entity id 3944 at ([world]86.65820797495049, 73.875, 302.68446567825936)
+[09:26:45] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.3064829683644916
+[09:26:45] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.75517915515303
+[09:27:54] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.3170142206620312
+[09:29:20] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.3974756414354488
+[09:30:00] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.370315216908466
+[09:30:00] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.4158474697450174
+[09:30:00] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.42630177128160085
+[09:30:00] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.477277435061751
+[09:30:01] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2814845634519543
+[09:30:01] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.3322328284497189
+[09:30:08] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.3767357180338422
+[09:30:48] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.46806839355315333
+[10:21:13] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[10:21:30] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[10:30:32] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[10:30:32] [Server thread/INFO]: Shadowmere_Swift left the game
+[10:30:34] [User Authenticator #3/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[10:30:34] [Server thread/INFO]: Shadowmere_Swift joined the game
+[10:30:34] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64528] logged in with entity id 23222 at ([world]183.28992816456883, 25.172748187392973, 380.8119117190801)
+[10:30:59] [User Authenticator #3/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[10:30:59] [Server thread/INFO]: Arcabat joined the game
+[10:30:59] [Server thread/INFO]: Arcabat[/46.193.65.177:59986] logged in with entity id 23277 at ([world]78.59919061688564, 73.0, 307.1941577117219)
+[10:31:01] [Server thread/INFO]: Shadowmere_Swift has made the advancement [What a Deal!]
+[10:31:07] [Async Chat Thread - #0/INFO]: <Arcabat> hello
+[10:31:09] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> hey
+[10:31:17] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> Ils baisent pas, ça me soule de ouf
+[10:31:36] [Async Chat Thread - #0/INFO]: <Arcabat> c'est parce que tu les gênes ;)
+[10:31:50] [Async Chat Thread - #0/INFO]: <Arcabat> ils sont au village ?
+[10:31:53] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> Mais je leur ai même donner de l'huile de coco
+[10:31:55] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> Nan en bas
+[10:32:03] [Async Chat Thread - #0/INFO]: <Arcabat> ah ouais, pas très sympa !
+[10:32:05] [Async Chat Thread - #0/INFO]: <Arcabat> dacc
+[10:33:12] [Async Chat Thread - #1/INFO]: <Arcabat> bon bah pendant la nuit ça va être compliqué x)
+[10:33:24] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> bah normalement c'est à 15h
+[10:33:30] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> mais 3 jours que rien
+[10:33:42] [Async Chat Thread - #1/INFO]: <Arcabat> ah ! ils ont un horaire spécifique ? x)
+[10:33:52] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> ouais, lors du "rassemblement"
+[10:34:01] [Async Chat Thread - #1/INFO]: <Arcabat> hum
+[10:34:08] [Async Chat Thread - #1/INFO]: <Arcabat> tu as donner beaucoup de pain ?
+[10:34:30] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> patates, et ils sont pleins, ils en veulent même plus
+[10:34:57] [Async Chat Thread - #1/INFO]: <Arcabat> pas sur que ça marche avec les patates
+[10:35:03] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> ah sisi
+[10:35:05] [Async Chat Thread - #1/INFO]: <Arcabat> dors
+[10:35:09] [Async Chat Thread - #1/INFO]: <Arcabat> stp
+[10:35:16] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> 3 pains, ou 12patates/carottes/betteraves
+[10:35:37] [Async Chat Thread - #1/INFO]: <Arcabat> stop xD
+[10:35:48] [Async Chat Thread - #1/INFO]: <Arcabat> faut pas trop leur en donner
+[10:35:59] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> j'ai toujours fait ça, ça a toujours marché
+[10:36:00] [Async Chat Thread - #1/INFO]: <Arcabat> faut qu'ils puissent s"changer les choses
+[10:36:18] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> ils s'en échangent quand ils en trop justement
+[10:36:33] [Async Chat Thread - #1/INFO]: <Arcabat> ah mais je sais pourquoi
+[10:36:38] [Async Chat Thread - #1/INFO]: <Arcabat> il leur faut leur métier
+[10:36:44] [Async Chat Thread - #1/INFO]: <Arcabat> enfin leur bloc de métier
+[10:36:57] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> ah...
+[10:37:10] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> Bah je vais le chercher mais même les sans métier peuvent se reproduire
+[10:37:18] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> Par contre, mon cheval a encore disparu
+[10:37:26] [Async Chat Thread - #1/INFO]: <Arcabat> ah oui, bein je sais pas alors
+[10:37:30] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> Je l'attache toujours au même endroit
+[10:37:35] [Async Chat Thread - #1/INFO]: <Arcabat> ah merde
+[10:37:45] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> J'ai perdu l'autre, j'en avais retrouvé hein et pouf
+[10:38:08] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> mais je ramène leur métier
+[10:39:13] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> par contre, il ne reste qu'un seul villageois dans leur village... je sais pas pourquoi ils ont tous disparu
+[10:39:54] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> ok cheval retrouvé, mais genre aucun sens
+[10:41:34] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.29110373553828595
+[10:41:34] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.6489653919454099
+[10:41:40] [Async Chat Thread - #3/INFO]: <Arcabat> y en avait que 3 je crois
+[10:41:46] [Async Chat Thread - #3/INFO]: <Arcabat> les autres ont du se faire bouffer
+[10:41:52] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> bah au début... une bonne dizaine
+[10:41:57] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> c'est dommage
+[10:43:41] [Async Chat Thread - #4/INFO]: <Arcabat> echange avec eux
+[10:44:07] [Async Chat Thread - #4/INFO]: <Arcabat> donne du pain, pas le reste
+[10:44:16] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> mais le reste fonctionne je te dis xD
+[10:44:22] [Async Chat Thread - #4/INFO]: <Arcabat> moins bien
+[10:44:30] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> genre t'as fait des stats
+[10:44:40] [Async Chat Thread - #4/INFO]: <Arcabat> non x)
+[10:44:46] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> bien ce que je pensais
+[10:44:56] [Async Chat Thread - #4/INFO]: <Arcabat> mais ça a toujours fonctionner avec
+[10:45:02] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> le reste aussi
+[10:45:22] [Async Chat Thread - #4/INFO]: <Arcabat> mmh
+[10:45:35] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> sinon j'ai trouvé une nouvelle méthode pour les chutes dans le nether
+[10:45:40] [Async Chat Thread - #4/INFO]: <Arcabat> ah ?
+[10:45:42] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> Donc ça en fait trois
+[10:46:12] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> - Bloc de slime mais faut pas s'accroupir et accepter quelques rebonds (ou aller sous un bloc direct)
+[10:46:21] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> - Toile d'araignée mais c'est relou
+[10:46:41] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> - Les lianes vertes bizarres, mais il faut garder appuyer espace sinon c'est la mort
+[10:46:55] [Async Chat Thread - #4/INFO]: <Arcabat> sinon le bateau c'est bien
+[10:47:18] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> (-Ou le bateau mais ça signifie de faire des réserves en haut et de penser à la remplir régulièrement)
+[10:47:23] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> Bah voilà oui
+[10:47:29] [Async Chat Thread - #4/INFO]: <Arcabat> yep
+[10:47:48] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> Aucune des 4 n'est "miracle"
+[10:47:59] [Async Chat Thread - #4/INFO]: <Arcabat> effectivement
+[10:49:15] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2932861085915306
+[10:49:25] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.4266449716085958
+[10:51:24] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.47735435645643065
+[10:59:16] [Server thread/INFO]: Arcabat has made the advancement [Local Brewery]
+[10:59:35] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> oh la toute première
+[10:59:39] [Async Chat Thread - #5/INFO]: <Arcabat> yep
+[11:02:43] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.28054661809630943
+[11:05:53] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2542134678792536
+[11:06:07] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.465606312269756
+[11:06:10] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.31456133247593243
+[11:28:01] [Async Chat Thread - #6/INFO]: <Arcabat> dodo ?
+[11:28:29] [Async Chat Thread - #6/INFO]: <Arcabat> cimer
+[11:28:32] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> beber
+[11:31:30] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> bon bah j'y go
+[11:31:37] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> je rejoue ce soir mais sans toi du coup
+[11:31:37] [Async Chat Thread - #7/INFO]: <Arcabat> dacc tchuss
+[11:31:41] [Async Chat Thread - #7/INFO]: <Arcabat> yep
+[11:31:51] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[11:31:51] [Server thread/INFO]: Shadowmere_Swift left the game
+[11:42:24] [Server thread/INFO]: Villager EntityVillager['Villager'/39403, uuid='d4faae07-a6eb-45bd-874b-1f458720ab71', l='ServerLevel[world]', x=691.70, y=90.00, z=264.47, cpos=[43, 16], tl=62261, v=true] died, message: 'Villager was slain by Zombie'
+[11:42:43] [Server thread/INFO]: Villager EntityVillager['Nitwit'/39325, uuid='eca8ff03-550a-4d7e-919e-8d59e76a5dcc', l='ServerLevel[world]', x=655.30, y=67.00, z=201.30, cpos=[40, 12], tl=63613, v=true] died, message: 'Nitwit was blown up by Creeper'
+[12:57:22] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[12:57:22] [Server thread/INFO]: Arcabat left the game
+[13:08:29] [User Authenticator #4/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[13:08:29] [Server thread/INFO]: Arcabat joined the game
+[13:08:29] [Server thread/INFO]: Arcabat[/46.193.65.177:52617] logged in with entity id 66481 at ([world]181.30000001192093, 26.0, 367.9419783306062)
+[13:34:39] [Server thread/INFO]: Arcabat has reached the goal [Zombie Doctor]
+[13:54:47] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[13:54:47] [Server thread/INFO]: Arcabat left the game
+[14:11:55] [User Authenticator #5/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[14:11:55] [Server thread/INFO]: Arcabat joined the game
+[14:11:55] [Server thread/INFO]: Arcabat[/46.193.65.177:60035] logged in with entity id 74899 at ([world]172.49739025369914, 31.0, 339.99706279941057)
+[14:39:02] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[14:39:02] [Server thread/INFO]: Arcabat left the game
+[14:58:19] [User Authenticator #6/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[14:58:19] [Server thread/INFO]: Arcabat joined the game
+[14:58:19] [Server thread/INFO]: Arcabat[/46.193.65.177:53506] logged in with entity id 78326 at ([world]184.76322072491516, 31.5, 355.80708304709185)
+[15:49:59] [Server thread/INFO]: Arcabat issued server command: /help
+[15:50:03] [Server thread/INFO]: Arcabat issued server command: /seed
+[15:52:14] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[15:52:14] [Server thread/INFO]: Arcabat left the game
+[15:54:43] [User Authenticator #7/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[15:54:43] [Server thread/INFO]: Arcabat joined the game
+[15:54:43] [Server thread/INFO]: Arcabat[/46.193.65.177:57159] logged in with entity id 86398 at ([world]195.34451281711026, 27.0, 365.48631790334264)
+[16:09:58] [User Authenticator #8/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[16:09:58] [Server thread/INFO]: Shadowmere_Swift joined the game
+[16:09:58] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64352] logged in with entity id 91876 at ([world]419.3508230713087, 106.875, 832.2339943545285)
+[16:10:04] [Async Chat Thread - #8/INFO]: <Arcabat> ah le retour
+[16:10:07] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> et bah re
+[16:10:12] [Async Chat Thread - #8/INFO]: <Arcabat> j'ai trouvé pourquoi isl se reproduisent pas
+[16:10:16] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> pour 1h 20 environ
+[16:10:20] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> ouais dis-moi
+[16:10:20] [Async Chat Thread - #8/INFO]: <Arcabat> C'est a cause du MobGriefing
+[16:10:29] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> POurquoi ?
+[16:10:36] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> Qu'est-ce que ça fait ?
+[16:10:42] [Async Chat Thread - #8/INFO]: <Arcabat> ils peuvent pas récup les objets au sol
+[16:10:50] [Async Chat Thread - #8/INFO]: <Arcabat> et donc pas s'échanger les objets
+[16:10:54] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> bah si, je les ai vu en prendre au tout début
+[16:10:56] [Async Chat Thread - #8/INFO]: <Arcabat> j'ai testé en solo
+[16:10:59] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> ah ouais
+[16:11:02] [Async Chat Thread - #8/INFO]: <Arcabat> yep
+[16:11:12] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> POurtant ils en ont dans leur inventaire, j'en suis sûr
+[16:11:29] [Async Chat Thread - #8/INFO]: <Arcabat> oui mais ils sont obligé de le garder, ils peuvent plus s'en débarrasser
+[16:11:36] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> pfff
+[16:11:41] [Async Chat Thread - #8/INFO]: <Arcabat> et pour se reproduire, ils ont besoind 'échnage
+[16:11:43] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> bah je le remet
+[16:11:46] [Async Chat Thread - #8/INFO]: <Arcabat> ouep
+[16:11:55] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> mais bizarre mojang... bizarre
+[16:12:03] [Async Chat Thread - #8/INFO]: <Arcabat> au pire, quand on aura assez de villageois, on pourra le remettre
+[16:12:06] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamerule mobGriefing true
+[16:12:39] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.38100179475293317
+[16:12:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2743776230012145
+[16:12:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.32636871651311594
+[16:12:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.37693722921233075
+[16:12:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.42826021989753826
+[16:12:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.47994186423932206
+[16:12:48] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.25189589934996093
+[16:14:42] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> du coup je vais les surveiller, bien joué pour le toit, j'hésitais à en mettre un
+[16:14:49] [Async Chat Thread - #9/INFO]: <Arcabat> dacc
+[16:14:57] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> car je trouvais ça cool de pouvoir les observer d'en haut
+[16:15:08] [Async Chat Thread - #9/INFO]: <Arcabat> bah je me demandais si ça aurait pas été ça le soucis, le toit, mais visiblement non
+[16:15:16] [Async Chat Thread - #9/INFO]: <Arcabat> yep
+[16:15:20] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> ah donc toi, petite ferm, porte et tout je peux enlever
+[16:15:21] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> ?
+[16:15:25] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> toit*
+[16:15:27] [Async Chat Thread - #9/INFO]: <Arcabat> on peut toujours l'enlever du coup
+[16:15:29] [Async Chat Thread - #9/INFO]: <Arcabat> ouep
+[16:15:30] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> ok
+[16:15:56] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> je vais voir ce que je peux faire
+[16:18:06] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.28956493416444573
+[16:18:20] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.43532395236974253
+[16:18:23] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.27969609444460275
+[16:19:32] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.3674820980130562
+[16:19:32] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.42016292262565
+[16:19:32] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.4720346034469003
+[16:19:32] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2782080631069448
+[16:19:32] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.327932400130976
+[16:19:34] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.3484185240555462
+[16:19:39] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.34441975450977225
+[16:20:21] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.363416320572469
+[16:20:42] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> eh en vrai, son pont à Kévin, il est éclaté ?
+[16:20:47] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> mdr
+[16:23:21] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.4605409668804441
+[16:24:16] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.8062366575678819
+[16:24:45] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.4108466236395998
+[16:24:45] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.45897980665267823
+[16:24:45] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.4649158330392993
+[16:24:45] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.27228137945223807
+[16:24:45] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.32379604741811363
+[16:24:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.37519786917118836
+[16:24:52] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.47494071437211005
+[16:25:33] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.4651286807227848
+[16:29:17] [Async Chat Thread - #11/INFO]: <Shadowmere_Swift> j'ai refait un peu les stocks de bois aussi
+[16:29:30] [Async Chat Thread - #11/INFO]: <Arcabat> tu fais bien
+[16:35:10] [Async Chat Thread - #12/INFO]: <Arcabat> bon bah bébé villageois
+[16:35:18] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> ça a marché ?*
+[16:35:21] [Async Chat Thread - #12/INFO]: <Arcabat> oui le pont de kevin est pas ouf xD
+[16:35:23] [Async Chat Thread - #12/INFO]: <Arcabat> oui
+[16:35:28] [Async Chat Thread - #12/INFO]: <Arcabat> dans un autre village
+[16:35:29] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> ok cool ça
+[16:35:34] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> ah...
+[16:35:42] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> d'accord, je vais allé voir juste après
+[16:36:03] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> SInon j'ai merge tout mes coffres dans les principaux, je vais pas faire ma base de suite donc c'est plus simple
+[16:36:12] [Async Chat Thread - #12/INFO]: <Arcabat> dacc
+[16:37:35] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> mais tu exploites combien de village différent ?
+[16:37:45] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> j'ai l'impression tu les as tous fait
+[16:37:46] [Async Chat Thread - #13/INFO]: <Arcabat> 1 seul autre
+[16:37:57] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> ah ouais, déçu
+[16:37:59] [Async Chat Thread - #13/INFO]: <Arcabat> x)
+[16:40:20] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> si long de ranger les coffres
+[16:40:48] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> peut-être un jour j'aurai le courage de faire une goigantesque salle de coffres automatisé (avec genre 90% des items du jeu)
+[16:41:11] [Server thread/INFO]: Arcabat lost connection: Timed out
+[16:41:11] [Server thread/INFO]: Arcabat left the game
+[16:41:34] [User Authenticator #9/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[16:41:34] [Server thread/INFO]: Arcabat joined the game
+[16:41:34] [Server thread/INFO]: Arcabat[/46.193.65.177:64752] logged in with entity id 112484 at ([world]80.06103001447484, 73.0, 287.38018540036813)
+[16:41:38] [Async Chat Thread - #14/INFO]: <Arcabat> crash de co
+[16:41:42] [Async Chat Thread - #14/INFO]: <Arcabat> et oui
+[16:42:09] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> Oui salle des coffres ?
+[16:42:17] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> parce que j'ai pas posé de quesiton
+[16:42:28] [Async Chat Thread - #14/INFO]: <Arcabat> oui chiant de ranger les coffres
+[16:42:37] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> Ok
+[16:43:29] [Async Chat Thread - #14/INFO]: <Arcabat> Je quitte pour aujourd'hui ! je reviens demain dans la soirée ! tchao !
+[16:43:30] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[16:43:30] [Server thread/INFO]: Arcabat left the game
+[16:44:39] [User Authenticator #10/INFO]: UUID of player Helios_49 is e6e69f28-5b9c-458c-bcaf-b8091aba0a12
+[16:44:39] [Server thread/INFO]: Helios_49 joined the game
+[16:44:40] [Server thread/INFO]: Helios_49[/92.139.237.81:50723] logged in with entity id 112841 at ([world]56.74449913111343, 63.0, 276.24479141107565)
+[16:44:46] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> ahah trop drole
+[16:45:00] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> Baptiste s'est déco il y a 20 secondes, il revient demain
+[16:45:11] [Async Chat Thread - #15/INFO]: <Helios_49> Ah :')
+[16:45:40] [Async Chat Thread - #15/INFO]: <Helios_49> Bah bonjour en tout cas, je vais ptet pas jouer longtemps, aucune idée de ce que je vais faire
+[16:45:57] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> ta base ?
+[16:46:30] [Async Chat Thread - #15/INFO]: <Helios_49> Mouais... Flemme un peu
+[16:46:37] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> xD
+[16:47:20] [Async Chat Thread - #15/INFO]: <Helios_49> pourquoi y a un bateau en l'air ???
+[16:47:28] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> schéma de mécanisme pour remonter
+[16:47:32] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> un ascenseur en somme
+[16:47:45] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> tu mets pleins d'étages de bateau et clique droit à l'infini vers le haut
+[16:48:00] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> Car pas d'eau dans le nether
+[16:48:07] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> Donc pas de remontée facile
+[16:48:17] [Async Chat Thread - #15/INFO]: <Helios_49> Ok pourquoi pas c'est intéressant
+[16:48:27] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> J'ai pas trouvé mieux mais j'aimerai
+[16:55:51] [Async Chat Thread - #16/INFO]: <Helios_49> Où est le coffre à laine pour les villageois ?
+[16:56:21] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> A laine pour les villageois ? Je savaias pas que y'en avait un spécifique mais ça sera dans Autre (useless ?)
+[16:56:32] [Async Chat Thread - #16/INFO]: <Helios_49> Pour le baisodrome
+[16:56:42] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> AH disparu, car on l'a construit
+[16:56:46] [Async Chat Thread - #16/INFO]: <Helios_49> Ok !
+[16:57:05] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> je suis justement en train de récolter pour leur donner l'énergie d'agir
+[16:59:46] [Server thread/INFO]: Helios_49 has made the advancement [Ice Bucket Challenge]
+[16:59:58] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> seau de lave ?
+[17:00:25] [Async Chat Thread - #17/INFO]: <Helios_49> Nope j'ai pris de l'obsidienne, pour faire un portail du nether chez moi
+[17:00:33] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> ah oui c'est vrai
+[17:00:44] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> j'ai bougé le portail dans le nether
+[17:00:53] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> il est à la couche max, là ou c'est safe
+[17:01:32] [Async Chat Thread - #17/INFO]: <Helios_49> Ok ! Je savais pas que c'était possible, je pensais que ça l'aurait bougé dans l'overworld aussi, ou créé un nouveau quoi
+[17:01:34] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> du coup je te conseille (pour le long terme) de faire pareil comme ça on aura un réseau de route optimal
+[17:01:48] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> faut juste respecter les coordonnées
+[17:02:03] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> Rappel : coordonnées du nether = coordonnées de l'overwolrd / 87
+[17:02:07] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> 8*
+[17:02:09] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> pas 87
+[17:02:56] [Async Chat Thread - #17/INFO]: <Helios_49> De le mettre couche max donc ? Ok
+[17:03:28] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> Les coordonnées verticale on s'en fout ouais
+[17:07:02] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> ok ça baise
+[17:07:09] [Async Chat Thread - #18/INFO]: <Helios_49> Nice
+[17:07:25] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> on pourra bientot enchanter de manière très bien
+[17:07:58] [Async Chat Thread - #18/INFO]: <Helios_49> Et la ferme à fer du coup, vous l'avez commencée ?
+[17:08:06] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> nop, mais ça sera rapide à la fin
+[17:27:27] [Async Chat Thread - #19/INFO]: <Helios_49> C'est quoi la couche max du nether dont tu parles du coup ?
+[17:28:18] [Async Chat Thread - #19/INFO]: <Shadowmere_Swift> Dans le nether, le portail du camp se trouve en 9, 119, 39
+[17:28:36] [Async Chat Thread - #19/INFO]: <Shadowmere_Swift> Donc 119
+[17:35:15] [Async Chat Thread - #20/INFO]: <Shadowmere_Swift> bon, bah je dois retourner bosser, je reviens à 22:20 / 22:30
+[17:36:02] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[17:36:02] [Server thread/INFO]: Shadowmere_Swift left the game
+[18:27:01] [Server thread/INFO]: Helios_49 lost connection: Disconnected
+[18:27:01] [Server thread/INFO]: Helios_49 left the game

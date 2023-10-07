@@ -1,0 +1,46 @@
+[00:23:50] [User Authenticator #3/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[00:23:50] [Server thread/INFO]: Shadowmere_Swift joined the game
+[00:23:50] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:63160] logged in with entity id 6271 at ([world]385.5136784260925, 80.0, 850.7966561369269)
+[00:24:40] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[00:24:40] [Server thread/INFO]: Shadowmere_Swift left the game
+[00:25:35] [User Authenticator #4/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[00:25:35] [Server thread/INFO]: Shadowmere_Swift joined the game
+[00:25:35] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:63346] logged in with entity id 6869 at ([world]421.9588583377551, 79.0, 819.6077530782321)
+[00:29:42] [User Authenticator #5/INFO]: UUID of player Cheliness is 6eac5eb0-892d-466b-9c19-b798f3460bf0
+[00:29:42] [Server thread/INFO]: Cheliness joined the game
+[00:29:42] [Server thread/INFO]: Cheliness[/176.131.4.117:49798] logged in with entity id 7804 at ([world]493.65160727480344, 48.0, 149.63229735343097)
+[00:42:18] [Server thread/INFO]: Cheliness has made the advancement [Ice Bucket Challenge]
+[01:02:36] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[01:02:36] [Server thread/INFO]: Shadowmere_Swift left the game
+[01:02:37] [User Authenticator #6/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[01:02:37] [Server thread/INFO]: Shadowmere_Swift joined the game
+[01:02:37] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:63733] logged in with entity id 23947 at ([world]52.891379833574845, 83.5, 314.52206538218275)
+[01:02:54] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[01:02:54] [Server thread/INFO]: Shadowmere_Swift left the game
+[01:03:57] [User Authenticator #7/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[01:03:57] [Server thread/INFO]: Shadowmere_Swift joined the game
+[01:03:57] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:63889] logged in with entity id 24388 at ([world]57.73233775295581, 87.5, 310.2352780653401)
+[02:21:41] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.29384485904046187
+[02:21:50] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.523029569380526
+[02:21:50] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.477591500808785
+[02:24:31] [Server thread/INFO]: Cheliness has made the advancement [Enchanter]
+[02:30:00] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.35486554583025054
+[02:30:04] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.2879300165186578
+[02:47:06] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[02:47:06] [Server thread/INFO]: Shadowmere_Swift left the game
+[02:47:10] [Server thread/INFO]: Cheliness lost connection: Disconnected
+[02:47:10] [Server thread/INFO]: Cheliness left the game
+[05:00:22] [Server thread/INFO]: Stopping the server
+[05:00:22] [Server thread/INFO]: Stopping server
+[05:00:22] [Server thread/INFO]: Saving players
+[05:00:22] [Server thread/INFO]: Saving worlds
+[05:00:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:00:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:00:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:00:22] [Server thread/INFO]: Flushing Chunk IO
+[05:00:22] [Server thread/INFO]: Closing Thread Pool
+[05:00:22] [Server thread/INFO]: Closing Server

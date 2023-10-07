@@ -1,0 +1,73 @@
+[00:01:35] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> ton coffre perso c'est un bordel xD
+[00:01:40] [Async Chat Thread - #17/INFO]: <Arcabat> oui xD
+[00:03:59] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> j'avais oublié l'opulence d'xp du quartz
+[00:04:11] [Async Chat Thread - #18/INFO]: <Arcabat> c"est troooooooop rentable
+[00:06:31] [Async Chat Thread - #19/INFO]: <Shadowmere_Swift> je remet le mob griefing ?
+[00:06:38] [Async Chat Thread - #19/INFO]: <Arcabat> OUAIS
+[00:06:44] [Async Chat Thread - #19/INFO]: <Arcabat> on a assez de pnj
+[00:06:52] [Async Chat Thread - #19/INFO]: <Shadowmere_Swift> ah, ça a l'air d'etre urgent
+[00:06:59] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamerule mobGriefing true
+[00:07:03] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamerule mobGriefing false
+[00:10:45] [Async Chat Thread - #20/INFO]: <Arcabat> de ?
+[00:10:54] [Async Chat Thread - #20/INFO]: <Arcabat> ah non les majs pas fait exprès
+[00:11:01] [Async Chat Thread - #20/INFO]: <Shadowmere_Swift> ah ok ^^
+[00:12:12] [Async Chat Thread - #21/INFO]: <Shadowmere_Swift> les cubes de magma et la poudre lumineuse je vais essayer d'en prendre
+[00:12:21] [Async Chat Thread - #21/INFO]: <Shadowmere_Swift> potion de résistance au feu... au cas ou tu sais
+[00:12:32] [Async Chat Thread - #21/INFO]: <Arcabat> ah oui ça peut être utile ça
+[00:12:40] [Async Chat Thread - #21/INFO]: <Arcabat> meme si on a le keep inventory mtnt
+[00:12:59] [Async Chat Thread - #21/INFO]: <Shadowmere_Swift> ça me dérange plus de mourir, mais je vais continuer à jouer en faisant gaffe
+[00:13:09] [Async Chat Thread - #21/INFO]: <Arcabat> yep
+[00:24:25] [Async Chat Thread - #22/INFO]: <Shadowmere_Swift> et voilà, du lvl 1 à 30, en genre 30 mn de minage
+[00:24:31] [Async Chat Thread - #22/INFO]: <Arcabat> ah bah yes
+[00:26:22] [Async Chat Thread - #23/INFO]: <Shadowmere_Swift> 1er ghast seulement
+[00:26:35] [Async Chat Thread - #23/INFO]: <Arcabat> ah oui ça met du temps
+[00:26:47] [Async Chat Thread - #23/INFO]: <Shadowmere_Swift> et il est trop loin pour que je le vois
+[00:30:54] [Async Chat Thread - #24/INFO]: <Shadowmere_Swift> 1ère larme... wouhou
+[00:30:59] [Async Chat Thread - #24/INFO]: <Arcabat> gg
+[00:41:01] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[00:41:01] [Server thread/INFO]: Arcabat left the game
+[00:41:05] [User Authenticator #5/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[00:41:05] [Server thread/INFO]: Arcabat joined the game
+[00:41:05] [Server thread/INFO]: Arcabat[/46.193.65.177:49589] logged in with entity id 58347 at ([world]84.244128536295, 66.0, 297.85347079528185)
+[00:41:32] [Async Chat Thread - #25/INFO]: <Arcabat> Je vais dormir ! a demain si tu joues !
+[00:41:34] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[00:41:34] [Server thread/INFO]: Arcabat left the game
+[01:10:43] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.5497691042489237
+[01:10:43] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 1.1013529289459143
+[01:11:45] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.4412630255453678
+[01:11:45] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.36759029460665715
+[01:17:09] [Async Chat Thread - #26/INFO]: <Shadowmere_Swift> 604 1809
+[01:17:46] [Async Chat Thread - #26/INFO]: <Shadowmere_Swift> 75 226
+[01:18:05] [Server thread/INFO]: Shadowmere_Swift has made the advancement [The End?]
+[01:18:05] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[01:18:05] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[01:23:06] [Server thread/INFO]: Shadowmere_Swift fell from a high place
+[01:23:23] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamerule keepInventory true
+[01:23:40] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[01:24:50] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[01:33:15] [Server thread/INFO]: Shadowmere_Swift fell from a high place
+[01:33:32] [Server thread/INFO]: Shadowmere_Swift issued server command: /tp 604 -21 1809
+[01:33:32] [Server thread/WARN]: Shadowmere_Swift moved too quickly! 186.0,-126.0,972.0
+[01:33:38] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[01:33:43] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[01:33:49] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[01:34:56] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[01:37:40] [Server thread/INFO]: Shadowmere_Swift has made the advancement [Free the End]
+[01:38:17] [Server thread/INFO]: Shadowmere_Swift has reached the goal [The Next Generation]
+[01:38:53] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[01:40:03] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[01:42:28] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[01:42:28] [Server thread/INFO]: Shadowmere_Swift left the game
+[05:00:27] [Server thread/INFO]: Stopping the server
+[05:00:27] [Server thread/INFO]: Stopping server
+[05:00:27] [Server thread/INFO]: Saving players
+[05:00:28] [Server thread/INFO]: Saving worlds
+[05:00:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:00:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:00:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:00:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:00:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:00:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:00:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:00:28] [Server thread/INFO]: Flushing Chunk IO
+[05:00:28] [Server thread/INFO]: Closing Thread Pool

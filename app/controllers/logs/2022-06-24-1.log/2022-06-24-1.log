@@ -1,0 +1,101 @@
+[00:10:18] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.47101467659024365
+[00:10:53] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.2934648720571431
+[00:11:28] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.38188427387257207
+[00:11:28] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.3936785831517682
+[00:11:28] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.40549964415492923
+[00:11:28] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.41753504066934966
+[00:11:28] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.4303272791614745
+[00:11:28] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.44381346872734184
+[00:11:28] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.4576803608254636
+[00:11:28] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.4715195566444095
+[00:11:29] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.4853342947113788
+[00:11:29] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.49914203026298765
+[00:12:39] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.46826434006106865
+[00:12:39] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.48451610084862295
+[00:12:39] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.4988352669748224
+[00:12:39] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[00:12:39] [Server thread/INFO]: Shadowmere_Swift left the game
+[00:12:41] [User Authenticator #7/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[00:12:41] [Server thread/INFO]: Shadowmere_Swift joined the game
+[00:12:42] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:62268] logged in with entity id 26596 at ([world]418.1117700449701, 79.0, 824.0856053762355)
+[00:15:27] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[00:15:27] [Server thread/INFO]: Shadowmere_Swift left the game
+[00:15:28] [User Authenticator #8/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[00:15:28] [Server thread/INFO]: Shadowmere_Swift joined the game
+[00:15:28] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:62314] logged in with entity id 27336 at ([world]392.39483241303486, 79.0, 833.4473026685054)
+[00:32:02] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.359789729629199
+[00:34:30] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.4348614921742069
+[00:43:49] [Server thread/WARN]: Furfild (vehicle of Cheliness) moved wrongly! 0.2562632059864427
+[00:43:51] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.4885593346556334
+[00:58:27] [Server thread/INFO]: Cheliness has made the advancement [Stone Age]
+[01:07:28] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[01:07:35] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[01:26:23] [Server thread/INFO]: Cheliness has made the advancement [Diamonds!]
+[02:33:28] [Server thread/INFO]: Cheliness fell from a high place
+[02:36:28] [Server thread/INFO]: Cheliness was burnt to a crisp whilst fighting Shadowmere_Swift
+[02:37:01] [Server thread/INFO]: Shadowmere_Swift issued server command: /tp Cheliness Shadowmere_Swift
+[02:37:10] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[02:37:11] [Server thread/INFO]: Cheliness fell from a high place
+[02:37:16] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[02:37:18] [Server thread/INFO]: Shadowmere_Swift issued server command: /tp Cheliness Shadowmere_Swift
+[02:38:44] [Server thread/INFO]: Cheliness drowned
+[02:38:44] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:regeneration 100 100
+[02:39:02] [Server thread/INFO]: Shadowmere_Swift issued server command: /tp Cheliness Shadowmere_Swift
+[02:40:43] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:resistance 100 100
+[02:41:10] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:resistance 1000 255
+[02:41:15] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:regeneration 1000 255
+[02:42:08] [Server thread/INFO]: Shadowmere_Swift issued server command: /give Cheliness minecraft:milk_bucket 1
+[02:43:14] [Server thread/INFO]: Shadowmere_Swift issued server command: /clear Cheliness
+[02:44:09] [Server thread/INFO]: Shadowmere_Swift issued server command: /give Cheliness minecraft:red_mushroom 1
+[02:45:35] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:jump_boost 1000 255
+[02:45:59] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:jump_boost 1000 25
+[02:46:11] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect clear Cheliness
+[02:46:13] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:jump_boost 1000 25
+[02:47:57] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:regeneration 1000 255
+[02:49:37] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:jump_boost 1000 50
+[02:49:44] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:resistance 1000 255
+[02:50:58] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:speed 1000 255
+[02:51:05] [Server thread/WARN]: Cheliness moved wrongly!
+[02:51:14] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:haste 1000 255
+[02:51:52] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:absorption 1000 255
+[02:51:58] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:dolphins_grace 1000 255
+[02:52:07] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:health_boost 1000 255
+[02:52:25] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:glowing 1000 255
+[02:52:34] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:fire_resistance 1000 255
+[02:52:51] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:invisibility 1000 255
+[02:53:13] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:levitation 1000 255
+[02:53:33] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:slow_falling 1000 255
+[02:54:37] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect clear Cheliness
+[02:54:49] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[02:55:06] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[02:55:15] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[02:57:08] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[02:57:26] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[02:58:04] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:levitation 1000 25
+[02:58:06] [Server thread/INFO]: Cheliness has completed the challenge [Great View From Up Here]
+[02:58:37] [Server thread/INFO]: Shadowmere_Swift issued server command: /tp Cheliness Shadowmere_Swift
+[02:58:53] [Server thread/INFO]: Shadowmere_Swift issued server command: /tp Cheliness Shadowmere_Swift
+[02:58:53] [Server thread/WARN]: Cheliness moved too quickly! -3.629977061728198,-5.700000047683716,-15.579006045461597
+[03:00:09] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect clear Cheliness
+[03:00:34] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[03:00:35] [Server thread/INFO]: Cheliness fell from a high place
+[03:00:53] [Server thread/INFO]: Shadowmere_Swift issued server command: /tp Cheliness Shadowmere_Swift
+[03:01:14] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[03:01:19] [Server thread/INFO]: Cheliness lost connection: Disconnected
+[03:01:19] [Server thread/INFO]: Cheliness left the game
+[03:01:22] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[03:01:22] [Server thread/INFO]: Shadowmere_Swift left the game
+[05:00:29] [Server thread/INFO]: Stopping the server
+[05:00:29] [Server thread/INFO]: Stopping server
+[05:00:29] [Server thread/INFO]: Saving players
+[05:00:29] [Server thread/INFO]: Saving worlds
+[05:00:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:00:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:00:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:00:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:00:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:00:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:00:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:00:30] [Server thread/INFO]: Flushing Chunk IO
+[05:00:30] [Server thread/INFO]: Closing Thread Pool
+[05:00:30] [Server thread/INFO]: Closing Server

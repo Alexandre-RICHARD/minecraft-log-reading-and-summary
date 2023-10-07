@@ -1,0 +1,62 @@
+[05:09:45] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:09:45] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:09:46] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:09:48] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:09:48] [Server thread/INFO]: Loading properties
+[05:09:49] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:09:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:09:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:09:49] [Server thread/INFO]: Default game type: SURVIVAL
+[05:09:49] [Server thread/INFO]: Generating keypair
+[05:09:49] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:09:49] [Server thread/INFO]: Using epoll channel type
+[05:09:49] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:09:49] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:09:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:09:50] [Server thread/INFO]: Preparing level "world"
+[05:09:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:09:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:54] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:54] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:55] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:55] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:56] [Server thread/INFO]: Time elapsed: 4208 ms
+[05:09:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:09:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:57] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:57] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:58] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:58] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:59] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:59] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:00] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:00] [Server thread/INFO]: Time elapsed: 3675 ms
+[05:10:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:10:00] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:00] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:01] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:01] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:02] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:02] [Server thread/INFO]: Time elapsed: 2464 ms
+[05:10:02] [Server thread/INFO]: Starting GS4 status listener
+[05:10:03] [Server thread/INFO]: Thread Query Listener started
+[05:10:03] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:10:03] [Server thread/INFO]: Running delayed init tasks
+[05:10:03] [Server thread/INFO]: Done (14.389s)! For help, type "help"
+[05:10:03] [Server thread/INFO]: Timings Reset
+[16:18:15] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[16:18:16] [Server thread/INFO]: Shadowmere_Swift joined the game
+[16:18:16] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64995] logged in with entity id 355 at ([world_nether]498.5043813221011, 15.0, 32.37982928545775)
+[17:13:01] [Server thread/INFO]: Shadowmere_Swift has completed the challenge [Serious Dedication]
+[17:13:18] [Server thread/INFO]: Shadowmere_Swift has completed the challenge [Cover Me in Debris]
+[17:21:18] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> 402 829
+[17:21:23] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> 398 829
+[18:39:03] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[18:39:03] [Server thread/INFO]: Shadowmere_Swift left the game
+[22:15:58] [User Authenticator #2/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[22:15:58] [Server thread/INFO]: Shadowmere_Swift joined the game
+[22:15:58] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63874] logged in with entity id 34944 at ([world]415.75411250991687, 79.0, 827.0729708351477)

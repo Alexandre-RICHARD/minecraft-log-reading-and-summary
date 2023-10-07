@@ -1,0 +1,14 @@
+[15:26:25] [Server thread/INFO]: Stopping the server
+[15:26:25] [Server thread/INFO]: Stopping server
+[15:26:25] [Server thread/INFO]: Saving players
+[15:26:25] [Server thread/INFO]: Saving worlds
+[15:26:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:26:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:26:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:26:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:26:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:26:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:26:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:26:26] [Server thread/INFO]: Flushing Chunk IO
+[15:26:26] [Server thread/INFO]: Closing Thread Pool
+[15:26:26] [Server thread/INFO]: Closing Server

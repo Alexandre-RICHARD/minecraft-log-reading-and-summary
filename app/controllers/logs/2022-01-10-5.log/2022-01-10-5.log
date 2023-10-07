@@ -1,0 +1,77 @@
+[23:05:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:05:35] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[23:05:35] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[23:05:36] [Worker-Main-1/INFO]: Loaded 7 recipes
+[23:05:37] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[23:05:37] [Server thread/INFO]: Loading properties
+[23:05:38] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[23:05:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:05:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:05:38] [Server thread/INFO]: Default game type: SURVIVAL
+[23:05:38] [Server thread/INFO]: Generating keypair
+[23:05:38] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[23:05:38] [Server thread/INFO]: Using epoll channel type
+[23:05:38] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:05:38] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:05:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:05:38] [Server thread/INFO]: Preparing level "world"
+[23:05:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:05:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:05:47] [Server thread/INFO]: Time elapsed: 231 ms
+[23:05:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:05:47] [Server thread/INFO]: Time elapsed: 394 ms
+[23:05:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:05:48] [Server thread/INFO]: Time elapsed: 402 ms
+[23:05:48] [Server thread/INFO]: Starting GS4 status listener
+[23:05:48] [Server thread/INFO]: Thread Query Listener started
+[23:05:48] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[23:05:48] [Server thread/INFO]: Running delayed init tasks
+[23:05:48] [Server thread/INFO]: Done (10.391s)! For help, type "help"
+[23:05:48] [Server thread/INFO]: Timings Reset
+[23:05:49] [User Authenticator #1/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[23:05:50] [Server thread/INFO]: Arcabat joined the game
+[23:05:50] [Server thread/INFO]: Arcabat[/46.193.65.177:61866] logged in with entity id 1 at ([world]42.5, 65.0, 283.5)
+[23:05:51] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[23:05:51] [Server thread/INFO]: Shadowmere_Swift joined the game
+[23:05:51] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65085] logged in with entity id 2 at ([world]40.5, 65.0, 283.5)
+[23:05:53] [User Authenticator #1/INFO]: UUID of player Helios_49 is e6e69f28-5b9c-458c-bcaf-b8091aba0a12
+[23:05:53] [Server thread/INFO]: Helios_49 joined the game
+[23:05:53] [Server thread/INFO]: Helios_49[/90.49.197.114:62756] logged in with entity id 3 at ([world]32.5, 70.0, 296.5)
+[23:06:48] [Server thread/INFO]: Arcabat has made the advancement [Stone Age]
+[23:07:20] [Server thread/INFO]: Arcabat has made the advancement [Getting an Upgrade]
+[23:07:41] [Server thread/INFO]: Shadowmere_Swift has made the advancement [Stone Age]
+[23:08:35] [Server thread/INFO]: Shadowmere_Swift has made the advancement [Getting an Upgrade]
+[23:09:46] [Server thread/INFO]: Helios_49 has made the advancement [Stone Age]
+[23:10:38] [Server thread/INFO]: Helios_49 has made the advancement [Getting an Upgrade]
+[23:11:41] [User Authenticator #2/INFO]: UUID of player Helios_49 is e6e69f28-5b9c-458c-bcaf-b8091aba0a12
+[23:11:41] [Server thread/INFO]: Helios_49 lost connection: You logged in from another location
+[23:11:41] [Server thread/INFO]: Helios_49 left the game
+[23:11:41] [Server thread/INFO]: Helios_49 joined the game
+[23:11:41] [Server thread/INFO]: Helios_49[/90.49.197.114:52655] logged in with entity id 1593 at ([world]41.62621839701179, 71.07368332210608, 302.30000001192093)
+[23:16:08] [Server thread/INFO]: Shadowmere_Swift has made the advancement [Monster Hunter]
+[23:16:28] [Server thread/INFO]: Helios_49 was slain by Zombie
+[23:18:53] [Server thread/INFO]: Arcabat has made the advancement [Monster Hunter]
+[23:19:16] [Server thread/INFO]: Helios_49 has made the advancement [Monster Hunter]
+[23:19:20] [Server thread/INFO]: Arcabat was shot by Skeleton
+[23:22:04] [Server thread/INFO]: Helios_49 was shot by Skeleton
+[23:22:15] [Server thread/WARN]: Helios_49 moved too quickly! -3.0484629233257934,2.5131759009621106,12.233510529569287
+[23:41:15] [Server thread/INFO]: Helios_49 lost connection: Disconnected
+[23:41:15] [Server thread/INFO]: Helios_49 left the game
+[23:41:17] [User Authenticator #3/INFO]: UUID of player Helios_49 is e6e69f28-5b9c-458c-bcaf-b8091aba0a12
+[23:41:17] [Server thread/INFO]: Helios_49 joined the game
+[23:41:17] [Server thread/INFO]: Helios_49[/90.49.197.114:60173] logged in with entity id 10350 at ([world]76.5900415880261, 12.0, 241.33550548138012)
+[23:41:31] [Server thread/INFO]: Arcabat has made the advancement [Acquire Hardware]
+[23:42:06] [Server thread/INFO]: Arcabat has made the advancement [Isn't It Iron Pick]
+[23:45:43] [Server thread/WARN]: Helios_49 moved too quickly! -1.6079166491815613,0.17314130427418917,9.981711797647108
+[23:50:33] [User Authenticator #4/INFO]: UUID of player Helios_49 is e6e69f28-5b9c-458c-bcaf-b8091aba0a12
+[23:50:33] [Server thread/INFO]: Helios_49 lost connection: You logged in from another location
+[23:50:33] [Server thread/INFO]: Helios_49 left the game
+[23:50:33] [Server thread/INFO]: Helios_49 joined the game
+[23:50:33] [Server thread/INFO]: Helios_49[/90.49.197.114:61016] logged in with entity id 12803 at ([world]162.16897200999082, 32.0, 399.6159091983028)
+[23:55:33] [Server thread/INFO]: Arcabat has made the advancement [Suit Up]
+[23:59:04] [Server thread/INFO]: Shadowmere_Swift has made the advancement [Sweet Dreams]
+[23:59:06] [Server thread/INFO]: Arcabat has made the advancement [Sweet Dreams]
+[23:59:11] [Server thread/INFO]: Helios_49 has made the advancement [Sweet Dreams]
+[23:59:30] [Server thread/INFO]: Helios_49 has made the advancement [Acquire Hardware]
+[23:59:45] [Server thread/INFO]: Helios_49 has made the advancement [Isn't It Iron Pick]
+[23:59:58] [Server thread/INFO]: Helios_49 has made the advancement [Suit Up]

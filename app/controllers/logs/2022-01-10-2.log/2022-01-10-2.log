@@ -1,0 +1,61 @@
+[22:07:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:07:57] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[22:07:57] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[22:07:58] [Worker-Main-1/INFO]: Loaded 7 recipes
+[22:07:59] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[22:07:59] [Server thread/INFO]: Loading properties
+[22:07:59] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[22:08:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:08:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:08:00] [Server thread/INFO]: Default game type: SURVIVAL
+[22:08:00] [Server thread/INFO]: Generating keypair
+[22:08:00] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[22:08:00] [Server thread/INFO]: Using epoll channel type
+[22:08:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:08:00] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:08:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:08:00] [Server thread/INFO]: Preparing level "world"
+[22:08:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:08:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:08:08] [Server thread/INFO]: Time elapsed: 241 ms
+[22:08:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:08:09] [Server thread/INFO]: Time elapsed: 276 ms
+[22:08:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:08:09] [Server thread/INFO]: Time elapsed: 332 ms
+[22:08:09] [Server thread/INFO]: Starting GS4 status listener
+[22:08:09] [Server thread/INFO]: Thread Query Listener started
+[22:08:09] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[22:08:09] [Server thread/INFO]: Running delayed init tasks
+[22:08:09] [Server thread/INFO]: Done (9.588s)! For help, type "help"
+[22:08:09] [Server thread/INFO]: Timings Reset
+[22:08:18] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[22:08:18] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5f19673[id=ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb,name=Shadowmere_Swift,properties={textures=[com.mojang.authlib.properties.Property@64c01ad7]},legacy=false] (/81.220.197.61:63642): You are not whitelisted on this server!
+[22:08:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f19673[id=ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb,name=Shadowmere_Swift,properties={textures=[com.mojang.authlib.properties.Property@64c01ad7]},legacy=false] (/81.220.197.61:63642) lost connection: You are not whitelisted on this server!
+[22:08:23] [Server thread/INFO]: Incorrect argument for command
+[22:08:23] [Server thread/INFO]: whitelist Shadowmere<--[HERE]
+[22:08:31] [Server thread/INFO]: Made Shadowmere a server operator
+[22:08:33] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[22:08:33] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7135519[id=ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb,name=Shadowmere_Swift,properties={textures=[com.mojang.authlib.properties.Property@607cfcdc]},legacy=false] (/81.220.197.61:63554): You are not whitelisted on this server!
+[22:08:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@7135519[id=ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb,name=Shadowmere_Swift,properties={textures=[com.mojang.authlib.properties.Property@607cfcdc]},legacy=false] (/81.220.197.61:63554) lost connection: You are not whitelisted on this server!
+[22:08:41] [Server thread/INFO]: Made Shadowmere_Swift a server operator
+[22:08:53] [Server thread/INFO]: Incorrect argument for command
+[22:08:53] [Server thread/INFO]: whitelist Shadowmere_Swift<--[HERE]
+[22:09:00] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[22:09:00] [Server thread/INFO]: Shadowmere_Swift joined the game
+[22:09:00] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65032] logged in with entity id 118 at ([world]35.5, 66.0, 286.5)
+[22:09:06] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[22:09:06] [Server thread/INFO]: Shadowmere_Swift left the game
+[22:09:18] [Server thread/INFO]: Stopping the server
+[22:09:18] [Server thread/INFO]: Stopping server
+[22:09:18] [Server thread/INFO]: Saving players
+[22:09:18] [Server thread/INFO]: Saving worlds
+[22:09:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:09:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:09:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:09:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:09:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:09:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:09:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:09:19] [Server thread/INFO]: Flushing Chunk IO
+[22:09:19] [Server thread/INFO]: Closing Thread Pool
+[22:09:19] [Server thread/INFO]: Closing Server

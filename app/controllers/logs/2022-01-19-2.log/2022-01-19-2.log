@@ -1,0 +1,377 @@
+[05:09:46] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:09:47] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:09:50] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:09:58] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:09:58] [Server thread/INFO]: Loading properties
+[05:09:58] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:09:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:09:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:09:59] [Server thread/INFO]: Default game type: SURVIVAL
+[05:09:59] [Server thread/INFO]: Generating keypair
+[05:10:00] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:10:00] [Server thread/INFO]: Using epoll channel type
+[05:10:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:10:00] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:10:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:10:01] [Server thread/INFO]: Preparing level "world"
+[05:10:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:10:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:09] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:09] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:10] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:10] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:11] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:11] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:12] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:12] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:13] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:13] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:14] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:14] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:15] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:15] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:16] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:16] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:17] [Server thread/INFO]: Time elapsed: 11299 ms
+[05:10:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:10:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:18] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:18] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:19] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:19] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:21] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:21] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:22] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:24] [Server thread/INFO]: Time elapsed: 7650 ms
+[05:10:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:10:25] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:25] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:26] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:26] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:28] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:28] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:28] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:29] [Server thread/INFO]: Time elapsed: 4331 ms
+[05:10:29] [Server thread/INFO]: Starting GS4 status listener
+[05:10:29] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:10:29] [Server thread/INFO]: Thread Query Listener started
+[05:10:29] [Server thread/INFO]: Running delayed init tasks
+[05:10:29] [Server thread/INFO]: Done (31.334s)! For help, type "help"
+[05:10:29] [Server thread/INFO]: Timings Reset
+[05:13:52] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[05:13:53] [Server thread/INFO]: Shadowmere_Swift joined the game
+[05:13:53] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63943] logged in with entity id 300 at ([world]169.69999998807907, 26.0, 364.69999998807907)
+[05:13:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5057ms or 101 ticks behind
+[05:14:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
+[05:15:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5386ms or 107 ticks behind
+[06:11:34] [Server thread/INFO]: Villager EntityVillager['Librarian'/88, uuid='fe8b638e-51cd-497d-b7d6-e349c40b6da8', l='ServerLevel[world]', x=168.59, y=26.56, z=355.46, cpos=[10, 22], tl=2034389, v=true] died, message: 'Librarian burned to death'
+[06:11:57] [Server thread/INFO]: Villager EntityVillager['Librarian'/93, uuid='aade343e-1775-44e6-8a02-7501b9721c45', l='ServerLevel[world]', x=174.49, y=26.33, z=378.41, cpos=[10, 23], tl=2031482, v=true] died, message: 'Librarian burned to death'
+[06:12:19] [Server thread/INFO]: Villager EntityVillager['Librarian'/95, uuid='65cae2c5-f268-435f-8df2-b364386b53ce', l='ServerLevel[world]', x=169.32, y=26.48, z=373.49, cpos=[10, 23], tl=1953684, v=true] died, message: 'Librarian tried to swim in lava'
+[06:12:49] [Server thread/INFO]: Villager EntityVillager['Librarian'/6797, uuid='62f0d7b6-45aa-4da0-9a0d-30f39cb1aea0', l='ServerLevel[world]', x=197.69, y=26.56, z=369.64, cpos=[12, 23], tl=2015683, v=true] died, message: 'Librarian burned to death'
+[06:59:27] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[06:59:45] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[07:07:36] [Server thread/INFO]: Villager EntityVillager['Villager'/19323, uuid='93024a33-7283-4145-bffb-e244682ffdfb', l='ServerLevel[world]', x=191.83, y=26.00, z=352.14, cpos=[11, 22], tl=6856, v=true] died, message: 'Villager burned to death'
+[07:08:50] [Server thread/INFO]: Villager EntityVillager['Villager'/18102, uuid='b440c91a-fe40-413a-9105-d908f60429cb', l='ServerLevel[world]', x=186.53, y=27.00, z=354.80, cpos=[11, 22], tl=16922, v=true] died, message: 'Villager burned to death'
+[07:27:18] [Server thread/INFO]: Villager EntityVillager['Villager'/19338, uuid='0db90848-8749-4fda-a4aa-d21f83efc9e9', l='ServerLevel[world]', x=178.94, y=26.05, z=361.21, cpos=[11, 22], tl=30364, v=true] died, message: 'Villager tried to swim in lava'
+[07:30:51] [Server thread/INFO]: Villager EntityVillager['Villager'/18876, uuid='1785464b-448f-4c35-b143-58d9d90ad905', l='ServerLevel[world]', x=173.30, y=26.56, z=360.30, cpos=[10, 22], tl=38999, v=true] died, message: 'Villager tried to swim in lava'
+[07:32:24] [Server thread/INFO]: Villager EntityVillager['Villager'/9072, uuid='5800c805-cfaf-44a6-b5f9-941555b40019', l='ServerLevel[world]', x=169.05, y=26.82, z=373.30, cpos=[10, 23], tl=92470, v=true] died, message: 'Villager burned to death'
+[07:46:42] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> bouton en pierre à rajouter
+[07:47:54] [Server thread/INFO]: Villager EntityVillager['Villager'/9974, uuid='eb54e3d5-b229-47c1-9676-cba1c72734e8', l='ServerLevel[world]', x=192.17, y=26.00, z=369.61, cpos=[12, 23], tl=102675, v=true] died, message: 'Villager tried to swim in lava'
+[07:48:18] [Server thread/INFO]: Villager EntityVillager['Villager'/18065, uuid='ecd63cc5-5c93-409f-ba21-2e342043a2a2', l='ServerLevel[world]', x=192.59, y=26.56, z=370.33, cpos=[12, 23], tl=64709, v=true] died, message: 'Villager burned to death'
+[07:49:21] [Server thread/INFO]: Villager EntityVillager['Villager'/19334, uuid='f4153650-367d-45d5-b29b-ed72ca2c4e12', l='ServerLevel[world]', x=187.70, y=26.09, z=369.35, cpos=[11, 23], tl=56897, v=true] died, message: 'Villager tried to swim in lava'
+[07:49:22] [Server thread/INFO]: Villager EntityVillager['Villager'/18071, uuid='f8fa65d4-867b-4db4-8ea1-8af0465f40d9', l='ServerLevel[world]', x=187.65, y=26.11, z=370.56, cpos=[11, 23], tl=65952, v=true] died, message: 'Villager tried to swim in lava'
+[07:51:14] [Server thread/INFO]: Villager EntityVillager['Villager'/16816, uuid='5c75f9da-ff18-4514-8e6b-841abdedd0ee', l='ServerLevel[world]', x=186.49, y=27.00, z=388.50, cpos=[11, 24], tl=81469, v=true] died, message: 'Villager tried to swim in lava'
+[07:51:24] [Server thread/INFO]: Villager EntityVillager['Villager'/16710, uuid='c2177e5c-2a8b-4b03-af42-30d307d49ffd', l='ServerLevel[world]', x=179.57, y=27.01, z=383.83, cpos=[11, 23], tl=82749, v=true] died, message: 'Villager tried to swim in lava'
+[08:13:36] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[08:13:42] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[08:31:39] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[08:32:00] [Server thread/INFO]: Villager EntityVillager['Librarian'/18127, uuid='4210491a-0c90-43dd-ab3b-c38f7b46a6fd', l='ServerLevel[world]', x=179.13, y=27.03, z=355.60, cpos=[11, 22], tl=116391, v=true] died, message: 'Librarian tried to swim in lava'
+[08:32:33] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[08:32:53] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[08:32:59] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[08:34:56] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[08:35:28] [Server thread/INFO]: Villager EntityVillager['Librarian'/6792, uuid='0fbbf18a-25fd-4a22-ad2b-18d9c128649f', l='ServerLevel[world]', x=197.42, y=26.56, z=364.55, cpos=[12, 22], tl=2220939, v=true] died, message: 'Librarian burned to death'
+[08:35:40] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[08:43:26] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[08:43:37] [Server thread/INFO]: Villager EntityVillager['Librarian'/6793, uuid='7f2524ef-9b4b-45cc-ba47-d3b863a91633', l='ServerLevel[world]', x=191.74, y=27.05, z=355.48, cpos=[11, 22], tl=2220882, v=true] died, message: 'Librarian tried to swim in lava'
+[08:43:52] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[08:47:46] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[08:47:52] [Server thread/INFO]: Villager EntityVillager['Librarian'/6791, uuid='99b31e70-e5df-422d-aad0-b75d45405c4c', l='ServerLevel[world]', x=197.26, y=26.56, z=360.47, cpos=[12, 22], tl=2107736, v=true] died, message: 'Librarian tried to swim in lava'
+[08:48:00] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[08:50:53] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[08:51:02] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[08:51:15] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[08:51:24] [Server thread/INFO]: Villager EntityVillager['Librarian'/5048, uuid='08392ef9-ca25-4746-92a5-30a398c7edc9', l='ServerLevel[world]', x=191.91, y=26.82, z=360.56, cpos=[11, 22], tl=2230832, v=true] died, message: 'Librarian tried to swim in lava'
+[08:51:37] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[08:56:56] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[08:57:01] [Server thread/INFO]: Villager EntityVillager['Librarian'/5011, uuid='5839c0dd-eeb2-4a51-9ca9-19264709a99f', l='ServerLevel[world]', x=168.74, y=26.77, z=373.48, cpos=[10, 23], tl=2250911, v=true] died, message: 'Librarian tried to swim in lava'
+[08:57:14] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[09:00:59] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[09:01:10] [Server thread/INFO]: Villager EntityVillager['Librarian'/5022, uuid='bd717f85-2015-4cf8-8337-b82a9d64b00b', l='ServerLevel[world]', x=187.46, y=26.56, z=369.59, cpos=[11, 23], tl=2220253, v=true] died, message: 'Librarian burned to death'
+[09:01:19] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[09:02:58] [Server thread/INFO]: Villager EntityVillager['Librarian'/19328, uuid='4f4ae5e8-e10b-4466-8ca0-9333ff0110b2', l='ServerLevel[world]', x=173.72, y=26.77, z=360.55, cpos=[10, 22], tl=145297, v=true] died, message: 'Librarian tried to swim in lava'
+[09:03:03] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[09:03:10] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[09:03:17] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[09:03:55] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[09:08:52] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[09:08:56] [Server thread/INFO]: Villager EntityVillager['Librarian'/31285, uuid='a489dec6-b915-413d-9b15-349bd9d4816a', l='ServerLevel[world]', x=197.21, y=26.77, z=364.47, cpos=[12, 22], tl=40098, v=true] died, message: 'Librarian tried to swim in lava'
+[09:09:01] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[09:12:42] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[09:12:51] [Server thread/INFO]: Villager EntityVillager['Librarian'/5021, uuid='3b0e7d41-77e6-4b0d-9b04-c90963d823b1', l='ServerLevel[world]', x=178.75, y=26.94, z=373.50, cpos=[11, 23], tl=2234778, v=true] died, message: 'Librarian tried to swim in lava'
+[09:13:05] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[09:16:46] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[09:16:51] [Server thread/INFO]: Villager EntityVillager['Librarian'/5023, uuid='496ceb34-b3af-43f6-96ff-61914c8ddd87', l='ServerLevel[world]', x=179.25, y=27.05, z=378.54, cpos=[11, 23], tl=2256948, v=true] died, message: 'Librarian tried to swim in lava'
+[09:17:04] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[09:26:33] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[09:26:33] [Server thread/INFO]: Shadowmere_Swift left the game
+[10:56:15] [User Authenticator #2/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[10:56:15] [Server thread/INFO]: Arcabat joined the game
+[10:56:15] [Server thread/INFO]: Arcabat[/46.193.65.177:52251] logged in with entity id 36643 at ([world]182.68602351214366, 26.0, 386.3789723248316)
+[13:14:28] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[13:14:28] [Server thread/INFO]: Arcabat left the game
+[13:56:41] [User Authenticator #3/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[13:56:41] [Server thread/INFO]: Arcabat joined the game
+[13:56:41] [Server thread/INFO]: Arcabat[/46.193.65.177:56486] logged in with entity id 57691 at ([world]182.57197873426924, 26.0, 363.2230957594643)
+[14:06:03] [User Authenticator #4/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[14:06:03] [Server thread/INFO]: Shadowmere_Swift joined the game
+[14:06:03] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63902] logged in with entity id 58839 at ([world]86.06811247156011, 73.875, 302.62939568518124)
+[14:06:09] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> Yo pepito
+[14:08:03] [Async Chat Thread - #2/INFO]: <Arcabat> yop
+[14:08:15] [Async Chat Thread - #2/INFO]: <Arcabat> je me fais a bouffer, donc si je rep pas c'est normal
+[14:08:19] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> ok
+[14:08:27] [Async Chat Thread - #2/INFO]: <Arcabat> j'ai trouvé perforation IV pour 39
+[14:08:35] [Async Chat Thread - #2/INFO]: <Arcabat> et fléau des arthro pour 25
+[14:08:41] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> ouais j'ai vu on a tout c'est beau
+[14:08:45] [Async Chat Thread - #2/INFO]: <Arcabat> yep
+[14:08:53] [Async Chat Thread - #2/INFO]: <Arcabat> juste le tranchant 5 qui est relou
+[14:10:27] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[14:10:41] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[14:14:22] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> Oui mais bon, on fera avec
+[14:17:05] [Async Chat Thread - #4/INFO]: <Arcabat> Clairement oui ! ça fait 2 heures que j'essaye de l'avoir, je l'ai vu passer 2 fois et c'était 53 et 62...
+[14:18:33] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> Perso, je suis satisfait de ce qu'on a
+[14:18:42] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> Maintenant, place au reste
+[14:18:52] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> je re
+[14:18:53] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[14:18:53] [Server thread/INFO]: Shadowmere_Swift left the game
+[14:38:58] [User Authenticator #5/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[14:38:58] [Server thread/INFO]: Shadowmere_Swift joined the game
+[14:38:58] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63562] logged in with entity id 63234 at ([world]83.05237600598038, 74.0, 293.05155905688787)
+[14:39:04] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> ok ok re
+[14:39:06] [Async Chat Thread - #6/INFO]: <Arcabat> re
+[14:40:17] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> Je vais nous faire une carrière de sable
+[14:40:24] [Async Chat Thread - #7/INFO]: <Arcabat> comment ?
+[14:40:39] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> Je vais juste trouver un désert "moche" et le creuser
+[14:40:46] [Async Chat Thread - #7/INFO]: <Arcabat> ah x)
+[14:40:58] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> ouais t'attends pas à un truc de ouf
+[14:41:07] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> j'ai besoin de pas mal de sable
+[14:41:09] [Async Chat Thread - #7/INFO]: <Arcabat> je pensais tu avais un generateur a sable
+[14:41:15] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> Ah nan ^^
+[14:41:23] [Async Chat Thread - #7/INFO]: <Arcabat> dommage x)
+[14:41:37] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> Jamais été fan des duplicateurs d'items
+[14:41:56] [Async Chat Thread - #7/INFO]: <Arcabat> bah y a bien des générateurs à cobble
+[14:41:59] [Async Chat Thread - #7/INFO]: <Arcabat> et c'est légit
+[14:42:20] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> Ah oui, ok, mais le sable est une ressources limités je crois
+[14:42:48] [Async Chat Thread - #7/INFO]: <Arcabat> visiblement
+[14:43:05] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> Je crois que j'avais vu passé une page du wiki mentionnant tous les items du jeu obtenable à l'infini
+[14:43:21] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> Y'en a pas mal auquel on pense pas mais qui sont très sujet à construire des fermes
+[14:43:37] [Async Chat Thread - #7/INFO]: <Arcabat> ah ouais ? du Genre ?
+[14:43:46] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> faut que je retrouve la page
+[14:50:41] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> je retrouve pas...
+[14:50:43] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> sad
+[14:50:54] [Async Chat Thread - #8/INFO]: <Arcabat> pas grave
+[14:51:48] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> ah et du coup, en parlant wiki, je suis allé voir la nourriture et ouais tu avais complètement raison. Du coup j'ai fait pleins de carottes d'or
+[14:59:30] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> 272 65 -1108
+[15:00:00] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> 34 -138
+[15:06:31] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> toujours sur tranchant ?
+[15:06:40] [Async Chat Thread - #10/INFO]: <Arcabat> non je fais mes enchants
+[15:06:46] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> ouf
+[15:06:50] [Async Chat Thread - #10/INFO]: <Arcabat> x)
+[15:09:58] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[15:10:42] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[15:23:41] [Async Chat Thread - #11/INFO]: <Shadowmere_Swift> je vois que mon champs est utiles
+[15:23:47] [Async Chat Thread - #11/INFO]: <Arcabat> yep
+[15:37:18] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> y'a une pioche en bois dans le coffre à outils.... mdr
+[15:37:24] [Async Chat Thread - #12/INFO]: <Arcabat> hum
+[15:37:25] [Async Chat Thread - #12/INFO]: <Arcabat> xD
+[15:37:30] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> je pensais qu'on en avait fini
+[15:37:38] [Async Chat Thread - #12/INFO]: <Arcabat> visiblement non x)
+[15:42:07] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> je re
+[15:42:08] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[15:42:08] [Server thread/INFO]: Shadowmere_Swift left the game
+[15:43:11] [User Authenticator #6/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[15:43:11] [Server thread/INFO]: Shadowmere_Swift joined the game
+[15:43:11] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64096] logged in with entity id 92260 at ([world]601.487372846824, -18.0, 1840.3073629126634)
+[15:43:14] [Async Chat Thread - #14/INFO]: <Arcabat> re
+[15:43:15] [Async Chat Thread - #14/INFO]: <Arcabat> xD
+[15:43:47] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> Parfois, j'ai des textures de blocs qui buguent, genre deviennent noires ou violettes donc je relance le jeu
+[15:44:12] [Async Chat Thread - #14/INFO]: <Arcabat> trop bizarre
+[15:46:01] [Async Chat Thread - #15/INFO]: <Arcabat> mes armures sont full enchant, mes pioches et mon arc aussi
+[15:46:11] [Async Chat Thread - #15/INFO]: <Arcabat> me manque hache, pelle, et épée et voila
+[15:46:14] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> C'est un très bon début
+[15:46:18] [Async Chat Thread - #15/INFO]: <Arcabat> yep
+[16:04:59] [Async Chat Thread - #16/INFO]: <Arcabat> dauphin
+[16:05:01] [Async Chat Thread - #16/INFO]: <Arcabat> flipper
+[16:05:07] [Async Chat Thread - #16/INFO]: <Arcabat> alors ? ça va vite hein ?
+[16:05:14] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> ouais c'est plutot fun
+[16:05:17] [Async Chat Thread - #16/INFO]: <Arcabat> :D
+[16:05:31] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> après, je pense qu'il a du se noyer ton dauphin
+[16:05:42] [Async Chat Thread - #16/INFO]: <Arcabat> mmh ?
+[16:05:47] [Async Chat Thread - #16/INFO]: <Arcabat> se noyer ?
+[16:05:48] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> la laisse au bout d'un moment doit le faire faire n'importe quoi
+[16:05:53] [Async Chat Thread - #16/INFO]: <Arcabat> peut etre
+[16:06:09] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> bah c'est des mammifères, comme les baleines, ils doivent remonter à la surface pour respirer
+[16:06:34] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> suffit qu'il sopit bloqué en dessous comme maintenant et il meurt
+[16:06:35] [Async Chat Thread - #16/INFO]: <Arcabat> meme dans minecraft ?
+[16:06:45] [Async Chat Thread - #16/INFO]: <Arcabat> ah bah peut etre
+[16:06:46] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> je pense ouais
+[16:07:05] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> je vais check le wiki
+[16:07:08] [Async Chat Thread - #16/INFO]: <Arcabat> dacc
+[16:08:33] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> ok, ils suffoquent en restant à la surface et se noie après 4 minutes sans remonter
+[16:09:13] [Async Chat Thread - #17/INFO]: <Arcabat> ah bah voila
+[16:10:47] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> je pense que j'ai réglé le problème mais tu vas peut-être pas aimé
+[16:10:52] [Async Chat Thread - #18/INFO]: <Arcabat> mmh ?
+[16:10:56] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> xD
+[16:11:05] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> je l'ai empaillé
+[16:11:10] [Async Chat Thread - #18/INFO]: <Arcabat> euh
+[16:11:15] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> nan pas du tout
+[16:16:59] [Server thread/INFO]: Named entity EntityDolphin['Flipper'/95635, uuid='37f0af2b-52b2-4dbc-88f5-775073e6c42f', l='ServerLevel[world]', x=100.07, y=61.03, z=240.50, cpos=[6, 15], tl=25040, v=true] died: Flipper drowned
+[16:29:33] [Server thread/INFO]: Arcabat has made the advancement [Glow and Behold!]
+[16:29:44] [Async Chat Thread - #19/INFO]: <Shadowmere_Swift> gg
+[16:29:47] [Async Chat Thread - #19/INFO]: <Shadowmere_Swift> c'est quoi ,?
+[16:29:50] [Async Chat Thread - #19/INFO]: <Arcabat> merci x)
+[16:29:55] [Async Chat Thread - #19/INFO]: <Arcabat> passe ta souris dessus
+[16:30:00] [Async Chat Thread - #19/INFO]: <Arcabat> tu comprendras
+[16:33:38] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[16:33:56] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[16:33:58] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[16:34:09] [Async Chat Thread - #20/INFO]: <Shadowmere_Swift> oh je savais pas qu'on pouvait voir les succès comme ça
+[16:34:16] [Async Chat Thread - #20/INFO]: <Arcabat> eh si
+[16:35:03] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[16:37:35] [Async Chat Thread - #21/INFO]: <Shadowmere_Swift> Tu l'as fait avec un éditeur externe ?
+[16:37:47] [Async Chat Thread - #21/INFO]: <Arcabat> quoi ?
+[16:37:52] [Async Chat Thread - #21/INFO]: <Shadowmere_Swift> le texte en couleur ?
+[16:38:04] [Async Chat Thread - #21/INFO]: <Arcabat> j'ai juste mis l'encre sur la pencarte
+[16:38:15] [Async Chat Thread - #21/INFO]: <Arcabat> genre clique droit
+[16:38:18] [Async Chat Thread - #21/INFO]: <Shadowmere_Swift> oh ok
+[16:38:21] [Async Chat Thread - #21/INFO]: <Shadowmere_Swift> simple
+[16:38:27] [Async Chat Thread - #21/INFO]: <Arcabat> oui x)
+[16:43:57] [Async Chat Thread - #22/INFO]: <Arcabat> ton dauphin n'est plus la
+[16:44:01] [Async Chat Thread - #22/INFO]: <Shadowmere_Swift> ah
+[16:44:05] [Async Chat Thread - #22/INFO]: <Shadowmere_Swift> bah c'est de la merde
+[16:44:08] [Async Chat Thread - #22/INFO]: <Arcabat> oui
+[16:44:17] [Async Chat Thread - #22/INFO]: <Shadowmere_Swift> (et c'était le tien)
+[16:44:19] [Async Chat Thread - #22/INFO]: <Arcabat> tu lui avais mis une étiquette ?
+[16:44:20] [Async Chat Thread - #22/INFO]: <Arcabat> ah
+[16:44:25] [Async Chat Thread - #22/INFO]: <Shadowmere_Swift> oui, Flipper
+[16:44:28] [Async Chat Thread - #22/INFO]: <Arcabat> mdr
+[16:44:36] [Async Chat Thread - #22/INFO]: <Arcabat> bah flipper aime se faire la malle
+[16:44:43] [Async Chat Thread - #22/INFO]: <Shadowmere_Swift> flipper à flipper
+[16:44:47] [Async Chat Thread - #22/INFO]: <Arcabat> oui
+[16:55:36] [Async Chat Thread - #23/INFO]: <Arcabat> je re
+[16:55:37] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[16:55:37] [Server thread/INFO]: Arcabat left the game
+[16:56:45] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[16:58:11] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[17:06:14] [User Authenticator #7/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[17:06:14] [Server thread/INFO]: Arcabat joined the game
+[17:06:14] [Server thread/INFO]: Arcabat[/46.193.65.177:49328] logged in with entity id 112607 at ([world]103.58426702563652, 63.0, 256.9386153179129)
+[17:07:01] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[17:07:01] [Server thread/INFO]: Arcabat left the game
+[17:07:59] [User Authenticator #8/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[17:07:59] [Server thread/INFO]: Arcabat joined the game
+[17:07:59] [Server thread/INFO]: Arcabat[/46.193.65.177:49361] logged in with entity id 112946 at ([world]98.29611169553701, 63.0, 270.24327114589596)
+[17:08:36] [Async Chat Thread - #24/INFO]: <Arcabat> je sais pas lequel est le mieux entre le sapin et le chene noir
+[17:08:52] [Async Chat Thread - #24/INFO]: <Shadowmere_Swift> pour ta futur ville flottante ?
+[17:08:57] [Async Chat Thread - #24/INFO]: <Arcabat> ouep
+[17:09:13] [Async Chat Thread - #24/INFO]: <Shadowmere_Swift> j'aime couper le sapin, mais je prefère le chêne noir
+[17:09:38] [Async Chat Thread - #24/INFO]: <Arcabat> j'avais commencé en chene noir, flemme de tout rechanger en plus
+[17:09:45] [Async Chat Thread - #24/INFO]: <Arcabat> donc je vais continuer avec
+[17:11:08] [Async Chat Thread - #25/INFO]: <Shadowmere_Swift> Bah parfait
+[17:12:18] [Async Chat Thread - #26/INFO]: <Arcabat> faudrait qu'on fasse la ferme a fer
+[17:12:31] [Async Chat Thread - #26/INFO]: <Shadowmere_Swift> bientot bientot
+[17:12:40] [Async Chat Thread - #26/INFO]: <Arcabat> y en aurait grand besoin
+[17:16:48] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[17:17:00] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[17:17:06] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[17:17:53] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamerule maxEntityCramming 120
+[17:18:48] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamerule maxEntityCramming 120
+[17:19:02] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[17:25:59] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamerule maxEntityCramming 120
+[17:26:15] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamerule maxEntityCramming 120
+[17:30:15] [Async Chat Thread - #27/INFO]: <Shadowmere_Swift> bon bah ferme à fer
+[17:30:30] [Async Chat Thread - #27/INFO]: <Shadowmere_Swift> Je vais totalement abandonner l'idée de prendre le village d'en bas
+[17:30:30] [Async Chat Thread - #27/INFO]: <Arcabat> dacc
+[17:30:39] [Async Chat Thread - #27/INFO]: <Arcabat> tu m'étonnes x)
+[17:30:44] [Async Chat Thread - #27/INFO]: <Shadowmere_Swift> Trop chiant de les laisser se balader
+[17:30:49] [Async Chat Thread - #27/INFO]: <Arcabat> oui
+[17:30:50] [Async Chat Thread - #27/INFO]: <Shadowmere_Swift> ils font n'imp
+[17:30:53] [Async Chat Thread - #27/INFO]: <Shadowmere_Swift> donc à la place
+[17:31:41] [Async Chat Thread - #27/INFO]: <Shadowmere_Swift> bah sous terre, pas trop loin. Je vais faire reproduire un max de villageois sans métier on s'en fout et y'aura quelques emplacements de spawn mais qui ramèneront tous au même endroit
+[17:31:58] [Async Chat Thread - #27/INFO]: <Arcabat> suffit de 3 villageois
+[17:32:08] [Async Chat Thread - #27/INFO]: <Shadowmere_Swift> plus il y en a, plus ça spawn
+[17:32:18] [Async Chat Thread - #27/INFO]: <Arcabat> mmh
+[17:32:30] [Async Chat Thread - #27/INFO]: <Shadowmere_Swift> le village d'en bas faisait spawn jusqu'à 5 golem
+[17:32:38] [Async Chat Thread - #27/INFO]: <Shadowmere_Swift> 3 villageois, y'en aurait qu'un
+[17:32:42] [Async Chat Thread - #27/INFO]: <Arcabat> pense que ça fait bcp d'entité après
+[17:32:54] [Async Chat Thread - #27/INFO]: <Arcabat> oui mais c'est large suffisant
+[17:33:19] [Async Chat Thread - #27/INFO]: <Shadowmere_Swift> Mouais... temporairement limite, à voir si c'est bien rentable
+[17:33:23] [Async Chat Thread - #27/INFO]: <Shadowmere_Swift> mais j'ai envie de voir grand
+[17:33:36] [Async Chat Thread - #27/INFO]: <Shadowmere_Swift> je vais faire un tour en créa
+[17:33:39] [Async Chat Thread - #27/INFO]: <Arcabat> c'est toi qui vois
+[17:33:41] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[17:33:41] [Server thread/INFO]: Shadowmere_Swift left the game
+[18:02:32] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.2742618935775454
+[18:02:46] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.31947693156945434
+[18:03:05] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.25126719946513276
+[18:07:39] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[18:07:39] [Server thread/INFO]: Arcabat left the game
+[20:27:30] [User Authenticator #9/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[20:27:30] [Server thread/INFO]: Shadowmere_Swift joined the game
+[20:27:30] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64498] logged in with entity id 136556 at ([world]86.63266481746386, 74.875, 296.2801185343856)
+[20:28:16] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[20:28:16] [Server thread/INFO]: Shadowmere_Swift left the game
+[21:46:08] [User Authenticator #10/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[21:46:08] [Server thread/INFO]: Shadowmere_Swift joined the game
+[21:46:08] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65404] logged in with entity id 136763 at ([world]81.38039596457624, 74.0, 292.58565748693104)
+[22:01:09] [Server thread/INFO]: Shadowmere_Swift issued server command: /tp Shadowmere_Swift 601 -21 1831
+[22:01:16] [Server thread/INFO]: Shadowmere_Swift issued server command: /tp Shadowmere_Swift 604 -21 1809
+[22:01:16] [Server thread/WARN]: Shadowmere_Swift moved too quickly! 2.8726016417306255,0.0,-19.20993323815037
+[22:04:10] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.4329680972480361
+[22:26:16] [User Authenticator #11/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[22:26:16] [Server thread/INFO]: Arcabat joined the game
+[22:26:16] [Server thread/INFO]: Arcabat[/90.105.49.109:62532] logged in with entity id 145193 at ([world]83.60569509248494, 73.0, 300.2799481476116)
+[22:26:41] [Async Chat Thread - #28/INFO]: <Arcabat> injouable
+[22:26:45] [Async Chat Thread - #28/INFO]: <Shadowmere_Swift> mdr
+[22:26:55] [Async Chat Thread - #28/INFO]: <Arcabat> quoique
+[22:27:01] [Async Chat Thread - #28/INFO]: <Shadowmere_Swift> mets toi en 4 chunk ^^
+[22:27:51] [Async Chat Thread - #28/INFO]: <Arcabat> mieux
+[22:28:44] [Async Chat Thread - #28/INFO]: <Arcabat> ça le fait
+[22:29:03] [Async Chat Thread - #28/INFO]: <Shadowmere_Swift> nice
+[22:29:08] [Async Chat Thread - #28/INFO]: <Arcabat> ouep
+[22:29:48] [Async Chat Thread - #28/INFO]: <Arcabat> bon, je vais pas jouer ce soir, je testais juste, mais au moins ça fonctionne ! Allez, bonne nuit :D
+[22:29:50] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[22:29:50] [Server thread/INFO]: Arcabat left the game
+[23:12:35] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[23:12:35] [Server thread/INFO]: Shadowmere_Swift left the game
+[23:12:36] [User Authenticator #12/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[23:12:36] [Server thread/INFO]: Shadowmere_Swift joined the game
+[23:12:36] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64182] logged in with entity id 154159 at ([world]105.7206152180231, 64.9375, 341.7578850682123)
+[23:54:16] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[23:54:16] [Server thread/INFO]: Shadowmere_Swift left the game

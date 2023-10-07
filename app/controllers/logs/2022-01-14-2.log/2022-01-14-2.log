@@ -1,0 +1,349 @@
+[05:14:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:14:15] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:14:15] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:14:17] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:14:18] [Server thread/INFO]: Loading properties
+[05:14:18] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:14:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:14:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:14:18] [Server thread/INFO]: Default game type: SURVIVAL
+[05:14:18] [Server thread/INFO]: Generating keypair
+[05:14:18] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:14:18] [Server thread/INFO]: Using epoll channel type
+[05:14:18] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:14:18] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:14:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:14:18] [Server thread/INFO]: Preparing level "world"
+[05:14:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:14:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:21] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:21] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:22] [Server thread/INFO]: Time elapsed: 1989 ms
+[05:14:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:14:22] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:22] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:23] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:23] [Server thread/INFO]: Time elapsed: 1472 ms
+[05:14:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:14:23] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:24] [Server thread/INFO]: Time elapsed: 937 ms
+[05:14:24] [Server thread/INFO]: Starting GS4 status listener
+[05:14:24] [Server thread/INFO]: Thread Query Listener started
+[05:14:24] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:14:24] [Server thread/INFO]: Running delayed init tasks
+[05:14:24] [Server thread/INFO]: Done (6.744s)! For help, type "help"
+[05:14:24] [Server thread/INFO]: Timings Reset
+[05:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5118ms or 102 ticks behind
+[11:57:06] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[11:57:06] [Server thread/INFO]: Shadowmere_Swift joined the game
+[11:57:06] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64528] logged in with entity id 315 at ([world]83.02050749510079, 73.0, 305.04411287723286)
+[12:15:40] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[12:15:40] [Server thread/INFO]: Shadowmere_Swift left the game
+[12:28:22] [User Authenticator #2/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[12:28:22] [Server thread/INFO]: Shadowmere_Swift joined the game
+[12:28:22] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65015] logged in with entity id 4572 at ([world]601.9059021956914, -21.0, 837.7786333346)
+[12:41:26] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.25823649544958016
+[12:41:34] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2609059591103602
+[12:41:36] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.3043112080600707
+[12:56:06] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2802821340097523
+[12:58:50] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[12:58:50] [Server thread/INFO]: Shadowmere_Swift left the game
+[13:04:38] [User Authenticator #3/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[13:04:39] [Server thread/INFO]: Shadowmere_Swift joined the game
+[13:04:39] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64247] logged in with entity id 11490 at ([world]601.3678309773957, -21.0, 932.608734148172)
+[13:14:18] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[13:14:18] [Server thread/INFO]: Shadowmere_Swift left the game
+[13:32:31] [User Authenticator #4/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[13:32:32] [Server thread/INFO]: Shadowmere_Swift joined the game
+[13:32:32] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63584] logged in with entity id 13322 at ([world]602.5370069264682, -21.0, 1045.699999988079)
+[13:43:42] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.27527966097375156
+[13:43:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.26350819490028243
+[13:43:47] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.26342787160461967
+[14:02:52] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.28913268554961746
+[14:02:53] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.28733656555708365
+[14:02:54] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2867813171115472
+[14:22:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2547755980364741
+[14:22:53] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2537054365633935
+[14:22:59] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2763954345587081
+[14:26:49] [User Authenticator #5/INFO]: UUID of player Helios_49 is e6e69f28-5b9c-458c-bcaf-b8091aba0a12
+[14:26:49] [Server thread/INFO]: Helios_49 joined the game
+[14:26:49] [Server thread/INFO]: Helios_49[/92.139.237.81:54302] logged in with entity id 30454 at ([world]82.1843360769254, 73.0, 306.26726077547545)
+[14:27:02] [Async Chat Thread - #0/INFO]: <Helios_49> hey
+[14:28:23] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> Oh salut, c'était la petite pause afk là
+[14:28:36] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> Avec Baptiste on a essayé de mieux rangé
+[14:28:44] [Async Chat Thread - #1/INFO]: <Helios_49> J'ai vu ça
+[14:28:48] [Async Chat Thread - #1/INFO]: <Helios_49> ant de coffres
+[14:28:56] [Async Chat Thread - #1/INFO]: <Helios_49> Tant*
+[14:29:57] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> perso je me suis trouvé un spot pour ma future base et je travaille sur un gros projet de usine à xp et à enchantement
+[14:30:29] [Async Chat Thread - #2/INFO]: <Helios_49> Ok, t'as fait tout ça où ?
+[14:30:49] [Async Chat Thread - #2/INFO]: <Helios_49> Si je me crée un spot, je vais essayer de pas envahir les vôtres
+[14:31:16] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> Ma base, un chemin tout bien tracé part depuis le centre et y va, et j'ai délimité la zone avec plein de torche
+[14:31:43] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> si tu veux je t'envoi une carte de notre monde "proche"
+[14:32:11] [Async Chat Thread - #2/INFO]: <Helios_49> Ok pourquoi pas ! Tu me l'envoies comment, tu l'as screen pour Discord ?
+[14:33:39] [Async Chat Thread - #3/INFO]: <Helios_49> Et j'explore les galeries en partant du centre là, c'est infini, je suppose qu'il n' y a rien ?
+[14:41:10] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> Comment ça ?
+[14:41:20] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> Rien à miner comme ressources ?
+[14:41:42] [Async Chat Thread - #4/INFO]: <Helios_49> Non mais comme truc intéressant, genre une base secrète, un système particulier
+[14:41:50] [Async Chat Thread - #4/INFO]: <Helios_49> Car les couloirs sont infinis
+[14:42:00] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> Qu'on aurait construit ?
+[14:42:07] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> J'ai rien construit du tout encore
+[14:42:15] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> Juste 3 mines et 1 tunnel
+[14:42:20] [Async Chat Thread - #4/INFO]: <Helios_49> ok !
+[14:42:23] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> Mais pas de système ou autre caché
+[14:42:36] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> Mais....
+[14:42:41] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> c'est prévu
+[14:43:01] [Async Chat Thread - #4/INFO]: <Helios_49> TIN TIN TIIIN
+[14:43:08] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> ^^
+[14:43:48] [Async Chat Thread - #4/INFO]: <Helios_49> Ok bon du coup je vais chercher un endroit où me baser vers le nord de la map, en traversant la mer
+[14:44:01] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> Fais toi plaie
+[14:44:03] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> plaiz
+[14:45:47] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> si jamais t'as besoin de diams, sers toi dans mon coffre
+[14:47:43] [Async Chat Thread - #6/INFO]: <Helios_49> Nope je vais y aller à l'arrache et bâtirr une civilisation de mes mains...
+[14:47:54] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> Ah ouais une civilisation carrément
+[14:48:33] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> C'est ma règle numéro 1 dans Minecraft : toujours voir des projets immenses pour ne jamais les faire, arrêter la partie et ne jamais la reprendre
+[14:48:46] [Async Chat Thread - #6/INFO]: <Helios_49> EXACTEMENT
+[14:49:01] [Async Chat Thread - #6/INFO]: <Helios_49> Nan en vrai je compte juste construire des trucs stylés
+[14:49:10] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> C'est déjà cool
+[14:49:27] [Async Chat Thread - #6/INFO]: <Helios_49> Mais là j'arrive pas à traverser l'océan donc c'est pas pour tout de suite...
+[14:49:39] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> Trop grand ou tu sais pas nager ?
+[14:50:01] [Async Chat Thread - #6/INFO]: <Helios_49> Trop grand, je suis en bateau
+[14:54:44] [Async Chat Thread - #7/INFO]: <Helios_49> j'ai atteint l'autre rive, je suis en 273 -900 pour te donner une idée
+[14:58:31] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> tellement de diamants
+[14:58:36] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> je suis grave chanceux
+[14:59:36] [Async Chat Thread - #8/INFO]: <Helios_49> Moi mon désert est incroyable... Mais y a pas un seul arbre. Et j'ai BESOIN de bois
+[14:59:59] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> prend le ailleurs et plante les désert, je te jure ils y seront bien
+[15:05:23] [Async Chat Thread - #9/INFO]: <Helios_49> J'ai trouvé un bateau puis un coin à la croisée d'un désert, d'une praire/foret et d'une montagne de terracolta, c'est parfait
+[15:06:32] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2581113105145221
+[15:06:33] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2568929202904826
+[15:06:37] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2632167585941687
+[15:26:26] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.26487268392855867
+[15:26:30] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.28936243725996746
+[15:26:31] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2528180807541389
+[15:26:35] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2736204261994999
+[15:26:36] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.39147132633820547
+[15:56:56] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.28689238121810945
+[15:56:57] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2869367689765028
+[15:57:01] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2586797768716309
+[16:00:26] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.3494007394845653
+[16:00:57] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2501659493192392
+[16:01:09] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.6341824788618737
+[16:01:40] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.33130298124329727
+[16:01:56] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2718007008623431
+[16:08:36] [Server thread/INFO]: Helios_49 has made the advancement [A Seedy Place]
+[16:17:25] [Async Chat Thread - #10/INFO]: <Helios_49> Bon du coup, update, perso je fais ma petite vie, j'ai ma maison, un mineshaft, une caverne
+[16:17:34] [Async Chat Thread - #10/INFO]: <Helios_49> Il faut que je trouve des diams
+[16:17:49] [Async Chat Thread - #10/INFO]: <Helios_49> Et je vais juste pouvoir construire sinon
+[16:20:22] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2926392906160231
+[16:20:23] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.269336914611074
+[16:20:24] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.26399631525890754
+[16:20:25] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.28503803719509335
+[16:20:28] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.3451626311084226
+[16:20:51] [Async Chat Thread - #11/INFO]: <Shadowmere_Swift> Tu t'es émancipé, c'est beau !!
+[16:21:02] [Async Chat Thread - #11/INFO]: <Shadowmere_Swift> La couche -54 est la meilleure pour les diams
+[16:21:17] [Async Chat Thread - #11/INFO]: <Shadowmere_Swift> Perso, je viens de finir mon tunnel de 1.5 km de long
+[16:23:35] [Async Chat Thread - #12/INFO]: <Helios_49> 1,5...
+[16:23:45] [Async Chat Thread - #12/INFO]: <Helios_49> Pour faire quoi ?
+[16:23:54] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> Une blague
+[16:24:05] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> C'est presque vrai en plus
+[16:29:03] [Async Chat Thread - #13/INFO]: <Helios_49> Tu peux me donner tes coordonnées ou celles de la base commune ?
+[16:29:24] [Async Chat Thread - #13/INFO]: <Helios_49> Je fais aussi un chemin très long, pour lier la base à la mienne
+[16:29:43] [Async Chat Thread - #13/INFO]: <Helios_49> Mais je crois que je vais dans le mauvais sens.....
+[16:30:14] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> 80 300 pour le camp de base
+[16:30:44] [Async Chat Thread - #13/INFO]: <Helios_49> oh shit ça va être long, je suis en -500 -1300
+[16:31:00] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> ça se fait, juste de la patience
+[16:31:43] [Async Chat Thread - #13/INFO]: <Helios_49> Mouais, ça va me prendre dix ans mais let's go
+[16:31:47] [Server thread/INFO]: Shadowmere_Swift has made the advancement [Cover Me with Diamonds]
+[16:31:53] [Async Chat Thread - #13/INFO]: <Helios_49> Oh nice gg
+[16:32:03] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> J'ai tellement de diams xD
+[16:32:07] [Async Chat Thread - #13/INFO]: <Helios_49> Tu veux skip la nuit ou paslà ?
+[16:32:13] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> tu en as besoin ?
+[16:32:15] [Async Chat Thread - #13/INFO]: <Helios_49> J'en ai ZERO
+[16:32:22] [Async Chat Thread - #13/INFO]: <Helios_49> Yep idéalement
+[16:32:23] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> 66
+[16:32:31] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> c'est bn
+[16:32:34] [Async Chat Thread - #13/INFO]: <Helios_49> Ah ouais quand même
+[16:32:45] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> C'est pour ça que je te proposais de piocher
+[16:32:54] [Async Chat Thread - #13/INFO]: <Helios_49> Je cours à mon lit, y en a pour trente secondes
+[16:33:52] [Async Chat Thread - #13/INFO]: <Helios_49> J'étais déjà trop loin pour ça
+[16:33:56] [Async Chat Thread - #13/INFO]: <Helios_49> et thx du coup
+[16:34:08] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> ah oui bah la prochaine fois
+[16:37:34] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2689835448494762
+[17:12:16] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> tu en es ou de ton chemin ?
+[17:13:01] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.27742221374427345
+[17:13:01] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.924418665001383
+[17:13:01] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.5714218707308873
+[17:13:18] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2546834337362185
+[17:13:19] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.3416298286595918
+[17:13:19] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2690997107899875
+[17:15:38] [Async Chat Thread - #15/INFO]: <Helios_49> Bah... Disons que je le fais en verre, donc j'alterne entre récolter du sable, du charbon pour le cuire, et construire le chemin. C'est long.
+[17:21:51] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> Ouais j'imagine mais tu le fais sous l'eau ?
+[17:28:59] [Async Chat Thread - #17/INFO]: <Helios_49> Nope, juste à la surface
+[17:32:38] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> Ah ok
+[17:32:49] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> PErso, je m'arrête dans 10mn max pour aller bosser
+[17:37:27] [Async Chat Thread - #19/INFO]: <Helios_49> Ok, perso je vais continuer un peu, je devrais bien m'approcher de la base, courage pour le boulot !
+[17:44:23] [Async Chat Thread - #20/INFO]: <Shadowmere_Swift> pas envie de m'arrêter en vrai, je finis à 22h, je pourrai très bien manger après ^^
+[17:45:33] [Async Chat Thread - #21/INFO]: <Helios_49> Comme tu veux, si tu sais que t'auras pas la flemme après, et si t'auras assez d'énergie quand même pour bosser
+[17:46:08] [Async Chat Thread - #21/INFO]: <Shadowmere_Swift> bah en fait, je suis en train de cartographier l'océan, et en effet il est immense
+[17:46:52] [Async Chat Thread - #21/INFO]: <Helios_49> Ah oui... Courage. Tu vas vers le norddu coup ?
+[17:47:02] [Async Chat Thread - #21/INFO]: <Shadowmere_Swift> ouais c'est ça
+[17:48:37] [Async Chat Thread - #22/INFO]: <Helios_49> ok bah nord ouest tu devrais tomber sur un chemin de verre éventuellement, c'est le mien !
+[17:57:17] [Server thread/INFO]: Villager EntityVillager['Villager'/160796, uuid='c14058a7-f2c9-4625-bbad-deb3e6e6d884', l='ServerLevel[world]', x=-1198.28, y=69.00, z=-2319.37, cpos=[-75, -145], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[17:57:19] [Server thread/INFO]: Villager EntityVillager['Villager'/160882, uuid='5df26863-ada0-4edd-9550-9e0580cd5852', l='ServerLevel[world]', x=-1234.72, y=70.00, z=-2332.63, cpos=[-78, -146], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[17:57:19] [Server thread/INFO]: Villager EntityVillager['Nitwit'/160883, uuid='982455a5-3093-435e-ad20-8636348e05e9', l='ServerLevel[world]', x=-1236.63, y=70.00, z=-2332.28, cpos=[-78, -146], tl=191, v=true] died, message: 'Nitwit suffocated in a wall'
+[17:57:20] [Server thread/INFO]: Villager EntityVillager['Villager'/160908, uuid='2aac3fd7-815b-4e2d-a2b5-19d850663dd8', l='ServerLevel[world]', x=-1202.63, y=69.00, z=-2320.28, cpos=[-76, -146], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[18:24:33] [Async Chat Thread - #23/INFO]: <Shadowmere_Swift> C'est bon j'ai fait le tour
+[18:24:38] [Async Chat Thread - #23/INFO]: <Shadowmere_Swift> Mais je t'ai pas croisé
+[18:25:06] [Async Chat Thread - #23/INFO]: <Helios_49> Le tour de la map ou de l"océan ?
+[18:25:21] [Async Chat Thread - #23/INFO]: <Helios_49> J'étais surtout à l'intérieur
+[18:25:25] [Async Chat Thread - #23/INFO]: <Shadowmere_Swift> impossible de faire le tour de la map
+[18:25:31] [Async Chat Thread - #23/INFO]: <Helios_49> T'as pas vu mon chemin
+[18:25:31] [Async Chat Thread - #23/INFO]: <Shadowmere_Swift> de l'océan bien sûr
+[18:25:33] [Async Chat Thread - #23/INFO]: <Shadowmere_Swift> nop
+[18:25:48] [Async Chat Thread - #23/INFO]: <Helios_49> Je voulais dire de la map que t'avais en main probablement
+[18:25:50] [Async Chat Thread - #23/INFO]: <Shadowmere_Swift> je pense que tu n'es pas au bord de l'océan mais sur une ile dedans
+[18:26:07] [Async Chat Thread - #23/INFO]: <Shadowmere_Swift> ah nan je fais ça avec un mod, les cartes papiers sont horribles dans le jeu
+[18:26:18] [Async Chat Thread - #23/INFO]: <Helios_49> Ah bah triste, effectivement je suis plutôt vers le centre sûrement
+[18:26:34] [Async Chat Thread - #23/INFO]: <Helios_49> Bah perso j'utilise les cartes du jeu donc bon
+[18:30:28] [Async Chat Thread - #24/INFO]: <Shadowmere_Swift> bon aller, j'y vais
+[18:30:33] [Async Chat Thread - #24/INFO]: <Shadowmere_Swift> je reviens surement vers 23h
+[18:30:36] [Async Chat Thread - #24/INFO]: <Shadowmere_Swift> au cas ou
+[18:30:38] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[18:30:38] [Server thread/INFO]: Shadowmere_Swift left the game
+[18:31:02] [Async Chat Thread - #24/INFO]: <Helios_49> ok, bon boulot (même si t'es déjà parti)
+[18:34:44] [Server thread/INFO]: Helios_49 lost connection: Disconnected
+[18:34:44] [Server thread/INFO]: Helios_49 left the game
+[19:46:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7567ms or 151 ticks behind
+[19:48:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5432ms or 108 ticks behind
+[19:51:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5054ms or 101 ticks behind
+[20:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7668ms or 153 ticks behind
+[20:37:10] [User Authenticator #6/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[20:37:10] [Server thread/INFO]: Arcabat joined the game
+[20:37:10] [Server thread/INFO]: Arcabat[/46.193.65.177:50637] logged in with entity id 205114 at ([world]304.30569608838306, 62.9375, 714.292425020906)
+[20:47:26] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.461109358315241
+[20:52:06] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.48618234957632467
+[20:52:14] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.2648383958058389
+[20:52:17] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.26260254010395556
+[20:52:20] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.4237683877069003
+[20:52:23] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.32274020109286994
+[20:54:41] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.27356820609458765
+[22:13:09] [User Authenticator #7/INFO]: UUID of player Helios_49 is e6e69f28-5b9c-458c-bcaf-b8091aba0a12
+[22:13:09] [Server thread/INFO]: Helios_49 joined the game
+[22:13:09] [Server thread/INFO]: Helios_49[/92.139.237.81:55347] logged in with entity id 224721 at ([world]-178.22423100261088, 63.0, -74.11722876578199)
+[22:13:13] [Async Chat Thread - #25/INFO]: <Arcabat> yo
+[22:13:19] [Async Chat Thread - #25/INFO]: <Helios_49> yo !
+[22:13:28] [Async Chat Thread - #25/INFO]: <Helios_49> Comment tu vas ?
+[22:13:36] [Async Chat Thread - #25/INFO]: <Arcabat> je reviens d'une session de minage, j'ai un stack de diams :D
+[22:13:39] [Async Chat Thread - #25/INFO]: <Arcabat> ça va et toi ?
+[22:14:14] [Async Chat Thread - #25/INFO]: <Helios_49> Ca va ! Nice gg, Alex en avait énormément aussi tout à l'heure, perso j'en ai juste 2 ._.
+[22:14:36] [Async Chat Thread - #25/INFO]: <Arcabat> ouais j'ai vu ça dans son coffre x)
+[22:14:41] [Async Chat Thread - #25/INFO]: <Arcabat> ahah chacun son rythme
+[22:16:40] [Async Chat Thread - #26/INFO]: <Helios_49> Je viens de trouver un temple sous-marin, je crois qu'on récolte des trucs stylés dedans, je les connais pas assez
+[22:16:58] [Async Chat Thread - #26/INFO]: <Arcabat> bloc d'or
+[22:17:00] [Async Chat Thread - #26/INFO]: <Helios_49> Mais j'ai failli me faire défoncer par les poissons gardiens donc j'ai fui
+[22:17:01] [Async Chat Thread - #26/INFO]: <Arcabat> prismarine
+[22:17:05] [Async Chat Thread - #26/INFO]: <Arcabat> et surtout, éponge !
+[22:17:13] [Async Chat Thread - #26/INFO]: <Arcabat> ouais ils font mal
+[22:17:24] [Async Chat Thread - #26/INFO]: <Helios_49> C'est si précieux que ça les éponges ?
+[22:17:44] [Async Chat Thread - #26/INFO]: <Arcabat> bah y a que la bas qu'on en trouve, et ça peut être très pratique
+[22:17:55] [Async Chat Thread - #26/INFO]: <Arcabat> c'est pour enlever des blocs d'eau facilement
+[22:18:54] [Async Chat Thread - #26/INFO]: <Helios_49> Hum comme ça ça me parait pas ultra utile mais j'imagine que ça l'est quand on sait s'en servir
+[22:19:21] [Async Chat Thread - #26/INFO]: <Arcabat> c'est surtout quand tu veux terraformer et que les océans te gêne x)
+[22:20:59] [Async Chat Thread - #27/INFO]: <Helios_49> What ? Genre ça absorbe un océan entier ?
+[22:26:10] [User Authenticator #8/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[22:26:10] [Server thread/INFO]: Shadowmere_Swift joined the game
+[22:26:10] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65304] logged in with entity id 233456 at ([world]-412.3125, 62.073264324665075, -1199.9543873540276)
+[22:26:19] [Async Chat Thread - #28/INFO]: <Helios_49> re
+[22:26:19] [Async Chat Thread - #28/INFO]: <Shadowmere_Swift> Whassupe
+[22:26:24] [Async Chat Thread - #28/INFO]: <Arcabat> yop
+[22:26:51] [Async Chat Thread - #28/INFO]: <Shadowmere_Swift> alors, j'étais en bateau dans l'océan et je me suis pris une vitre. Expérience originale mais étrange
+[22:26:57] [Async Chat Thread - #28/INFO]: <Arcabat> ah et non du coup ça absorbe pas un océan entier, juste un cube de 5 de large je crois
+[22:27:03] [Async Chat Thread - #28/INFO]: <Arcabat> Mmh
+[22:27:18] [Async Chat Thread - #28/INFO]: <Helios_49> ok c'est déjà beaucoup !
+[22:28:00] [Async Chat Thread - #28/INFO]: <Helios_49> Et perso je retourne chercher du charbon pour finir mon chemin en tout cas
+[22:29:10] [Async Chat Thread - #29/INFO]: <Helios_49> Et je viens de trouver un diamant random
+[22:29:14] [Async Chat Thread - #29/INFO]: <Arcabat> gg
+[22:29:39] [Async Chat Thread - #29/INFO]: <Helios_49> En couche zéro ? Vous m'aviez dit -54 wtf
+[22:29:48] [Async Chat Thread - #29/INFO]: <Shadowmere_Swift> entre 16 et -59
+[22:29:55] [Async Chat Thread - #29/INFO]: <Shadowmere_Swift> mais la meilleure, c'est -54
+[22:29:59] [Async Chat Thread - #29/INFO]: <Arcabat> oui
+[22:30:25] [Async Chat Thread - #29/INFO]: <Shadowmere_Swift> (en vrai la meilleure, c'est -59, plus tu descends plus ils sont fréquents, mais à -54 tu évites les lacs de lave
+[22:31:17] [Async Chat Thread - #29/INFO]: <Shadowmere_Swift> par contre c'est l'angoisse ton petit pont en verre
+[22:31:28] [Async Chat Thread - #29/INFO]: <Shadowmere_Swift> Tu vas t'ennuyer en minecart
+[22:31:47] [Async Chat Thread - #29/INFO]: <Helios_49> Ok ! Mais non mais non, je vais m'éclater
+[22:32:16] [Async Chat Thread - #29/INFO]: <Shadowmere_Swift> Ah et du coup, les temples de la mer, on en a au moins 3 dans l'océan
+[22:32:22] [Async Chat Thread - #29/INFO]: <Shadowmere_Swift> du nord
+[22:32:28] [Async Chat Thread - #29/INFO]: <Arcabat> nice
+[22:32:37] [Async Chat Thread - #29/INFO]: <Arcabat> va falloir aller récup les éponges
+[22:32:58] [Async Chat Thread - #29/INFO]: <Shadowmere_Swift> et j'ai croisé pleins de navires, de portail du nether, de village mais j'ai tout ignore
+[22:33:07] [Async Chat Thread - #29/INFO]: <Arcabat> ah
+[22:33:33] [Server thread/INFO]: Helios_49 was shot by Skeleton
+[22:33:38] [Async Chat Thread - #29/INFO]: <Shadowmere_Swift> ouch
+[22:33:40] [Async Chat Thread - #29/INFO]: <Arcabat> triste
+[22:33:50] [Async Chat Thread - #29/INFO]: <Arcabat> au fait, on perd l'exp quand on meurt ou pas ?
+[22:33:55] [Async Chat Thread - #29/INFO]: <Shadowmere_Swift> Donnes-nous ton ressenti ^^
+[22:33:57] [Async Chat Thread - #29/INFO]: <Shadowmere_Swift> Aucune idée
+[22:34:00] [Async Chat Thread - #29/INFO]: <Helios_49> OH ON PERD PAS L4INVENTAIRE CEST VRAI MERCI
+[22:34:12] [Async Chat Thread - #29/INFO]: <Arcabat> et l'exp ? on perd ou pas ? xD
+[22:34:14] [Async Chat Thread - #29/INFO]: <Shadowmere_Swift> Eh oh calme toi, pas la peine de crier
+[22:34:20] [Async Chat Thread - #29/INFO]: <Helios_49> Nope on la garde
+[22:34:27] [Async Chat Thread - #29/INFO]: <Arcabat> oh cool ça
+[22:34:46] [Async Chat Thread - #29/INFO]: <Helios_49> J'aurais JAMAIS retrouvé mon inventaire là
+[22:35:57] [Async Chat Thread - #30/INFO]: <Shadowmere_Swift> comme une envie de tuer ces lamas
+[22:36:03] [Async Chat Thread - #30/INFO]: <Arcabat> tu peux
+[22:38:47] [Async Chat Thread - #31/INFO]: <Shadowmere_Swift> je vais ouvrir ma maison close là
+[22:39:34] [Async Chat Thread - #31/INFO]: <Arcabat> hum
+[22:39:41] [Async Chat Thread - #31/INFO]: <Arcabat> la ferme a pnj
+[22:39:43] [Async Chat Thread - #31/INFO]: <Arcabat> ?
+[22:39:51] [Async Chat Thread - #31/INFO]: <Shadowmere_Swift> ouais, ça va se reproduire en masse là
+[22:39:59] [Async Chat Thread - #31/INFO]: <Shadowmere_Swift> j'ai juste perdu mon cheval
+[22:40:09] [Async Chat Thread - #31/INFO]: <Arcabat> Ahah, je voulais faire un batiment exprès pour eux justement
+[22:40:12] [Async Chat Thread - #31/INFO]: <Arcabat> ah ?
+[22:40:20] [Async Chat Thread - #31/INFO]: <Arcabat> y en a un dans l'enclos sinon
+[22:40:20] [Async Chat Thread - #31/INFO]: <Shadowmere_Swift> il était avec les animaux dans le champ
+[22:40:32] [Async Chat Thread - #31/INFO]: <Arcabat> non mais la bas
+[22:40:37] [Async Chat Thread - #31/INFO]: <Shadowmere_Swift> ahz
+[22:40:40] [Async Chat Thread - #31/INFO]: <Shadowmere_Swift> il a été bougé
+[22:40:42] [Async Chat Thread - #31/INFO]: <Shadowmere_Swift> ok
+[22:40:44] [Async Chat Thread - #31/INFO]: <Arcabat> oopsi
+[22:40:48] [Async Chat Thread - #31/INFO]: <Shadowmere_Swift> nn tkt
+[22:40:56] [Async Chat Thread - #31/INFO]: <Shadowmere_Swift> tu voulais le faire ou le batiment ?
+[22:40:57] [Async Chat Thread - #31/INFO]: <Arcabat> je pensais c'était le miens
+[22:41:05] [Async Chat Thread - #31/INFO]: <Arcabat> j'ai pas encore décidé mdr
+[22:41:21] [Async Chat Thread - #31/INFO]: <Arcabat> peut etre par ici
+[22:41:22] [Async Chat Thread - #31/INFO]: <Shadowmere_Swift> vu la vitesse, c'est mon mien
+[22:41:33] [Async Chat Thread - #31/INFO]: <Arcabat> on peut en faire une chacun x)
+[22:41:43] [Async Chat Thread - #31/INFO]: <Shadowmere_Swift> tu vois la grande caverne qu'on a en dessous
+[22:41:50] [Async Chat Thread - #31/INFO]: <Arcabat> ouais ?
+[22:41:58] [Async Chat Thread - #31/INFO]: <Arcabat> tu voulais les mettre la ? xD
+[22:42:12] [Async Chat Thread - #31/INFO]: <Shadowmere_Swift> y'a Charline qui m'avait montré une série avec un tueur qui avait une pièce en verre pour ses victimes dans un sous-sol je crois
+[22:42:29] [Async Chat Thread - #31/INFO]: <Arcabat> au fait, vous pouvez voc discord ou pas ? ce serait plus simple mdr
+[22:42:31] [Async Chat Thread - #31/INFO]: <Arcabat> ah bah yes
+[22:42:37] [Async Chat Thread - #31/INFO]: <Arcabat> ça a l'air sympa
+[22:42:37] [Async Chat Thread - #31/INFO]: <Shadowmere_Swift> Je me disais, un grande structure avec pleins de pièces en verre style moderne mais dans une cave
+[22:42:46] [Async Chat Thread - #31/INFO]: <Shadowmere_Swift> Oui attend j'arruve
+[22:42:48] [Async Chat Thread - #31/INFO]: <Arcabat> dacc
+[22:42:49] [Async Chat Thread - #31/INFO]: <Helios_49> Dans une saison d'American Horror Story non ?
+[22:43:14] [Async Chat Thread - #31/INFO]: <Helios_49> PTet pas en fait
+[22:43:21] [Async Chat Thread - #31/INFO]: <Helios_49> Je vais passer en vocal aussi
+[22:44:02] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.26455529663311766
+[22:44:02] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.8821734351380344
+[22:44:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2784900659577261
+[22:44:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.5272367527566644
+[22:44:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.5522938889407101
+[22:44:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.5657014629273931
+[22:44:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.5728755884495058
+[22:44:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.5767143199797147
+[22:44:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.5787683486855144
+[22:44:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.5798674184930519
+[22:44:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.5807392142829713
+[22:44:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.5814773326648037
+[22:44:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.5818722850943914
+[22:44:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.58342310333677
+[22:44:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.5842529152583325
+[22:44:46] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.5846969310728696
+[22:44:47] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.5849345150825229
+[22:44:47] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.3016488456160573
+[22:48:28] [Server thread/INFO]: Helios_49 fell from a high place
+[22:53:00] [Server thread/INFO]: Helios_49 was slain by Cave Spider

@@ -1,0 +1,84 @@
+[05:09:39] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:09:40] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:09:41] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:09:45] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:09:45] [Server thread/INFO]: Loading properties
+[05:09:45] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:09:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:09:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:09:45] [Server thread/INFO]: Default game type: SURVIVAL
+[05:09:45] [Server thread/INFO]: Generating keypair
+[05:09:46] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:09:46] [Server thread/INFO]: Using epoll channel type
+[05:09:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:09:46] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:09:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:09:46] [Server thread/INFO]: Preparing level "world"
+[05:09:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:09:50] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:50] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:50] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:51] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:51] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:52] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:52] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:54] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:54] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:55] [Server thread/INFO]: Preparing spawn area: 2%
+[05:09:55] [Server thread/INFO]: Preparing spawn area: 2%
+[05:09:55] [Server thread/INFO]: Time elapsed: 6196 ms
+[05:09:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:09:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:57] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:57] [Server thread/INFO]: Time elapsed: 1825 ms
+[05:09:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:09:57] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:58] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:58] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:59] [Server thread/INFO]: Time elapsed: 1356 ms
+[05:09:59] [Server thread/INFO]: Starting GS4 status listener
+[05:09:59] [Server thread/INFO]: Thread Query Listener started
+[05:09:59] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:09:59] [Server thread/INFO]: Running delayed init tasks
+[05:09:59] [Server thread/INFO]: Done (14.268s)! For help, type "help"
+[05:09:59] [Server thread/INFO]: Timings Reset
+[05:10:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5036ms or 100 ticks behind
+[05:15:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5072ms or 101 ticks behind
+[12:44:21] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[12:44:21] [Server thread/INFO]: Shadowmere_Swift joined the game
+[12:44:21] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64561] logged in with entity id 375 at ([world]384.69999998807907, 57.0, 843.3000000119209)
+[13:10:38] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[13:10:38] [Server thread/INFO]: Shadowmere_Swift left the game
+[13:27:43] [User Authenticator #2/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[13:27:43] [Server thread/INFO]: Shadowmere_Swift joined the game
+[13:27:43] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65014] logged in with entity id 7686 at ([world]411.0928536030367, 79.0, 822.0060598552086)
+[14:02:47] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[14:03:22] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[14:05:34] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[14:06:07] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[14:27:12] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[14:27:26] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[14:57:17] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[14:57:18] [Server thread/INFO]: Shadowmere_Swift left the game
+[16:51:08] [User Authenticator #3/INFO]: UUID of player Helios_49 is e6e69f28-5b9c-458c-bcaf-b8091aba0a12
+[16:51:08] [Server thread/INFO]: Helios_49 joined the game
+[16:51:08] [Server thread/INFO]: Helios_49[/90.27.32.188:51250] logged in with entity id 26662 at ([world]-641.3000000119209, 80.0, -1254.510477088742)
+[16:55:21] [Server thread/INFO]: Helios_49 was slain by Magma Cube
+[17:14:03] [Server thread/INFO]: Helios_49 fell from a high place
+[17:22:08] [Server thread/INFO]: Helios_49 drowned
+[17:49:32] [Server thread/INFO]: Helios_49 tried to swim in lava
+[18:10:34] [Server thread/INFO]: Helios_49 lost connection: Timed out
+[18:10:34] [Server thread/INFO]: Helios_49 left the game
+[18:10:43] [User Authenticator #4/INFO]: UUID of player Helios_49 is e6e69f28-5b9c-458c-bcaf-b8091aba0a12
+[18:10:43] [Server thread/INFO]: Helios_49 joined the game
+[18:10:43] [Server thread/INFO]: Helios_49[/90.27.32.188:51686] logged in with entity id 40271 at ([world]-610.6694371039302, 106.0, -1246.1876949039952)
+[18:11:25] [Server thread/INFO]: Helios_49 burned to death
+[18:14:16] [Server thread/INFO]: Helios_49 fell from a high place
+[18:17:09] [Server thread/WARN]: Helios_49 moved too quickly! -6.6246071955991965,-2.0,-8.554710008461825
+[18:18:09] [Server thread/WARN]: Helios_49 moved too quickly! 11.446352558068952,-0.9868319865636863,-11.01922830771764
+[18:19:03] [Server thread/INFO]: Helios_49 lost connection: Disconnected
+[18:19:03] [Server thread/INFO]: Helios_49 left the game

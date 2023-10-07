@@ -1,0 +1,52 @@
+[12:30:49] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[12:30:49] [Server thread/INFO]: Shadowmere_Swift joined the game
+[12:30:49] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:60937] logged in with entity id 445 at ([world]388.4662712482892, 79.0, 819.4980315706339)
+[13:14:44] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[13:14:44] [Server thread/INFO]: Shadowmere_Swift left the game
+[17:08:51] [User Authenticator #2/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[17:08:52] [Server thread/INFO]: Shadowmere_Swift joined the game
+[17:08:52] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:56571] logged in with entity id 6956 at ([world]414.64371508841964, 79.875, 831.509892610659)
+[17:11:05] [User Authenticator #3/INFO]: UUID of player Cheliness is 6eac5eb0-892d-466b-9c19-b798f3460bf0
+[17:11:05] [Server thread/INFO]: Cheliness joined the game
+[17:11:05] [Server thread/INFO]: Cheliness[/90.93.105.27:59044] logged in with entity id 7689 at ([world]393.69999998807907, 80.0, 814.2950329495447)
+[17:11:46] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect clear Cheliness
+[17:19:33] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> .....
+[17:56:42] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.3705354697576695
+[17:58:22] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.26124350218930203
+[17:58:22] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.6751344662380916
+[18:12:01] [Server thread/INFO]: Cheliness has made the advancement [Acquire Hardware]
+[18:14:27] [Server thread/INFO]: Cheliness has made the advancement [Getting an Upgrade]
+[18:53:42] [Server thread/INFO]: Cheliness has made the advancement [Sweet Dreams]
+[18:53:48] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> Ouhhh
+[19:19:36] [Server thread/INFO]: Cheliness has made the advancement [Hot Stuff]
+[19:34:07] [Server thread/INFO]: Cheliness has made the advancement [Fishy Business]
+[19:57:31] [Server thread/INFO]: Shadowmere_Swift issued server command: /weather clear
+[19:59:41] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.3796088043386021
+[20:01:48] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.4100263093356489
+[20:03:29] [Server thread/INFO]: Cheliness lost connection: Disconnected
+[20:03:29] [Server thread/INFO]: Cheliness left the game
+[20:03:49] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[20:03:49] [Server thread/INFO]: Shadowmere_Swift left the game
+[21:17:53] [User Authenticator #4/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[21:17:53] [Server thread/INFO]: Shadowmere_Swift joined the game
+[21:17:53] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:53088] logged in with entity id 97140 at ([world]392.6825162781073, 79.5, 816.164090778745)
+[21:42:56] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[21:42:56] [Server thread/INFO]: Shadowmere_Swift left the game
+[22:03:42] [User Authenticator #5/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[22:03:42] [Server thread/INFO]: Shadowmere_Swift joined the game
+[22:03:42] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:55135] logged in with entity id 102882 at ([world]-117.51705622307642, -54.0, 930.2059903301653)
+[22:20:10] [User Authenticator #6/INFO]: UUID of player Cheliness is 6eac5eb0-892d-466b-9c19-b798f3460bf0
+[22:20:10] [Server thread/INFO]: Cheliness joined the game
+[22:20:10] [Server thread/INFO]: Cheliness[/90.93.105.27:51351] logged in with entity id 106946 at ([world]493.6458197266985, 70.5625, 204.8983781146954)
+[22:20:47] [Async Chat Thread - #2/INFO]: <Cheliness> coucou toi*
+[22:21:11] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.2868562348056116
+[22:21:14] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.4844724740972879
+[22:21:14] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 1.0133459335821726
+[22:22:33] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.3192571645828366
+[22:22:36] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.4072016542655774
+[23:16:42] [Server thread/INFO]: Cheliness has made the advancement [Isn't It Iron Pick]
+[23:19:09] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.2576659614507548
+[23:19:10] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.27308092280293295
+[23:19:52] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.31699721059402464
+[23:20:09] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.38310371815953204
+[23:20:11] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.2679427894355513

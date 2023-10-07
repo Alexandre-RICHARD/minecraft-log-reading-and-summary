@@ -1,0 +1,165 @@
+[05:07:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:07:07] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:07:08] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:07:09] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:07:09] [Server thread/INFO]: Loading properties
+[05:07:09] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:07:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:07:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:07:09] [Server thread/INFO]: Default game type: SURVIVAL
+[05:07:09] [Server thread/INFO]: Generating keypair
+[05:07:09] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:07:09] [Server thread/INFO]: Using epoll channel type
+[05:07:09] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:07:09] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:07:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:07:09] [Server thread/INFO]: Preparing level "world"
+[05:07:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:07:11] [Server thread/INFO]: Time elapsed: 288 ms
+[05:07:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:07:11] [Server thread/INFO]: Time elapsed: 66 ms
+[05:07:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:07:11] [Server thread/INFO]: Time elapsed: 93 ms
+[05:07:11] [Server thread/INFO]: Starting GS4 status listener
+[05:07:11] [Server thread/INFO]: Thread Query Listener started
+[05:07:11] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:07:11] [Server thread/INFO]: Running delayed init tasks
+[05:07:11] [Server thread/INFO]: Done (2.071s)! For help, type "help"
+[05:07:11] [Server thread/INFO]: Timings Reset
+[10:33:53] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[10:33:53] [Server thread/INFO]: Shadowmere_Swift joined the game
+[10:33:53] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:64446] logged in with entity id 403 at ([world]-413.4741694163839, 63.0, -1068.4654659722605)
+[10:38:39] [User Authenticator #2/INFO]: UUID of player Cheliness is 6eac5eb0-892d-466b-9c19-b798f3460bf0
+[10:38:39] [Server thread/INFO]: Cheliness joined the game
+[10:38:39] [Server thread/INFO]: Cheliness[/176.131.4.117:49368] logged in with entity id 1000 at ([world]491.6075887960753, 70.0, 202.15846336170108)
+[10:38:53] [Server thread/INFO]: Cheliness lost connection: Disconnected
+[10:38:53] [Server thread/INFO]: Cheliness left the game
+[10:39:02] [User Authenticator #2/INFO]: UUID of player Cheliness is 6eac5eb0-892d-466b-9c19-b798f3460bf0
+[10:39:02] [Server thread/INFO]: Cheliness joined the game
+[10:39:02] [Server thread/INFO]: Cheliness[/176.131.4.117:49377] logged in with entity id 1279 at ([world]491.6075887960753, 70.0, 202.15846336170108)
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.25748200970894713
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.47749107916070355
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.5159576439994202
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.539818755653513
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.5526541630532067
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.5594741170092696
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.5632886740840425
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.5653760286833006
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 1.1318797701225496
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.567114360502356
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.567440937628828
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.5676159857383026
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.5677097372100467
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.5677599265678619
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.5677867889949461
+[10:51:19] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.5678011645773747
+[10:51:20] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.5678088572470309
+[10:51:20] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 1.135538412123085
+[10:51:20] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.5667469639414618
+[10:51:20] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.5550417126330658
+[10:51:20] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.29699175409204787
+[10:51:20] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.4559061203299516
+[10:55:34] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[10:55:34] [Server thread/INFO]: Shadowmere_Swift left the game
+[10:57:32] [User Authenticator #3/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[10:57:32] [Server thread/INFO]: Shadowmere_Swift joined the game
+[10:57:32] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:64813] logged in with entity id 10987 at ([world]402.9754578117693, 79.0, 835.7488219513598)
+[11:17:22] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.26101241553254795
+[11:28:41] [Server thread/WARN]: Horse (vehicle of Cheliness) moved wrongly! 0.2623728965762666
+[12:01:02] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[12:01:02] [Server thread/INFO]: Shadowmere_Swift left the game
+[12:02:11] [User Authenticator #4/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[12:02:11] [Server thread/INFO]: Shadowmere_Swift joined the game
+[12:02:11] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:65291] logged in with entity id 36043 at ([world]416.8504124455876, 80.0, 824.1992358978009)
+[12:02:44] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[12:02:44] [Server thread/INFO]: Shadowmere_Swift left the game
+[12:31:34] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.253271062644842
+[12:31:34] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.6463649023396556
+[12:31:34] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 1.133851242039341
+[12:31:34] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 1.6959078871828355
+[12:31:40] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.3948334058634373
+[12:31:40] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.9663466074965186
+[12:33:44] [Server thread/INFO]: Cheliness has made the advancement [Local Brewery]
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.2996146805908779
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.5527660460605262
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.5731620341702524
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.5840755207556754
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.5899151098360562
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.5930397575241386
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.5947116942032835
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.5956063141854315
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.5960850075011308
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.5959705992888757
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.589442275277861
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.561371593018805
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.5243265682025253
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.4980284900948959
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.48395691282661346
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.4764274923873586
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.4723986496307475
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.4702428961981582
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.46908939551747153
+[12:37:35] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.46847218030154636
+[12:37:36] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.46814192074543826
+[12:37:36] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.46796520544165787
+[12:37:36] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.4597370923115136
+[12:37:36] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.41413950151945755
+[12:37:36] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.31261420977193666
+[12:37:45] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.25058499732784867
+[12:40:52] [Server thread/INFO]: Cheliness lost connection: Disconnected
+[12:40:52] [Server thread/INFO]: Cheliness left the game
+[15:47:55] [User Authenticator #5/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[15:47:55] [Server thread/INFO]: Shadowmere_Swift joined the game
+[15:47:55] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:54704] logged in with entity id 43775 at ([world]388.2033665049166, 79.0, 837.8154213482125)
+[15:48:04] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[15:48:04] [Server thread/INFO]: Shadowmere_Swift left the game
+[16:04:53] [User Authenticator #6/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[16:04:54] [Server thread/INFO]: Shadowmere_Swift joined the game
+[16:04:54] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:55095] logged in with entity id 44219 at ([world]388.8461795726215, 79.0, 850.0119369365857)
+[16:08:08] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[16:08:08] [Server thread/INFO]: Shadowmere_Swift left the game
+[16:35:58] [User Authenticator #7/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[16:35:58] [Server thread/INFO]: Shadowmere_Swift joined the game
+[16:35:58] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:55432] logged in with entity id 45718 at ([world]237.73370974841623, 62.0, 664.4284414025394)
+[16:36:25] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[16:36:25] [Server thread/INFO]: Shadowmere_Swift left the game
+[16:52:43] [User Authenticator #8/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[16:52:43] [Server thread/INFO]: Shadowmere_Swift joined the game
+[16:52:43] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:56173] logged in with entity id 46308 at ([world]242.69823180804332, 63.0, 665.3792553520235)
+[17:15:01] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[17:15:01] [Server thread/INFO]: Shadowmere_Swift left the game
+[17:15:03] [User Authenticator #9/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[17:15:03] [Server thread/INFO]: Shadowmere_Swift joined the game
+[17:15:03] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:57012] logged in with entity id 51672 at ([world]421.321027271488, 80.0, 827.6771950548983)
+[17:16:26] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[17:16:26] [Server thread/INFO]: Shadowmere_Swift left the game
+[17:21:45] [User Authenticator #10/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[17:21:45] [Server thread/INFO]: Shadowmere_Swift joined the game
+[17:21:45] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:57318] logged in with entity id 52938 at ([world]484.89610847041286, 71.0, 210.97539780936845)
+[17:21:55] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[17:21:55] [Server thread/INFO]: Shadowmere_Swift left the game
+[18:00:57] [User Authenticator #11/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[18:00:57] [Server thread/INFO]: Shadowmere_Swift joined the game
+[18:00:57] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:51947] logged in with entity id 53188 at ([world]483.04773165483726, 71.0, 219.00261824117328)
+[18:01:01] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[18:01:01] [Server thread/INFO]: Shadowmere_Swift left the game
+[18:08:07] [User Authenticator #12/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[18:08:07] [Server thread/INFO]: Shadowmere_Swift joined the game
+[18:08:07] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:52324] logged in with entity id 53438 at ([world]483.04773165483726, 71.0, 219.00261824117328)
+[18:08:20] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[18:08:20] [Server thread/INFO]: Shadowmere_Swift left the game
+[18:13:30] [User Authenticator #13/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[18:13:30] [Server thread/INFO]: Shadowmere_Swift joined the game
+[18:13:30] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:51866] logged in with entity id 53762 at ([world]474.9277433288501, 72.0, 243.91947009086266)
+[18:14:09] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[18:14:09] [Server thread/INFO]: Shadowmere_Swift left the game
+[18:16:17] [User Authenticator #14/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[18:16:17] [Server thread/INFO]: Shadowmere_Swift joined the game
+[18:16:17] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:52014] logged in with entity id 54209 at ([world]483.6369193820999, 72.0, 232.77052686646314)
+[18:36:43] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[18:36:43] [Server thread/INFO]: Shadowmere_Swift left the game
+[22:10:42] [User Authenticator #15/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[22:10:42] [Server thread/INFO]: Shadowmere_Swift joined the game
+[22:10:42] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:52951] logged in with entity id 66077 at ([world]419.0047083761035, 79.0, 829.077078058426)
+[22:40:14] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[22:40:14] [Server thread/INFO]: Shadowmere_Swift left the game

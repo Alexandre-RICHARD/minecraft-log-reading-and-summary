@@ -1,0 +1,52 @@
+[22:10:20] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:10:20] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[22:10:21] [Worker-Main-1/INFO]: Loaded 7 recipes
+[22:10:22] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[22:10:22] [Server thread/INFO]: Loading properties
+[22:10:22] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[22:10:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:10:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:10:23] [Server thread/INFO]: Default game type: SURVIVAL
+[22:10:23] [Server thread/INFO]: Generating keypair
+[22:10:23] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[22:10:23] [Server thread/INFO]: Using epoll channel type
+[22:10:23] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:10:23] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:10:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:10:23] [Server thread/INFO]: Preparing level "world"
+[22:10:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:10:24] [Server thread/INFO]: Preparing spawn area: 0%
+[22:10:24] [Server thread/INFO]: Preparing spawn area: 0%
+[22:10:25] [Server thread/INFO]: Preparing spawn area: 0%
+[22:10:25] [Server thread/INFO]: Preparing spawn area: 0%
+[22:10:26] [Server thread/INFO]: Time elapsed: 1693 ms
+[22:10:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:10:26] [Server thread/INFO]: Preparing spawn area: 0%
+[22:10:26] [Server thread/INFO]: Preparing spawn area: 0%
+[22:10:26] [Server thread/INFO]: Time elapsed: 650 ms
+[22:10:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:10:26] [Server thread/INFO]: Preparing spawn area: 0%
+[22:10:27] [Server thread/INFO]: Time elapsed: 422 ms
+[22:10:27] [Server thread/INFO]: Starting GS4 status listener
+[22:10:27] [Server thread/INFO]: Thread Query Listener started
+[22:10:27] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[22:10:27] [Server thread/INFO]: Running delayed init tasks
+[22:10:27] [Server thread/INFO]: Done (4.376s)! For help, type "help"
+[22:10:27] [Server thread/INFO]: Timings Reset
+[22:10:34] [Server thread/INFO]: Incorrect argument for command
+[22:10:34] [Server thread/INFO]: whitelist Arcabat<--[HERE]
+[22:10:43] [Server thread/INFO]: Incorrect argument for command
+[22:10:43] [Server thread/INFO]: whitelist Je_veux_GTA_5<--[HERE]
+[22:14:41] [Server thread/INFO]: Stopping the server
+[22:14:41] [Server thread/INFO]: Stopping server
+[22:14:41] [Server thread/INFO]: Saving players
+[22:14:41] [Server thread/INFO]: Saving worlds
+[22:14:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:14:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:14:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:14:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:14:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:14:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:14:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:14:43] [Server thread/INFO]: Flushing Chunk IO
+[22:14:43] [Server thread/INFO]: Closing Thread Pool

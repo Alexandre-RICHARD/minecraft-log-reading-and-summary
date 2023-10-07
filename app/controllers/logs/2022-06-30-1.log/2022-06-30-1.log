@@ -1,0 +1,31 @@
+[00:51:19] [User Authenticator #4/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[00:51:19] [Server thread/INFO]: Shadowmere_Swift joined the game
+[00:51:19] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:55393] logged in with entity id 33357 at ([world]415.83637607552146, 80.0, 827.4718222803085)
+[00:51:32] [User Authenticator #4/INFO]: UUID of player Cheliness is 6eac5eb0-892d-466b-9c19-b798f3460bf0
+[00:51:32] [Server thread/INFO]: Cheliness joined the game
+[00:51:32] [Server thread/INFO]: Cheliness[/176.131.4.117:61321] logged in with entity id 33812 at ([world]493.2480095373633, 54.0, 174.27098944894752)
+[01:18:58] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[01:18:58] [Server thread/INFO]: Shadowmere_Swift left the game
+[01:18:59] [User Authenticator #5/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[01:18:59] [Server thread/INFO]: Shadowmere_Swift joined the game
+[01:18:59] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:55575] logged in with entity id 48345 at ([world]307.57095220380273, 55.0, -1086.840840644341)
+[01:39:10] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.39261556544215637
+[01:39:10] [Server thread/WARN]: Spirit (vehicle of Cheliness) moved wrongly! 0.8751884195719413
+[01:43:53] [Server thread/INFO]: Cheliness lost connection: Disconnected
+[01:43:53] [Server thread/INFO]: Cheliness left the game
+[01:44:18] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[01:44:18] [Server thread/INFO]: Shadowmere_Swift left the game
+[05:00:24] [Server thread/INFO]: Stopping the server
+[05:00:24] [Server thread/INFO]: Stopping server
+[05:00:24] [Server thread/INFO]: Saving players
+[05:00:24] [Server thread/INFO]: Saving worlds
+[05:00:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:00:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:00:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:00:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:00:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:00:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:00:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:00:24] [Server thread/INFO]: Flushing Chunk IO
+[05:00:24] [Server thread/INFO]: Closing Thread Pool
+[05:00:24] [Server thread/INFO]: Closing Server

@@ -1,0 +1,69 @@
+[05:06:11] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:06:11] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:06:12] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:06:13] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:06:13] [Server thread/INFO]: Loading properties
+[05:06:13] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:06:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:06:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:06:13] [Server thread/INFO]: Default game type: SURVIVAL
+[05:06:13] [Server thread/INFO]: Generating keypair
+[05:06:13] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:06:13] [Server thread/INFO]: Using epoll channel type
+[05:06:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:06:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:06:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:06:14] [Server thread/INFO]: Preparing level "world"
+[05:06:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:06:15] [Server thread/INFO]: Time elapsed: 266 ms
+[05:06:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:06:15] [Server thread/INFO]: Time elapsed: 73 ms
+[05:06:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:06:15] [Server thread/INFO]: Time elapsed: 52 ms
+[05:06:15] [Server thread/INFO]: Starting GS4 status listener
+[05:06:15] [Server thread/INFO]: Thread Query Listener started
+[05:06:15] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:06:15] [Server thread/INFO]: Running delayed init tasks
+[05:06:15] [Server thread/INFO]: Done (2.512s)! For help, type "help"
+[05:06:15] [Server thread/INFO]: Timings Reset
+[22:06:54] [Server thread/INFO]: That player does not exist
+[22:07:23] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[22:07:24] [Server thread/INFO]: Shadowmere_Swift joined the game
+[22:07:24] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:64449] logged in with entity id 388 at ([world]-210.2308530715064, 160.0, 269.44570745195955)
+[22:07:34] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[22:07:34] [Server thread/INFO]: Shadowmere_Swift left the game
+[22:09:04] [User Authenticator #2/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[22:09:04] [Server thread/INFO]: Shadowmere_Swift joined the game
+[22:09:04] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:64495] logged in with entity id 577 at ([world]-210.2308530715064, 160.0, 269.44570745195955)
+[22:09:10] [Server thread/INFO]: Shadowmere_Swift issued server command: /whitelist list
+[22:09:17] [Server thread/INFO]: Shadowmere_Swift issued server command: /whitelist list Chenapante
+[22:09:27] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[22:09:27] [Server thread/INFO]: Shadowmere_Swift left the game
+[22:10:21] [User Authenticator #3/INFO]: UUID of player Cheliness is 6eac5eb0-892d-466b-9c19-b798f3460bf0
+[22:10:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@44fa43e6[id=6eac5eb0-892d-466b-9c19-b798f3460bf0,name=Cheliness,properties={textures=[com.mojang.authlib.properties.Property@6a30cf9c]},legacy=false] (/90.93.105.27:50280): You are not whitelisted on this server!
+[22:10:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@44fa43e6[id=6eac5eb0-892d-466b-9c19-b798f3460bf0,name=Cheliness,properties={textures=[com.mojang.authlib.properties.Property@6a30cf9c]},legacy=false] (/90.93.105.27:50280) lost connection: You are not whitelisted on this server!
+[22:12:40] [User Authenticator #4/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[22:12:41] [Server thread/INFO]: Shadowmere_Swift joined the game
+[22:12:41] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:64527] logged in with entity id 768 at ([world]-210.2308530715064, 160.0, 269.44570745195955)
+[22:12:49] [Server thread/INFO]: Shadowmere_Swift issued server command: /whitelist add Cheliness
+[22:17:48] [User Authenticator #5/INFO]: UUID of player Cheliness is 6eac5eb0-892d-466b-9c19-b798f3460bf0
+[22:17:48] [Server thread/INFO]: Cheliness joined the game
+[22:17:48] [Server thread/INFO]: Cheliness[/90.93.105.27:52707] logged in with entity id 3718 at ([world]41.5, 65.0, 283.5)
+[22:22:37] [Server thread/INFO]: Cheliness lost connection: Disconnected
+[22:22:37] [Server thread/INFO]: Cheliness left the game
+[22:22:39] [User Authenticator #6/INFO]: UUID of player Cheliness is 6eac5eb0-892d-466b-9c19-b798f3460bf0
+[22:22:39] [Server thread/INFO]: Cheliness joined the game
+[22:22:39] [Server thread/INFO]: Cheliness[/90.93.105.27:52757] logged in with entity id 4353 at ([world]83.58245541894885, 66.0, 297.24125183815204)
+[22:31:10] [Server thread/INFO]: Cheliness has made the advancement [Cover Me with Diamonds]
+[22:34:00] [Server thread/INFO]: Cheliness has made the advancement [We Need to Go Deeper]
+[22:42:08] [Server thread/INFO]: Cheliness has made the advancement [Monster Hunter]
+[22:42:53] [Server thread/INFO]: Cheliness has made the advancement [A Terrible Fortress]
+[23:29:27] [Server thread/INFO]: Shadowmere_Swift fell from a high place
+[23:40:40] [Server thread/INFO]: Cheliness has made the advancement [Best Friends Forever]
+[23:48:13] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:speed 10 10
+[23:49:18] [Server thread/INFO]: Shadowmere_Swift issued server command: /effect give Cheliness minecraft:slowness 10 100
+[23:50:54] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[23:51:01] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[23:51:05] [Server thread/INFO]: Shadowmere_Swift issued server command: /tp Cheliness Shadowmere_Swift
+[23:51:05] [Server thread/WARN]: Cheliness moved too quickly! -0.08683099944690298,11.0,-4.531567380359434
+[23:53:23] [Server thread/INFO]: Shadowmere_Swift issued server command: /weather clear

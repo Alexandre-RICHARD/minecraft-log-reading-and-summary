@@ -1,0 +1,206 @@
+[05:11:43] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:11:44] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:11:45] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:11:47] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:11:47] [Server thread/INFO]: Loading properties
+[05:11:47] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:11:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:11:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:11:47] [Server thread/INFO]: Default game type: SURVIVAL
+[05:11:47] [Server thread/INFO]: Generating keypair
+[05:11:47] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:11:47] [Server thread/INFO]: Using epoll channel type
+[05:11:47] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:11:47] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:11:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:11:48] [Server thread/INFO]: Preparing level "world"
+[05:11:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:11:51] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:51] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:51] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:52] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:52] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:54] [Server thread/INFO]: Time elapsed: 3142 ms
+[05:11:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:11:54] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:54] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:55] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:55] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:55] [Server thread/INFO]: Time elapsed: 1893 ms
+[05:11:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:11:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:57] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:57] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:57] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:58] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:58] [Server thread/INFO]: Time elapsed: 2695 ms
+[05:11:58] [Server thread/INFO]: Starting GS4 status listener
+[05:11:58] [Server thread/INFO]: Thread Query Listener started
+[05:11:58] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:11:58] [Server thread/INFO]: Running delayed init tasks
+[05:11:58] [Server thread/INFO]: Done (11.617s)! For help, type "help"
+[05:11:58] [Server thread/INFO]: Timings Reset
+[05:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5234ms or 104 ticks behind
+[13:48:05] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[13:48:05] [Server thread/INFO]: Shadowmere_Swift joined the game
+[13:48:05] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63715] logged in with entity id 420 at ([world]80.148665328653, 73.0, 295.5899783217137)
+[13:52:48] [Server thread/INFO]: Shadowmere_Swift issued server command: /forceload remove all
+[13:53:32] [Server thread/INFO]: Shadowmere_Swift issued server command: /forceload add -79 246 -121 204
+[13:55:46] [Server thread/INFO]: Shadowmere_Swift issued server command: /forceload add 118 358 58 270
+[14:00:46] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[14:00:46] [Server thread/INFO]: Shadowmere_Swift left the game
+[14:04:17] [User Authenticator #2/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[14:04:18] [Server thread/INFO]: Shadowmere_Swift joined the game
+[14:04:18] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65442] logged in with entity id 8903 at ([world]86.35006402831974, 73.875, 304.00146350015757)
+[15:05:12] [Server thread/INFO]: Shadowmere_Swift experienced kinetic energy
+[15:07:10] [Server thread/WARN]: Shadowmere_Swift moved wrongly!
+[15:32:39] [User Authenticator #3/INFO]: UUID of player Helios_49 is e6e69f28-5b9c-458c-bcaf-b8091aba0a12
+[15:32:39] [Server thread/INFO]: Helios_49 joined the game
+[15:32:39] [Server thread/INFO]: Helios_49[/92.139.237.81:59696] logged in with entity id 67518 at ([world]-642.2076587378958, 80.0, -1258.017956887781)
+[15:32:49] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> SALUT
+[15:32:52] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> oops
+[15:32:53] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> salut
+[15:33:02] [Async Chat Thread - #0/INFO]: <Helios_49> SALUT CA VA
+[15:33:59] [Async Chat Thread - #0/INFO]: <Helios_49> Mine de rien ça fait longtemps, j'imagine que tout a déjà pas mal changé
+[15:35:36] [Async Chat Thread - #1/INFO]: <Helios_49> Pourquoi y a un mouton perdu dans le chemin du nether entre chez moi et la base :')
+[15:37:27] [Async Chat Thread - #2/INFO]: <Helios_49> Et pourquoi y a des chevaux squelettes
+[15:37:33] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> attends
+[15:37:36] [Async Chat Thread - #2/INFO]: <Helios_49> Je comprends rien jpp
+[15:38:43] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> je suis très occupé là
+[15:38:49] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> je suis dans une situation délicate
+[15:38:51] [Server thread/INFO]: Villager EntityVillager['Villager'/67006, uuid='22b1e6b4-f10e-4f56-a29d-a86265e69811', l='ServerLevel[world]', x=-691.50, y=77.50, z=-963.46, cpos=[-44, -61], tl=13883, v=true] died, message: 'Villager was shot by Pillager'
+[15:38:57] [Async Chat Thread - #3/INFO]: <Helios_49> Tkt
+[15:39:03] [Async Chat Thread - #3/INFO]: <Helios_49> Dans le jeu ou irl ???
+[15:39:20] [Server thread/INFO]: Villager EntityVillager['Farmer'/66958, uuid='b1f0d831-f7c8-4b78-8185-317599905cd9', l='ServerLevel[world]', x=-733.80, y=87.18, z=-956.31, cpos=[-46, -60], tl=13915, v=true] died, message: 'Farmer was slain by Vex'
+[15:40:34] [Server thread/INFO]: Shadowmere_Swift has completed the challenge [Hero of the Village]
+[15:40:38] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> ooff
+[15:40:41] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> yes
+[15:40:45] [Async Chat Thread - #4/INFO]: <Helios_49> Ah un raid je suppose
+[15:40:48] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> oui
+[15:44:37] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> alors, ouais pas mal de nouveautés du coup
+[15:44:42] [Async Chat Thread - #5/INFO]: <Helios_49> Ah bah j'ai trouvé la ferme à fer avec les villageois captifs
+[15:44:51] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> Le mouton, j'en ai aucune idée
+[15:45:45] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> Les chevaux squelettes, je sais pas trop pourquoi ils apparaissent mais en gros, c'est durant les orages, il y en a un et si tu t'approches, 3 de plus apparaissent avec des squelettes archers dessus. Mais on peut les capturer. Après, c'est juste pour le
+[15:45:53] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> style, ce ne sont pas de très bon chevaux
+[15:46:12] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> la ferme à fer ouais qui fonctionnent très bien
+[15:46:41] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> les villageois dans la caverne en bas proposent tous les enchantements et on a mis en place des moyens de farm les émeraudes
+[15:46:57] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> On a plein de charbon et on cuit tout à la lave maintenant
+[15:47:09] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> et des tonnes d'autre chose que j'ai pas en tete
+[15:47:42] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> là je suis parti en exploration longue durée et je vais ramener plein de choses
+[15:48:53] [Async Chat Thread - #6/INFO]: <Helios_49> Ah oui c'est vrai qu'on peut cuire à la lave, j'avais zappé ! Ok pour les chevaux c'est stylé, et j'ai pas encore vu la caverne et les villageois
+[15:49:16] [Async Chat Thread - #6/INFO]: <Helios_49> En tout cas je viens d'assister en temps réel au fonctionnement de la ferme à fer donc je comprends mieux
+[15:49:22] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> ouais et puis genre avec le nether c'est infini et très rapide d'aller en chercher une fois un bel escalier construit (ce qui est le cas)
+[15:50:08] [Async Chat Thread - #6/INFO]: <Helios_49> Je peux prendre du fer pour faire mes rails jusqu'à ma base du coup ?
+[15:50:23] [Async Chat Thread - #6/INFO]: <Helios_49> Yep j'ai vu l'escalier, je le testerai plus tard
+[15:50:29] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> en gros. A 6h, les pistons se relève, les villageois se réveillent et ont immédiatement peur du zombie. Ayant peur, ils discutent pour avoir un golem de fer. Chaque groupe le fait. Le soir ils s'endorment à 18h et donc plus de golem. Les pistons redescende
+[15:50:50] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> Oui, mais je trouve que c'est toujours pas une idée qui en vaut la peine ^^
+[15:51:10] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> Normalement, j'ai réglé la ferme à fer pour qu'elle fonctionne tout le temps
+[15:51:16] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> Combien de fer il y a dans le coffre ?
+[15:52:04] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> ah et je suis mort beaucoup de fois mais... m'en fous du coup maintenant
+[15:52:39] [Async Chat Thread - #6/INFO]: <Helios_49> Ok ! Quel lore pour les villageois, les discussions et tout, c'est cool en vrai
+[15:52:58] [Async Chat Thread - #6/INFO]: <Helios_49> Mais bien sûr que mes rails valent le coup ! Y avait des centaines de fer
+[15:53:32] [Async Chat Thread - #6/INFO]: <Helios_49> C'est vrai que je crois pas avoir été présent.e pendant une seule de tes morts jusque là , tu restais invincible à mes yeux
+[15:54:10] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> ah bah pourtant je suis mort 17 fois. Et 12 sont vraies (les 5 autres c'étaient des test du keepinventory)
+[15:55:43] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> en tout cas, sache qu'il y a environ 1700 mètres entre ta future base et le campement
+[15:56:22] [Async Chat Thread - #7/INFO]: <Helios_49> Effectivement c'est pas mal, perso ça a dû arriver entre 5 et 7 fois, je suis sûr.e que t'as un tableau de stats pour ça
+[15:56:36] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> nan j'ai pas accès à) vos stats perso
+[15:56:51] [Async Chat Thread - #7/INFO]: <Helios_49> En tout cas je vois que quelqu'un a brisé mon pont pour passer...Triste
+[15:57:03] [Async Chat Thread - #7/INFO]: <Helios_49> Ah oui c'est vrai qu'il y a des stats ingame
+[15:57:05] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> ça gêne les bateaux
+[15:57:17] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> et je pouvais pas le casser
+[15:59:27] [Async Chat Thread - #8/INFO]: <Helios_49> J'ai du bordel dans ce coffre c'était pour mes rails, je t'ai vu le checker
+[15:59:32] [Async Chat Thread - #8/INFO]: <Helios_49> Ok ok
+[15:59:46] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> tkt, je suis tout le temps curieux avec les coffres des autres mais je touche à rien
+[15:59:51] [Async Chat Thread - #8/INFO]: <Helios_49> Bah au pire je laisserai ce petit passage ouvert je sais pas
+[16:00:17] [Async Chat Thread - #8/INFO]: <Helios_49> Moi à part la fois où je t'ai volé puis rendu 3 lapis je touche à rien non plus
+[16:00:17] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> bah maintenant, je voyage que très peu en bateau je m'en fiche un peu
+[16:00:28] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> J'avais juste besoin d'amener un villageois sur l'ile
+[16:00:30] [Async Chat Thread - #8/INFO]: <Helios_49> Ok nice je le reconstruirai alors
+[16:04:53] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> tu as pensé aux rails boosters ?
+[16:06:09] [Async Chat Thread - #10/INFO]: <Helios_49> Je sais que ça existe mais plus comment ça marche pour l'instant je fais juste des rails normaux partout, et j'apprendrai ensuite comment faire ça
+[16:06:37] [Async Chat Thread - #10/INFO]: <Helios_49> Dans l'idée j'aimerais donner un certain rytheme à la traversée, donc j'aimerais que ce soit pas trop long non plus
+[16:06:43] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> faut juste un bloc alimentation en redstone
+[16:06:56] [Async Chat Thread - #10/INFO]: <Helios_49> Mais ça c'est mon projet "secret"
+[16:07:12] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> on en a tous ^^
+[16:08:15] [Async Chat Thread - #11/INFO]: <Helios_49> Ton projet secret c'est d'automatiser TOUTE la vie de la base ?
+[16:08:35] [Async Chat Thread - #11/INFO]: <Shadowmere_Swift> Même pas
+[16:11:33] [Async Chat Thread - #12/INFO]: <Helios_49> Bon de toute façon j'espère que t'as plusieurs projets secrets, car le mien devrait me prendre BEAUCOUP de temps
+[16:11:58] [Async Chat Thread - #12/INFO]: <Helios_49> Vu le temps que je vais avoir mis à simplement faire un chemin là
+[16:12:24] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> oui. J'utilise une appli de To Do List pour faciliter ma mémoire défaillante, et la section Minecraft est bondé d'idée et projet. Certains... déjà commencé
+[16:12:43] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> avec le bon stuff et l'habitude, tout va plus vite
+[16:14:40] [Async Chat Thread - #13/INFO]: <Helios_49> L'envergure de ton ambition me fait peur xD
+[16:14:51] [Async Chat Thread - #13/INFO]: <Helios_49> Vraiment l'impression que t'as 300 projets là
+[16:14:56] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> Tellement
+[16:15:07] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> Mais comme dans chacune de mes parties Minecraft
+[16:15:16] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> Si j'en fait 5% c'est bien déjà
+[16:15:36] [Async Chat Thread - #13/INFO]: <Helios_49> En tout cas quel mystère pour ceux que t'as commencés, j'imagine que c'est caché au loin dans ton village
+[16:15:43] [Async Chat Thread - #13/INFO]: <Helios_49> Ah oui à ce point là
+[16:16:14] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> Il y en a un, je commence à avoir du mal à le cacher tellement il est présent dans tout ce que je fais
+[16:16:28] [Async Chat Thread - #13/INFO]: <Helios_49> Et comment ça chacune de tes parties, t'as déjà fait combien de trucs hyper longs ?
+[16:16:38] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> Mais je veux que la blague continue le plus loin possible
+[16:16:49] [Async Chat Thread - #13/INFO]: <Helios_49> Laisse-moi deviner, ça implique de torturer des villaegois ?
+[16:19:44] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> bah ça fait 11 ans que je joue à Minecraft,; j'ai du faire une bonne 40aine de parties sérieuses avec beaucoup d'ambitions, mais jamais je fais tout, et heureusement sinon, ça serait ma seule occupation dans ma vie
+[16:20:00] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> Et nan, mais de tuer des choses, récolter, explorer
+[16:20:54] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> mais mon but c'est que malgré nos différences d'implication
+[16:21:10] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> de temps disponibles et de projets, on se plaisent tous sur le serv
+[16:22:07] [Async Chat Thread - #14/INFO]: <Helios_49> Ah oui une quarantaine quand même
+[16:22:22] [Async Chat Thread - #14/INFO]: <Helios_49> PErso quand j'étais gosse j'ai juste fait une lamp à lave géante
+[16:22:26] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> c'est de loin le jeux auquel j'ai le plus joué
+[16:22:31] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> Trop bien en vrai
+[16:23:02] [Async Chat Thread - #14/INFO]: <Helios_49> Rien d'incroyable, juste une tour en verre partant du haut de la map, jusqu'au sol, avec de la lave dedans
+[16:23:20] [Async Chat Thread - #14/INFO]: <Helios_49> Et un pote de mon frère avait supprimé ma game car c'était un connard
+[16:23:30] [Async Chat Thread - #14/INFO]: <Helios_49> Je crois que j'avais arrêté le jeu après ça
+[16:23:50] [Async Chat Thread - #14/INFO]: <Helios_49> Et du coup Camille nous rejoindra sur le serv au fait ?
+[16:23:57] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> tu métonnes, trop triste de perdre une save d'un jeu qu'on kiff
+[16:24:17] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> Je pense pas, c'est plus pour les soirées jeux, je doute que Minecraft l'intéresse
+[16:26:38] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> Et du coup, là tu vas te concentrer sur ton chemin et après sur ta base ?
+[16:28:53] [Async Chat Thread - #16/INFO]: <Helios_49> Bah surtout que je venais littéralement de la finir, j'avais pété un câble, petite "baston" et tout, mais bref :')
+[16:29:40] [Async Chat Thread - #16/INFO]: <Helios_49> Ok ! Je l'ai vue spawn dans Discord d'un coup donc je pensais que c'était peut-être pour ça à la base, mais du coup je vois
+[16:30:34] [Async Chat Thread - #16/INFO]: <Helios_49> Yep, là j'ai presque fini, après je vais arrêter car je vais au ciné avec ma mère en début de soirée, plus tard soit je continuerai ma base soit je ferai mes petits projets
+[16:36:46] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> Bah j'espère que tu pourras faire tout cve que tu veux
+[16:36:48] [Async Chat Thread - #17/INFO]: <Helios_49> AH
+[16:36:55] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> AH ?
+[16:37:17] [Async Chat Thread - #17/INFO]: <Helios_49> En fait je crois qu'on va opter pour la solution des rails boosters
+[16:37:29] [Async Chat Thread - #17/INFO]: <Helios_49> Je pensais pas que c'était SI lent que ça
+[16:37:30] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> tu as essayé le wagon motorisé
+[16:37:39] [Async Chat Thread - #17/INFO]: <Helios_49> Wagon motorisé ?
+[16:37:48] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> Nan ? Tu as essayé quoi ?
+[16:38:11] [Async Chat Thread - #17/INFO]: <Helios_49> Bah un minecart quoi
+[16:38:17] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> ah sans rien ?
+[16:38:19] [Async Chat Thread - #17/INFO]: <Helios_49> normal non ?
+[16:38:25] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> Bah oui c'est normal que ça avance pas
+[16:38:32] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> Ca a jamais marché ça
+[16:38:47] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> En plus rester appuyer sur avancer
+[16:38:58] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> Alors que les rails boosters, tu n'as rien a faire
+[16:39:03] [Async Chat Thread - #17/INFO]: <Helios_49> Bah on utilisait des boosters mais j'ai jamais su qu'il en existait des motorisés
+[16:39:45] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> En fait, il y a 4 moyens de faire avancer un minecart
+[16:39:49] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> En appuyant sur Z
+[16:39:54] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> C'est nul, c'est lent
+[16:39:58] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> Tu veux mourir
+[16:40:14] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> 2 - En descente, logique mais besoin de rien
+[16:40:33] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> 3 - Avec un wagon motorisé (wagon + four + charbon) mais c'est pas ouf
+[16:41:06] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> 4 - Tu mets un rails boosters alimentés tous les (en gros, à toi de voir) 10 blocs et là ça avance bien
+[16:41:42] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> Et pour le coup, ça n'a pas changé depuis 2012 je pense, l'une des parties de Minecraft qui est resté comme à l'origine
+[16:42:20] [Async Chat Thread - #17/INFO]: <Helios_49> Ah ok motorisé faudrait l'alimenter comme ça, bah du coup ouais je vais partir sur les boosters, même si je vais pas faire ça maintenant
+[16:42:42] [Async Chat Thread - #17/INFO]: <Helios_49> Dans mes souvenirs fallait les activer avec une torche à redstone non ?
+[16:43:59] [Async Chat Thread - #18/INFO]: <Helios_49> Je vois qu'il existe des activateurs et des détecteurs
+[16:44:06] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> Torche, levier activé, blocs de redstone (le plus simple mais pas très jolie)
+[16:44:31] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> Oui ce sont des rails spécifiques qui ne servent que rarement mais peuvent être utiles
+[16:45:14] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> j'ai exploré tout l'océan
+[16:45:21] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> On a 6 temples d ela mer
+[16:46:09] [Async Chat Thread - #18/INFO]: <Helios_49> Ok bah du coup je verrai ça plus tard, ce soir ou demain je pense, merci pour les infos, j'ai oublié pas mal de trucs sur la redstone (mais j'y connaissais pas grand chose de base)
+[16:46:22] [Async Chat Thread - #18/INFO]: <Helios_49> Nice, un chacun.e quoi xD
+[16:47:07] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> Pour les rails boosters par contre, ils sont en or. On en a pas mal mais j'espère assez
+[16:49:20] [Async Chat Thread - #19/INFO]: <Helios_49> Ok bah je verrai ça, je te redemanderai sûrement des infos quand je ferai ça de toute façon
+[16:49:36] [Async Chat Thread - #19/INFO]: <Helios_49> Donc je vais m'arrêter là pour l'instant !
+[16:49:44] [Async Chat Thread - #19/INFO]: <Shadowmere_Swift> Ca marche, bon ciné à vous deux
+[16:49:50] [Async Chat Thread - #19/INFO]: <Shadowmere_Swift> Et ok pour les infos
+[16:50:06] [Async Chat Thread - #19/INFO]: <Helios_49> Yep, merci, bon aprèm/soirée à toi !
+[16:51:12] [Server thread/INFO]: Helios_49 lost connection: Disconnected
+[16:51:12] [Server thread/INFO]: Helios_49 left the game
+[18:14:30] [Server thread/INFO]: Shadowmere_Swift was slain by Blaze
+[18:26:28] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[18:26:28] [Server thread/INFO]: Shadowmere_Swift left the game

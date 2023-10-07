@@ -1,0 +1,26 @@
+[00:17:09] [User Authenticator #11/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[00:17:09] [Server thread/INFO]: Shadowmere_Swift joined the game
+[00:17:09] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63575] logged in with entity id 149450 at ([world]182.83767035916242, 28.0, 344.6990903112236)
+[00:29:48] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[00:30:13] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[01:34:39] [Server thread/INFO]: Villager EntityVillager['Farmer'/129016, uuid='d3c09ef1-babd-4dc2-8ebb-e1f387957ce9', l='ServerLevel[world]', x=168.35, y=27.00, z=358.58, cpos=[10, 22], tl=217213, v=true] died, message: 'Farmer was slain by Shadowmere_Swift'
+[01:35:09] [Server thread/INFO]: Shadowmere_Swift was slain by Iron Golem
+[01:39:07] [Server thread/INFO]: Shadowmere_Swift was slain by Iron Golem
+[01:39:16] [Server thread/INFO]: Shadowmere_Swift issued server command: /tp Shadowmere_Swift 183 26 350
+[01:45:17] [Server thread/INFO]: Shadowmere_Swift was slain by Slime
+[01:47:13] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[01:47:13] [Server thread/INFO]: Shadowmere_Swift left the game
+[05:00:27] [Server thread/INFO]: Stopping the server
+[05:00:27] [Server thread/INFO]: Stopping server
+[05:00:27] [Server thread/INFO]: Saving players
+[05:00:27] [Server thread/INFO]: Saving worlds
+[05:00:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:00:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:00:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:00:27] [Server thread/INFO]: Flushing Chunk IO
+[05:00:27] [Server thread/INFO]: Closing Thread Pool
+[05:00:27] [Server thread/INFO]: Closing Server

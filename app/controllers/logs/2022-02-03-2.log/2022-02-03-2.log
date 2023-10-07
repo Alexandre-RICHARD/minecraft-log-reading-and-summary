@@ -1,0 +1,318 @@
+[05:14:09] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:14:11] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:14:14] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:14:21] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:14:21] [Server thread/INFO]: Loading properties
+[05:14:22] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:14:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:14:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:14:23] [Server thread/INFO]: Default game type: SURVIVAL
+[05:14:23] [Server thread/INFO]: Generating keypair
+[05:14:24] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:14:24] [Server thread/INFO]: Using epoll channel type
+[05:14:24] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:14:24] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:14:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:14:25] [Server thread/INFO]: Preparing level "world"
+[05:14:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:14:36] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:36] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:36] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:36] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:36] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:36] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:36] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:37] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:37] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:37] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:38] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:38] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:39] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:39] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:39] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:40] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:41] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:41] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:41] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:42] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:42] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:43] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:44] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:44] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:45] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:45] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:45] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:46] [Server thread/INFO]: Preparing spawn area: 3%
+[05:14:47] [Server thread/INFO]: Preparing spawn area: 3%
+[05:14:47] [Server thread/INFO]: Preparing spawn area: 3%
+[05:14:47] [Server thread/INFO]: Preparing spawn area: 3%
+[05:14:48] [Server thread/INFO]: Time elapsed: 15075 ms
+[05:14:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:14:48] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:48] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:49] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:49] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:50] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:50] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:51] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:51] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:52] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:52] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:53] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:54] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:54] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:55] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:55] [Server thread/INFO]: Time elapsed: 7053 ms
+[05:14:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:14:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:57] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:58] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:58] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:58] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:59] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:59] [Server thread/INFO]: Preparing spawn area: 0%
+[05:15:01] [Server thread/INFO]: Preparing spawn area: 0%
+[05:15:02] [Server thread/INFO]: Preparing spawn area: 0%
+[05:15:02] [Server thread/INFO]: Preparing spawn area: 0%
+[05:15:02] [Server thread/INFO]: Preparing spawn area: 0%
+[05:15:02] [Server thread/INFO]: Preparing spawn area: 0%
+[05:15:02] [Server thread/INFO]: Preparing spawn area: 0%
+[05:15:03] [Server thread/INFO]: Preparing spawn area: 0%
+[05:15:03] [Server thread/INFO]: Time elapsed: 8443 ms
+[05:15:03] [Server thread/INFO]: Starting GS4 status listener
+[05:15:04] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:15:04] [Server thread/INFO]: Thread Query Listener started
+[05:15:04] [Server thread/INFO]: Running delayed init tasks
+[05:15:04] [Server thread/INFO]: Done (42.297s)! For help, type "help"
+[05:15:04] [Server thread/INFO]: Timings Reset
+[05:15:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[05:20:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5471ms or 109 ticks behind
+[09:32:19] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[09:32:20] [Server thread/INFO]: Shadowmere_Swift joined the game
+[09:32:20] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64160] logged in with entity id 819 at ([world]-211.77239857679672, 70.0, 305.4431412601569)
+[10:55:55] [Server thread/WARN]: Shadowmere_Swift moved wrongly!
+[11:21:19] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[11:21:19] [Server thread/INFO]: Shadowmere_Swift left the game
+[11:51:09] [User Authenticator #2/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[11:51:10] [Server thread/INFO]: Shadowmere_Swift joined the game
+[11:51:10] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63655] logged in with entity id 24836 at ([world]83.41610515170257, 74.0, 292.694130994226)
+[12:13:13] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[12:13:13] [Server thread/INFO]: Shadowmere_Swift left the game
+[12:48:46] [User Authenticator #3/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[12:48:46] [Server thread/INFO]: Shadowmere_Swift joined the game
+[12:48:46] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64399] logged in with entity id 28544 at ([world]-223.51598230767263, 68.9375, 294.66438374602376)
+[13:05:46] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[13:05:46] [Server thread/INFO]: Shadowmere_Swift left the game
+[13:07:48] [User Authenticator #4/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[13:07:48] [Server thread/INFO]: Shadowmere_Swift joined the game
+[13:07:48] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65425] logged in with entity id 32292 at ([world]62.65611908947009, 72.0, 335.48025356131154)
+[13:08:02] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[13:08:02] [Server thread/INFO]: Shadowmere_Swift left the game
+[13:26:25] [User Authenticator #5/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[13:26:25] [Server thread/INFO]: Shadowmere_Swift joined the game
+[13:26:25] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64885] logged in with entity id 32445 at ([world]62.65611908947009, 72.0, 335.48025356131154)
+[17:14:10] [Server thread/INFO]: Shadowmere_Swift fell from a high place
+[17:32:20] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[17:32:20] [Server thread/INFO]: Shadowmere_Swift left the game
+[19:38:11] [User Authenticator #6/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[19:38:11] [Server thread/INFO]: Shadowmere_Swift joined the game
+[19:38:11] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63683] logged in with entity id 81997 at ([world]-210.61315172847367, 160.0, 269.50679459507523)
+[20:09:46] [User Authenticator #7/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[20:09:46] [Server thread/INFO]: Arcabat joined the game
+[20:09:46] [Server thread/INFO]: Arcabat[/46.193.65.177:56159] logged in with entity id 87504 at ([world]53.60006615518113, 87.0, 306.84694964577915)
+[20:09:50] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> oh
+[20:09:53] [Async Chat Thread - #0/INFO]: <Arcabat> yoooooo
+[20:09:53] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> salut ici
+[20:10:14] [Async Chat Thread - #0/INFO]: <Arcabat> wow
+[20:10:28] [Async Chat Thread - #0/INFO]: <Arcabat> tout ces coffres xD
+[20:10:35] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> mais bien rangé
+[20:10:43] [Async Chat Thread - #0/INFO]: <Arcabat> j'imagine
+[20:12:06] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> tu joues avec un ressources pack ?
+[20:12:14] [Async Chat Thread - #1/INFO]: <Arcabat> faitful
+[20:12:48] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> ok. Parce que moi aussi avant, et l'autre jour j'en ai testé plein et j'en ai trouvé un que je trouve vraiment mieux, mais dans le même genre
+[20:13:01] [Async Chat Thread - #1/INFO]: <Arcabat> c'est quoi ?
+[20:13:24] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> Je suis pas sur que ce soit le bon nom, mais dans mes fichiers, c'est le Prime's x32
+[20:13:35] [Async Chat Thread - #1/INFO]: <Arcabat> connais pas, je vais voir
+[20:14:32] [Async Chat Thread - #1/INFO]: <Arcabat> j'avoue pas mal
+[20:14:35] [Async Chat Thread - #1/INFO]: <Arcabat> je vais le test
+[20:16:17] [Async Chat Thread - #2/INFO]: <Arcabat> whaaaaaaaa
+[20:16:20] [Async Chat Thread - #2/INFO]: <Arcabat> ça change
+[20:16:24] [Async Chat Thread - #2/INFO]: <Arcabat> c'est bizarre
+[20:16:43] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> il est un peu cartoon/chill. J'aime beaucoup après des années de Faithful
+[20:16:57] [Async Chat Thread - #2/INFO]: <Arcabat> ouais c'est ça, ça ressemble a zelda
+[20:17:04] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> c'est vrai ouais
+[20:17:19] [Async Chat Thread - #2/INFO]: <Arcabat> mais je préfère le faithful, enfin j'y suis plus habitué
+[20:17:24] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> normal
+[20:17:49] [Async Chat Thread - #2/INFO]: <Arcabat> ah c'est mieux x)
+[20:18:18] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> grosse refonte du spawn bientot finie en vraie
+[20:19:27] [Async Chat Thread - #3/INFO]: <Arcabat> tu veux parler de nos batiments ?
+[20:19:39] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> du terrain, de l'organisation, des batiment, de tout
+[20:19:44] [Async Chat Thread - #3/INFO]: <Arcabat> yep
+[20:19:57] [Async Chat Thread - #3/INFO]: <Arcabat> mais il va y avoir encore pleeeeeeeins de choses
+[20:20:00] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> evidemment
+[20:20:59] [Async Chat Thread - #3/INFO]: <Arcabat> et au fait, pour l'écurie, tu veux que je rajoute du détail ?
+[20:21:13] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> si tu as l'envie et que tu vois comment faire ouais
+[20:21:31] [Async Chat Thread - #3/INFO]: <Arcabat> yep, après, c'est embetant si je casse quelques blocs ou pas ?
+[20:21:42] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> Mais, je sais que tu travailles souvent avec des murs de 2 d'épaisseur, moi j'aime pas trop donc ça va être plus complexe
+[20:21:52] [Async Chat Thread - #3/INFO]: <Arcabat> pas toujours non
+[20:22:37] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> nan, enfin, je sais que tu vas respecter et pas tout casser, vazy
+[20:22:49] [Async Chat Thread - #3/INFO]: <Arcabat> bah oui oui evidement
+[20:24:48] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> j'ai un peu améliorer le four auto en attendant d'en faire une vraie machine full auto
+[20:24:53] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> Oh d'ailleurs !!!!!!!!
+[20:24:59] [Async Chat Thread - #4/INFO]: <Arcabat> bien
+[20:25:01] [Async Chat Thread - #4/INFO]: <Arcabat> oui ?
+[20:25:11] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> J'ai appris qu'on pouvait farmer la lave en infini
+[20:25:16] [Async Chat Thread - #4/INFO]: <Arcabat> quoi?
+[20:25:23] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> Depuis la 1.18, c'est une ressource renouvlable apparemment
+[20:25:28] [Async Chat Thread - #4/INFO]: <Arcabat> comment ?
+[20:25:50] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> Je crois, il faut mettre une source de lave au dessus d'une stalactite et un chaudron en dessous
+[20:25:57] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> J'essaie juste après pour voir
+[20:26:01] [Async Chat Thread - #4/INFO]: <Arcabat> mmh
+[20:26:05] [Async Chat Thread - #4/INFO]: <Arcabat> a voir alors
+[20:27:54] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> Sinon, ferme à bois, tour à mob opérationnelle. Une plateforme afk est au dessus et semble même faire fonctionner la ferme à fer
+[20:28:16] [Async Chat Thread - #5/INFO]: <Arcabat> ah ouais bien joué
+[20:28:31] [Async Chat Thread - #5/INFO]: <Arcabat> tu as fait ça quand ?
+[20:29:24] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> Hier et aujourd'hui. Deux jours de repos bien utilisé xD
+[20:29:49] [Async Chat Thread - #5/INFO]: <Arcabat> mdr effectivement x)
+[20:34:32] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[20:34:56] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[20:49:12] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> tu as prévu ou penser quelque chose pour la zone au dessus de ta cabane à pêche ? Parce que l'endroit à un bon potentiel
+[20:49:33] [Async Chat Thread - #6/INFO]: <Arcabat> la zone au dessus ?
+[20:49:39] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> là ou on avait les coffres
+[20:50:02] [Async Chat Thread - #6/INFO]: <Arcabat> ah ! bah j'ai pas un truc de prévu spécialement, mais je pensais y faire quelque chose quand meme oui
+[20:50:17] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[20:50:17] [Server thread/INFO]: Shadowmere_Swift left the game
+[20:50:18] [User Authenticator #8/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[20:50:18] [Server thread/INFO]: Shadowmere_Swift joined the game
+[20:50:18] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65145] logged in with entity id 97166 at ([world]86.69911962322182, 71.0, 322.69999998807907)
+[20:50:31] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> ok, bah je vaus y réfléchir
+[20:50:36] [Async Chat Thread - #6/INFO]: <Arcabat> dacc
+[20:50:38] [Async Chat Thread - #6/INFO]: <Arcabat> je re
+[20:50:39] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[20:50:39] [Server thread/INFO]: Arcabat left the game
+[20:51:40] [User Authenticator #9/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[20:51:40] [Server thread/INFO]: Arcabat joined the game
+[20:51:40] [Server thread/INFO]: Arcabat[/46.193.65.177:61385] logged in with entity id 97497 at ([world]61.01155894395974, 78.0, 324.0920959958751)
+[20:52:07] [Async Chat Thread - #7/INFO]: <Arcabat> oh fait chier
+[20:52:12] [Async Chat Thread - #7/INFO]: <Arcabat> je me suis foirer
+[20:52:14] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> quewa ?
+[20:52:20] [Async Chat Thread - #7/INFO]: <Arcabat> sur la maison la
+[20:52:24] [Async Chat Thread - #7/INFO]: <Arcabat> je dois changer des truc
+[20:52:33] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> je vois pas
+[20:52:42] [Async Chat Thread - #7/INFO]: <Arcabat> les fenêtres du premier étage
+[20:52:47] [Async Chat Thread - #7/INFO]: <Arcabat> c'est pas comme ça
+[20:53:09] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> tant que tu te comprends mdr
+[20:53:20] [Async Chat Thread - #7/INFO]: <Arcabat> ah bah oui
+[20:54:04] [Async Chat Thread - #7/INFO]: <Arcabat> la tu devrais voir la diff
+[20:54:13] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> ah oui
+[20:57:16] [Async Chat Thread - #8/INFO]: <Arcabat> voila
+[21:08:35] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> et bien ça marche trop bien pour la lave
+[21:08:44] [Async Chat Thread - #9/INFO]: <Arcabat> ah ouais ?
+[21:08:46] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> ouaip
+[21:08:58] [Async Chat Thread - #9/INFO]: <Arcabat> wow
+[21:09:09] [Async Chat Thread - #9/INFO]: <Arcabat> trop trop cool
+[21:09:27] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> je savais même pas qu'on pouvait mettre de la lave dans un truc
+[21:09:37] [Async Chat Thread - #9/INFO]: <Arcabat> ça le fait vite ?
+[21:09:44] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> ça a l'air random
+[21:09:47] [Async Chat Thread - #9/INFO]: <Arcabat> ah
+[21:09:54] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> y'en a un qui s'est rempli en 2 secondes
+[21:09:55] [Async Chat Thread - #9/INFO]: <Arcabat> en tout cas trop cool
+[21:10:01] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> Distributeur ?
+[21:10:05] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> Je test
+[21:10:08] [Async Chat Thread - #9/INFO]: <Arcabat> vas y
+[21:10:21] [Async Chat Thread - #9/INFO]: <Arcabat> ça nous fait carburant infini
+[21:10:33] [Async Chat Thread - #9/INFO]: <Arcabat> mdr
+[21:10:35] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> dommage
+[21:10:47] [Async Chat Thread - #9/INFO]: <Arcabat> tu as pris distributeur ou dropper ?
+[21:10:54] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> distributeur
+[21:10:57] [Async Chat Thread - #9/INFO]: <Arcabat> dacc tant pis
+[21:11:11] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> ça aurait été..... insane
+[21:11:20] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> même pas besoin de réappro le four
+[21:11:30] [Async Chat Thread - #9/INFO]: <Arcabat> ouep
+[21:12:38] [Async Chat Thread - #10/INFO]: <Arcabat> quel cd de merde xD
+[21:12:49] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> Ambiance Minecraft/20
+[21:12:54] [Async Chat Thread - #10/INFO]: <Arcabat> oui x)
+[21:13:50] [Async Chat Thread - #10/INFO]: <Arcabat> celui la est cool
+[21:13:55] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> mais tellement
+[21:14:03] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> Je savais pas qu'on l'avait
+[21:14:11] [Async Chat Thread - #10/INFO]: <Arcabat> si
+[21:14:21] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> non je savais pas
+[21:14:23] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> xD
+[21:14:25] [Async Chat Thread - #10/INFO]: <Arcabat> mdr
+[21:15:05] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> Pourquoi on a 6 houes en diams
+[21:15:11] [Async Chat Thread - #10/INFO]: <Arcabat> aucune idée
+[21:15:35] [Async Chat Thread - #10/INFO]: <Arcabat> cela dit
+[21:15:41] [Async Chat Thread - #10/INFO]: <Arcabat> les houes en diams sont pratique
+[21:15:44] [Async Chat Thread - #10/INFO]: <Arcabat> dans le nether
+[21:15:53] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> Pour les arbres ?
+[21:15:54] [Async Chat Thread - #10/INFO]: <Arcabat> ou pour la paille, les feuilles, etc
+[21:15:59] [Async Chat Thread - #10/INFO]: <Arcabat> oui
+[21:16:03] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> Ouais, mais une seule chacun suffit
+[21:16:15] [Async Chat Thread - #10/INFO]: <Arcabat> oui
+[21:17:01] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> J'ai installé une autre poubelle, plus simple et garanti 100% sans oeuf de dragon
+[21:17:36] [Async Chat Thread - #10/INFO]: <Arcabat> ignoble
+[21:17:45] [Async Chat Thread - #10/INFO]: <Arcabat> mdr t'es con xD
+[21:18:00] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> ça m'a fait bizarre de voir ce CD apparaitre dans une vidéo de Feldup
+[21:18:10] [Async Chat Thread - #10/INFO]: <Arcabat> je connais pas ce monsieur
+[21:18:28] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> Un youtubeur horreur, étrange parce qu'il feat beaucoup
+[21:18:41] [Async Chat Thread - #10/INFO]: <Arcabat> dacc
+[21:18:45] [Async Chat Thread - #10/INFO]: <Arcabat> bah... xD
+[21:21:23] [Async Chat Thread - #11/INFO]: <Shadowmere_Swift> Je jette tous les outils en fer, bois, pierres, truc enchantés nul à chier
+[21:21:30] [Async Chat Thread - #11/INFO]: <Arcabat> si tu veux
+[21:41:02] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> Par contre, le vidage d'inventaire et le rangement des coffres va être difficile
+[21:41:21] [Async Chat Thread - #12/INFO]: <Arcabat> mais noooooooooooon
+[21:41:28] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> C'est grannnnnnd
+[21:41:46] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> Moi je sais j'aurai la flemme et tu auras une tour de coffre à bordel devant chez toi
+[21:42:10] [Async Chat Thread - #12/INFO]: <Arcabat> tqt y aura des coffres a bordel dans la maison
+[21:42:18] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> ah ^^
+[21:48:09] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> bon les coffres sont rangés, et maintenant ordonnées
+[21:48:15] [Async Chat Thread - #13/INFO]: <Arcabat> bien joué x)
+[21:48:21] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> C'est si long
+[21:48:25] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> On a trop de truc
+[21:48:33] [Async Chat Thread - #13/INFO]: <Arcabat> oui
+[21:51:21] [Async Chat Thread - #14/INFO]: <Arcabat> j'ai mis une tete de dragon du coup
+[21:51:22] [Async Chat Thread - #14/INFO]: <Arcabat> xD
+[21:51:28] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> Ca me parait bien
+[21:51:32] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> Voire mieux
+[21:51:33] [Async Chat Thread - #14/INFO]: <Arcabat> pour l'instant
+[21:51:37] [Async Chat Thread - #14/INFO]: <Arcabat> bof x)
+[21:53:40] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> Une statue géante ?
+[21:53:48] [Async Chat Thread - #15/INFO]: <Arcabat> pourquoi pas
+[21:55:42] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[21:59:52] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[22:00:07] [Async Chat Thread - #16/INFO]: <Arcabat> on a pas d'argile ?
+[22:00:11] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> un peu
+[22:00:30] [Async Chat Thread - #16/INFO]: <Arcabat> des lingot
+[22:00:46] [Async Chat Thread - #16/INFO]: <Arcabat> ah si c'est bon
+[22:00:55] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> des briques ?
+[22:01:03] [Async Chat Thread - #16/INFO]: <Arcabat> oui
+[22:04:17] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> bon, je m'arrête là
+[22:04:21] [Async Chat Thread - #17/INFO]: <Arcabat> dacc
+[22:04:23] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> Bonne soirée, à plus
+[22:04:24] [Async Chat Thread - #17/INFO]: <Arcabat> tchuss
+[22:04:28] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[22:04:28] [Server thread/INFO]: Shadowmere_Swift left the game
+[22:11:06] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.2948106311750962
+[22:11:06] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.4894533286415026
+[22:11:06] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.48843791769195377
+[22:11:06] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.4878945915379518
+[22:11:06] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.4876038685457047
+[22:11:06] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.4837664823830323
+[22:11:06] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.4583714380046331
+[22:11:06] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.4048201789915993
+[22:11:06] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.3304993021207565
+[22:11:06] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.267521083088468
+[22:13:51] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.5003200978329687
+[22:13:57] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.28941049552202003
+[22:13:57] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.36183037314299327
+[22:13:57] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.425543928135653
+[22:13:57] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.4337744079538197
+[22:13:57] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.27255258873151433
+[22:13:57] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.3407897403400284
+[22:14:04] [Server thread/WARN]: Horse (vehicle of Arcabat) moved wrongly! 0.37196473465712643
+[22:16:43] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[22:16:43] [Server thread/INFO]: Arcabat left the game

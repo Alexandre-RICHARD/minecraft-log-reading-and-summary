@@ -1,0 +1,242 @@
+[05:09:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:09:57] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:10:00] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:10:09] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:10:09] [Server thread/INFO]: Loading properties
+[05:10:09] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:10:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:10:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:10:11] [Server thread/INFO]: Default game type: SURVIVAL
+[05:10:11] [Server thread/INFO]: Generating keypair
+[05:10:12] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:10:12] [Server thread/INFO]: Using epoll channel type
+[05:10:12] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:10:12] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:10:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:10:13] [Server thread/INFO]: Preparing level "world"
+[05:10:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:10:23] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:23] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:23] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:23] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:23] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:23] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:23] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:25] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:25] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:26] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:26] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:28] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:28] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:29] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:29] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:31] [Server thread/INFO]: Preparing spawn area: 1%
+[05:10:31] [Server thread/INFO]: Time elapsed: 10501 ms
+[05:10:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:10:31] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:31] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:32] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:32] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:33] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:33] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:34] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:34] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:35] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:35] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:36] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:38] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:38] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:38] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:38] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:38] [Server thread/INFO]: Time elapsed: 7509 ms
+[05:10:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:10:39] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:39] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:39] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:40] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:40] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:41] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:42] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:42] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:42] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:43] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:43] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:44] [Server thread/INFO]: Time elapsed: 5414 ms
+[05:10:44] [Server thread/INFO]: Starting GS4 status listener
+[05:10:44] [Server thread/INFO]: Thread Query Listener started
+[05:10:44] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:10:44] [Server thread/INFO]: Running delayed init tasks
+[05:10:44] [Server thread/INFO]: Done (35.334s)! For help, type "help"
+[05:10:44] [Server thread/INFO]: Timings Reset
+[05:15:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5084ms or 101 ticks behind
+[05:15:58] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[05:16:00] [Server thread/INFO]: Shadowmere_Swift joined the game
+[05:16:00] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63974] logged in with entity id 299 at ([world]198.11995355687247, 26.0, 357.608879842165)
+[05:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11834ms or 236 ticks behind
+[05:25:35] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[05:25:35] [Server thread/INFO]: Shadowmere_Swift left the game
+[05:25:36] [User Authenticator #2/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[05:25:36] [Server thread/INFO]: Shadowmere_Swift joined the game
+[05:25:36] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63878] logged in with entity id 1940 at ([world]179.69999998807907, 26.0, 389.6559084524485)
+[05:26:31] [Server thread/INFO]: Villager EntityVillager['Farmer'/102, uuid='1e5a0e15-71bf-448c-a2e0-c5a886f88123', l='ServerLevel[world]', x=177.68, y=27.00, z=389.92, cpos=[11, 24], tl=1597376, v=true] died, message: 'Farmer was slain by Shadowmere_Swift'
+[05:34:26] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[05:34:26] [Server thread/INFO]: Shadowmere_Swift left the game
+[05:34:27] [User Authenticator #3/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[05:34:27] [Server thread/INFO]: Shadowmere_Swift joined the game
+[05:34:27] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65468] logged in with entity id 2989 at ([world]173.30000001192093, 26.0, 389.30000001192093)
+[05:37:31] [Server thread/INFO]: Villager EntityVillager['Michel'/375, uuid='8288cc15-f8d1-4fca-a419-dc6a8321931b', l='ServerLevel[world]', x=184.70, y=26.00, z=383.52, cpos=[11, 23], tl=1859712, v=true] died, message: 'Michel was slain by Shadowmere_Swift'
+[05:37:31] [Server thread/INFO]: Named entity EntityVillager['Michel'/375, uuid='8288cc15-f8d1-4fca-a419-dc6a8321931b', l='ServerLevel[world]', x=184.70, y=26.00, z=383.52, cpos=[11, 23], tl=1859712, v=true] died: Michel was slain by Shadowmere_Swift
+[05:39:27] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[05:39:27] [Server thread/INFO]: Shadowmere_Swift left the game
+[11:18:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d7e8f40[id=<null>,name=Arcabat,properties={},legacy=false] (/46.193.65.177:50386) lost connection: Disconnected
+[11:18:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@2e835183[id=<null>,name=Arcabat,properties={},legacy=false] (/46.193.65.177:50391) lost connection: Disconnected
+[11:27:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@14aa218c[id=<null>,name=Arcabat,properties={},legacy=false] (/46.193.65.177:56979) lost connection: Disconnected
+[11:31:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@1f13778e[id=<null>,name=Arcabat,properties={},legacy=false] (/46.193.65.177:56994) lost connection: Disconnected
+[11:36:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@79947c0d[id=<null>,name=Arcabat,properties={},legacy=false] (/46.193.65.177:57014) lost connection: Disconnected
+[11:45:08] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@79f8e866[id=<null>,name=Arcabat,properties={},legacy=false] (/46.193.65.177:57040): Authentication servers are down. Please try again later, sorry!
+[11:45:08] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
+[11:45:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@79f8e866[id=<null>,name=Arcabat,properties={},legacy=false] (/46.193.65.177:57040) lost connection: Authentication servers are down. Please try again later, sorry!
+[11:45:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@529a1f3b[id=<null>,name=Arcabat,properties={},legacy=false] (/46.193.65.177:57044) lost connection: Disconnected
+[11:45:23] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@529a1f3b[id=<null>,name=Arcabat,properties={},legacy=false] (/46.193.65.177:57044): Authentication servers are down. Please try again later, sorry!
+[11:45:23] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
+[11:52:45] [User Authenticator #5/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[11:52:45] [Server thread/INFO]: Arcabat joined the game
+[11:52:45] [Server thread/INFO]: Arcabat[/46.193.65.177:63397] logged in with entity id 4015 at ([world]84.18892686650881, 66.0, 297.3872844222299)
+[12:31:30] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[12:31:30] [Server thread/INFO]: Arcabat left the game
+[12:38:22] [User Authenticator #6/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[12:38:22] [Server thread/INFO]: Arcabat joined the game
+[12:38:22] [Server thread/INFO]: Arcabat[/46.193.65.177:49167] logged in with entity id 10943 at ([world]183.54197355035726, 26.0, 375.97780420523463)
+[13:06:10] [User Authenticator #7/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[13:06:10] [Server thread/INFO]: Shadowmere_Swift joined the game
+[13:06:10] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64165] logged in with entity id 14946 at ([world]183.06915084420336, 26.0, 363.1942977016233)
+[13:06:25] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> To
+[13:06:34] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> Deux lettres, une faute
+[13:06:35] [Async Chat Thread - #0/INFO]: <Arcabat> yo
+[13:06:36] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> Yo*
+[13:09:01] [Async Chat Thread - #1/INFO]: <Arcabat> j'ai ajouté un enchant
+[13:09:06] [Async Chat Thread - #1/INFO]: <Arcabat> agilité aquatique 3
+[13:10:35] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> ok, je verrai ça plus tard
+[13:10:39] [Async Chat Thread - #2/INFO]: <Arcabat> yep
+[13:10:44] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> J'ai fais un truc hier
+[13:10:51] [Async Chat Thread - #2/INFO]: <Arcabat> quoi donc ?
+[13:10:53] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> C'était censé être bien
+[13:11:01] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> et en fait je crois que c'est nul à chier
+[13:11:06] [Async Chat Thread - #2/INFO]: <Arcabat> ah x)
+[13:11:28] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> le coffre qu'il y a chez les émeraudiers est relié à la surface
+[13:11:46] [Async Chat Thread - #2/INFO]: <Arcabat> ah d'acc
+[13:11:49] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> C'était censé être un moyen pratique de transférer beaucoup de patates/batons en même temps
+[13:12:04] [Async Chat Thread - #2/INFO]: <Arcabat> et c'est pas le cas ?
+[13:12:17] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> Sauf que... si on dépose 40 stack par exemple, bah ils auront despawn avant d'être dans les entonnoirs par manque de place
+[13:12:24] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> Et en dessous, autant y aller à pied
+[13:12:30] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> DU coup, not worth
+[13:12:39] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> Mais si ça fonctionne
+[13:12:49] [Async Chat Thread - #2/INFO]: <Arcabat> ah d'acc
+[13:12:56] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> ah merde, un bébé a grandi ici
+[13:13:00] [Async Chat Thread - #2/INFO]: <Arcabat> oui
+[13:14:05] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> on dort sinon
+[13:14:13] [Async Chat Thread - #3/INFO]: <Arcabat> ouai att
+[13:14:22] [Async Chat Thread - #3/INFO]: <Arcabat> c'est bon
+[13:14:45] [Async Chat Thread - #3/INFO]: <Arcabat> fortune 3 pour 18 ça le fait ?
+[13:14:49] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> ah bah nuit fini dommage
+[13:14:52] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> oui carrément
+[13:15:01] [Async Chat Thread - #3/INFO]: <Arcabat> cimer
+[13:15:51] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> ok, on nos 10 villageois en zone de farm
+[13:16:01] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> je pensais à 3 archers et 7 fermiers
+[13:16:15] [Async Chat Thread - #3/INFO]: <Arcabat> yep carrément
+[13:20:09] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> pour un stuff complet, je pense 750/800 émeraudes nécessaires/ Il faut 26 stack de patates pour 1 stacks d'émeraudes du coup
+[13:20:28] [Async Chat Thread - #4/INFO]: <Arcabat> ça fait beaucoup
+[13:20:37] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> ouais mais ça se fait
+[13:21:07] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> Dans ma tête, je fantasme d'une tour style tour a mob avec pleins d'étages et 4 fermes auto de villageois par étage
+[13:21:38] [Async Chat Thread - #4/INFO]: <Arcabat> eh bah je te souhaite bonne chance si tu fais ça x)
+[13:21:52] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> On en aura plus besoin avant que j'ai le courage de la faire
+[13:23:04] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> oh mon champs de patate souterrain... oh god
+[13:26:06] [Async Chat Thread - #6/INFO]: <Arcabat> Mmh ?
+[13:26:38] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> tu verras
+[13:26:44] [Async Chat Thread - #6/INFO]: <Arcabat> dacc
+[13:26:47] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> il est pas caché mais on peut facilement le rater
+[13:27:15] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> mais un champs de 36*36
+[13:27:24] [Async Chat Thread - #6/INFO]: <Arcabat> pas mal
+[13:27:48] [Async Chat Thread - #6/INFO]: <Arcabat> je vais me faire a manger, je reviens après
+[13:27:49] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[13:27:49] [Server thread/INFO]: Arcabat left the game
+[13:52:42] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[13:52:42] [Server thread/INFO]: Shadowmere_Swift left the game
+[14:43:15] [User Authenticator #8/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[14:43:15] [Server thread/INFO]: Shadowmere_Swift joined the game
+[14:43:15] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65170] logged in with entity id 24979 at ([world]99.07135350477321, 64.9375, 321.75406594822357)
+[14:57:11] [User Authenticator #9/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[14:57:11] [Server thread/INFO]: Arcabat joined the game
+[14:57:11] [Server thread/INFO]: Arcabat[/46.193.65.177:56282] logged in with entity id 27928 at ([world]183.79850147084406, 26.0, 351.9711116087471)
+[14:57:17] [Async Chat Thread - #7/INFO]: <Arcabat> re
+[14:57:19] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> yo nigg**
+[14:57:59] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> je te jette des patates
+[14:58:36] [Async Chat Thread - #7/INFO]: <Arcabat> mdr
+[14:58:43] [Async Chat Thread - #7/INFO]: <Arcabat> je comprenais pas xD
+[14:58:55] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> c'est bien ce que j'avaus remarquer ouyais
+[14:59:21] [Async Chat Thread - #7/INFO]: <Arcabat> tranchant V pour 37, ça fait cher ?
+[14:59:28] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> ouais quand même
+[14:59:31] [Async Chat Thread - #7/INFO]: <Arcabat> dacc
+[14:59:40] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> j'ai essayé de tout chercher à moins de 30 perso
+[15:00:00] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> mais pour les lvl 5, ça semble compliqué
+[15:00:03] [Async Chat Thread - #7/INFO]: <Arcabat> en espérant y arriver
+[15:00:47] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[15:00:47] [Server thread/INFO]: Shadowmere_Swift left the game
+[15:00:48] [User Authenticator #10/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[15:00:48] [Server thread/INFO]: Shadowmere_Swift joined the game
+[15:00:48] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64104] logged in with entity id 28571 at ([world]177.69999998807907, 26.0, 384.69999998807907)
+[15:01:32] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> sauf 1, les fermiers proposent patates et blé/carottes
+[15:01:57] [Async Chat Thread - #8/INFO]: <Arcabat> j'ai pas le début de la phrase je crois
+[15:02:07] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> Tous les fermiers sauf 1
+[15:02:19] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> qui n'a que patates
+[15:02:26] [Async Chat Thread - #8/INFO]: <Arcabat> ah d'acc
+[15:02:30] [Async Chat Thread - #8/INFO]: <Arcabat> Merci Yoda
+[15:02:49] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> daYo
+[15:09:29] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> tiens
+[15:09:43] [Async Chat Thread - #9/INFO]: <Arcabat> merci
+[15:09:53] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> ça te permettra d'en faire un peu plus
+[15:09:57] [Async Chat Thread - #9/INFO]: <Arcabat> yep
+[15:10:04] [Async Chat Thread - #9/INFO]: <Arcabat> j'ai presque 2 stack d'émeraudes
+[15:10:06] [Async Chat Thread - #9/INFO]: <Arcabat> 3*
+[15:10:26] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> avant on avait un double coffre de blocs xD
+[15:11:50] [Async Chat Thread - #10/INFO]: <Arcabat> oui je me rappelle, vive les bout de bois x)
+[15:32:47] [Async Chat Thread - #11/INFO]: <Arcabat> il nous manque 13 enchants
+[15:37:14] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> Nice
+[15:37:33] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> On peut avoir 16 flèches pour 1 émeraude, savais pas mais c'est grave bien
+[15:37:53] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> le fermier auto est très fluctuant en terme de production
+[15:38:19] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[15:38:36] [Server thread/INFO]: Villager EntityVillager['Farmer'/25002, uuid='c1523404-d73f-489f-8740-01c799d55c69', l='ServerLevel[world]', x=182.50, y=26.05, z=389.70, cpos=[11, 24], tl=1205838, v=true] died, message: 'Farmer tried to swim in lava'
+[15:38:46] [Async Chat Thread - #12/INFO]: <Arcabat> j'ai pris tout ce qu'il avait
+[15:39:02] [Async Chat Thread - #12/INFO]: <Arcabat> oui après moi je préfère avoir infinité
+[15:39:28] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> Moi tout en raccomodage, j'aime trop l'arc ça m'embeterait d'en refaire souvent
+[15:39:47] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[15:40:11] [Async Chat Thread - #12/INFO]: <Arcabat> bah on l'utilise pas si souvent que ça
+[15:40:17] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> perso si
+[15:40:26] [Async Chat Thread - #12/INFO]: <Arcabat> oui mais il casse pas rapidement
+[15:47:54] [Server thread/INFO]: Villager EntityVillager['Librarian'/25021, uuid='6664f60b-ad7f-4243-9de9-8611a4ac76c9', l='ServerLevel[world]', x=191.58, y=26.56, z=355.42, cpos=[11, 22], tl=1819077, v=true] died, message: 'Librarian was slain by Zombie'
+[15:51:36] [Async Chat Thread - #13/INFO]: <Arcabat> encore 10
+[15:57:09] [Async Chat Thread - #14/INFO]: <Arcabat> au fait
+[15:57:22] [Async Chat Thread - #14/INFO]: <Arcabat> Agilité des âmes, on peut pas l'avoir avec les villageois
+[15:57:51] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> (je m'en suis rendu compte après, mais comme ça, on aura du rab pour efficiency 5
+[15:57:58] [Async Chat Thread - #14/INFO]: <Arcabat> oui au pire
+[15:59:11] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> moi je vaus me préparer à y aller, je sais pas si jen rejouerai ce soir
+[15:59:13] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[15:59:13] [Server thread/INFO]: Shadowmere_Swift left the game
+[16:40:06] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[16:40:06] [Server thread/INFO]: Arcabat left the game
+[20:57:06] [User Authenticator #11/INFO]: UUID of player Caelis5129 is bd5ebb58-28e9-4d2b-8802-fd09af96846a
+[20:57:06] [Server thread/INFO]: Caelis5129 joined the game
+[20:57:06] [Server thread/INFO]: Caelis5129[/86.236.84.109:63502] logged in with entity id 42647 at ([world]121.91027383861228, 72.0, 426.7461534538715)
+[20:57:50] [Server thread/INFO]: Caelis5129 lost connection: Disconnected
+[20:57:50] [Server thread/INFO]: Caelis5129 left the game
+[22:09:27] [User Authenticator #12/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[22:09:27] [Server thread/INFO]: Shadowmere_Swift joined the game
+[22:09:27] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65005] logged in with entity id 42909 at ([world]106.37465970508346, 68.0, 286.0466059816956)
+[22:21:26] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[22:21:26] [Server thread/INFO]: Shadowmere_Swift left the game

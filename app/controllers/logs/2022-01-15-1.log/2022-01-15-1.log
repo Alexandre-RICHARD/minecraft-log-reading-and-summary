@@ -1,0 +1,28 @@
+[00:06:42] [Server thread/INFO]: Helios_49 lost connection: Disconnected
+[00:06:42] [Server thread/INFO]: Helios_49 left the game
+[00:21:42] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[00:22:03] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[00:34:35] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[00:34:35] [Server thread/INFO]: Arcabat left the game
+[01:18:29] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[01:27:02] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[01:27:07] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[01:29:11] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[01:29:15] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[01:29:28] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[01:29:32] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[01:29:32] [Server thread/INFO]: Shadowmere_Swift left the game
+[05:00:27] [Server thread/INFO]: Stopping the server
+[05:00:27] [Server thread/INFO]: Stopping server
+[05:00:27] [Server thread/INFO]: Saving players
+[05:00:27] [Server thread/INFO]: Saving worlds
+[05:00:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:00:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:00:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:00:27] [Server thread/INFO]: Flushing Chunk IO
+[05:00:27] [Server thread/INFO]: Closing Thread Pool
+[05:00:27] [Server thread/INFO]: Closing Server

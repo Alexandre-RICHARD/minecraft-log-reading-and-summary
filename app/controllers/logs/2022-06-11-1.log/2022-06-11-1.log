@@ -1,0 +1,33 @@
+[14:46:32] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:46:33] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[14:46:34] [Worker-Main-1/INFO]: Loaded 7 recipes
+[14:46:35] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[14:46:35] [Server thread/INFO]: Loading properties
+[14:46:35] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[14:46:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:46:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:46:35] [Server thread/INFO]: Default game type: SURVIVAL
+[14:46:35] [Server thread/INFO]: Generating keypair
+[14:46:36] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[14:46:36] [Server thread/INFO]: Using epoll channel type
+[14:46:36] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:46:36] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[14:46:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:46:36] [Server thread/INFO]: Preparing level "world"
+[14:46:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:46:37] [Server thread/INFO]: Time elapsed: 225 ms
+[14:46:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:46:37] [Server thread/INFO]: Time elapsed: 83 ms
+[14:46:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:46:37] [Server thread/INFO]: Time elapsed: 71 ms
+[14:46:37] [Server thread/INFO]: Starting GS4 status listener
+[14:46:37] [Server thread/INFO]: Thread Query Listener started
+[14:46:37] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[14:46:38] [Server thread/INFO]: Running delayed init tasks
+[14:46:38] [Server thread/INFO]: Done (2.313s)! For help, type "help"
+[14:46:38] [Server thread/INFO]: Timings Reset
+[14:55:02] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[14:55:02] [Server thread/INFO]: Shadowmere_Swift joined the game
+[14:55:02] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:53066] logged in with entity id 368 at ([world]432.5730340264228, 71.0, 826.6813877441564)
+[14:57:15] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[14:57:15] [Server thread/INFO]: Shadowmere_Swift left the game

@@ -1,0 +1,329 @@
+[05:04:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:04:54] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:04:55] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:04:56] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:04:56] [Server thread/INFO]: Loading properties
+[05:04:56] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:04:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:04:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:04:57] [Server thread/INFO]: Default game type: SURVIVAL
+[05:04:57] [Server thread/INFO]: Generating keypair
+[05:04:57] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:04:57] [Server thread/INFO]: Using epoll channel type
+[05:04:57] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:04:57] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:04:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:04:57] [Server thread/INFO]: Preparing level "world"
+[05:04:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:04:59] [Server thread/INFO]: Preparing spawn area: 0%
+[05:04:59] [Server thread/INFO]: Preparing spawn area: 0%
+[05:04:59] [Server thread/INFO]: Preparing spawn area: 0%
+[05:05:00] [Server thread/INFO]: Preparing spawn area: 0%
+[05:05:00] [Server thread/INFO]: Time elapsed: 1703 ms
+[05:05:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:05:00] [Server thread/INFO]: Preparing spawn area: 0%
+[05:05:00] [Server thread/INFO]: Preparing spawn area: 0%
+[05:05:01] [Server thread/INFO]: Preparing spawn area: 0%
+[05:05:01] [Server thread/INFO]: Preparing spawn area: 0%
+[05:05:02] [Server thread/INFO]: Time elapsed: 1691 ms
+[05:05:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:05:02] [Server thread/INFO]: Preparing spawn area: 0%
+[05:05:02] [Server thread/INFO]: Time elapsed: 487 ms
+[05:05:02] [Server thread/INFO]: Starting GS4 status listener
+[05:05:02] [Server thread/INFO]: Thread Query Listener started
+[05:05:02] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:05:02] [Server thread/INFO]: Running delayed init tasks
+[05:05:02] [Server thread/INFO]: Done (5.967s)! For help, type "help"
+[05:05:02] [Server thread/INFO]: Timings Reset
+[09:02:35] [User Authenticator #1/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[09:02:35] [Server thread/INFO]: Arcabat joined the game
+[09:02:35] [Server thread/INFO]: Arcabat[/46.193.65.177:57652] logged in with entity id 205 at ([world]80.96771565116988, 73.0, 314.52834493214755)
+[09:09:43] [Server thread/INFO]: Arcabat has made the advancement [The Parrots and the Bats]
+[09:44:59] [Server thread/INFO]: Arcabat has made the advancement [Take Aim]
+[09:47:33] [User Authenticator #2/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[09:47:33] [Server thread/INFO]: Shadowmere_Swift joined the game
+[09:47:33] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63662] logged in with entity id 16532 at ([world]80.6209730226252, 72.0, 367.54679069369337)
+[09:47:42] [Async Chat Thread - #0/INFO]: <Arcabat> ah bah enfin
+[09:47:49] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> c'est bon... mais sérieux Microsoft quoi...
+[09:48:01] [Async Chat Thread - #0/INFO]: <Arcabat> mmh ?
+[09:48:23] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> bah ils font que de la merde avec Minecraft, là c'est considérable, jamais le launcher avait été si nul
+[09:49:30] [Async Chat Thread - #1/INFO]: <Arcabat> J'ai pas vu de changement mais peut etre ^^
+[09:50:07] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> j'ai guetter un peu les avis sur le Microsoft Store, pleins de joeurs forcés d'y passer mais ça ne marche plus ou mal
+[09:50:23] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> et perso, le launcher et le jeu sont très long à se lancer
+[09:50:39] [Async Chat Thread - #1/INFO]: <Arcabat> Bizarre tout ça
+[09:50:48] [Async Chat Thread - #1/INFO]: <Arcabat> moi ça se fait en 2sec
+[09:51:00] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> tu as toujours le vieux launcher ?
+[09:51:10] [Async Chat Thread - #1/INFO]: <Arcabat> non j'ai le nouveau
+[09:52:25] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> en vrai je sais pas quoi faire
+[09:52:36] [Async Chat Thread - #2/INFO]: <Arcabat> une maison ?
+[10:01:19] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> inventory tweaks me manque
+[10:01:24] [Async Chat Thread - #3/INFO]: <Arcabat> j'imagine
+[10:03:00] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> je désactive les phantoms
+[10:03:13] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamerule doInsomnia false
+[10:03:13] [Server thread/INFO]: [Shadowmere_Swift: Gamerule doInsomnia is now set to: false]
+[10:04:28] [Server thread/INFO]: Shadowmere_Swift has made the advancement [Who is Cutting Onions?]
+[10:06:00] [Async Chat Thread - #5/INFO]: <Arcabat> pas un seul slime dans le marais
+[10:07:36] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[10:07:36] [Server thread/INFO]: Arcabat left the game
+[10:46:08] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[10:46:08] [Server thread/INFO]: Shadowmere_Swift left the game
+[10:46:10] [User Authenticator #3/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[10:46:10] [Server thread/INFO]: Shadowmere_Swift joined the game
+[10:46:10] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64245] logged in with entity id 31858 at ([world]76.02132170889055, 73.0, 295.4049513873759)
+[12:10:05] [Server thread/INFO]: Shadowmere_Swift has made the advancement [Voluntary Exile]
+[12:41:48] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[12:41:48] [Server thread/INFO]: [Shadowmere_Swift: Set own game mode to Spectator Mode]
+[12:42:04] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[12:42:04] [Server thread/INFO]: [Shadowmere_Swift: Set own game mode to Survival Mode]
+[12:42:21] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[12:42:21] [Server thread/INFO]: [Shadowmere_Swift: Set own game mode to Spectator Mode]
+[12:42:29] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[12:42:29] [Server thread/INFO]: [Shadowmere_Swift: Set own game mode to Survival Mode]
+[12:42:43] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[12:42:43] [Server thread/INFO]: [Shadowmere_Swift: Set own game mode to Spectator Mode]
+[12:42:52] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[12:42:52] [Server thread/INFO]: [Shadowmere_Swift: Set own game mode to Survival Mode]
+[13:57:38] [User Authenticator #4/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[13:57:38] [Server thread/INFO]: Arcabat joined the game
+[13:57:38] [Server thread/INFO]: Arcabat[/46.193.65.177:64028] logged in with entity id 66257 at ([world]1720.1324478663432, 64.0, -446.66783320858536)
+[13:57:43] [Async Chat Thread - #6/INFO]: <Arcabat> re
+[13:57:54] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> ouaip ouaip
+[13:59:32] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> t'es ou ? Tu fais quoi ?.
+[13:59:57] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> mode femme jalouse t'sais
+[14:00:06] [Async Chat Thread - #7/INFO]: <Arcabat> x)
+[14:00:12] [Async Chat Thread - #7/INFO]: <Arcabat> je suis loin, dans un marais
+[14:00:15] [Async Chat Thread - #7/INFO]: <Arcabat> je cherche du slime
+[14:00:17] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> ah oui le slime
+[14:00:27] [Async Chat Thread - #7/INFO]: <Arcabat> et je cherchais du bois foncé aussi, j'ai trouvé du chene noir
+[14:00:35] [Async Chat Thread - #7/INFO]: <Arcabat> j'ai récup des pousses
+[14:00:41] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> c'est spécifique les spawns des slime
+[14:00:56] [Async Chat Thread - #7/INFO]: <Arcabat> meme dans les marais ?
+[14:01:04] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> ok, moi j'ai eu un spawner à squelette que j'ai aménagé
+[14:01:11] [Async Chat Thread - #7/INFO]: <Arcabat> ah nice ça
+[14:01:33] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> bah il peuvent spawner partout dans les marais, mais il leur faut de la place (eau et arbre relou) et il sont rare
+[14:01:56] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> et j'ai fait full lit pour un futur baisodrome
+[14:02:05] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> (à villageois)
+[14:02:14] [Async Chat Thread - #7/INFO]: <Arcabat> dacc je savais pas
+[14:02:17] [Async Chat Thread - #7/INFO]: <Arcabat> ah yes x)
+[14:14:18] [Async Chat Thread - #8/INFO]: <Arcabat> j'ai du slime
+[14:14:21] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> gg
+[14:33:14] [Async Chat Thread - #9/INFO]: <Arcabat> je reviens a la base
+[14:35:46] [Async Chat Thread - #10/INFO]: <Arcabat> on dort ?
+[14:42:32] [Server thread/INFO]: Arcabat was slain by Iron Golem
+[14:42:37] [Async Chat Thread - #11/INFO]: <Shadowmere_Swift> oh
+[14:42:43] [Async Chat Thread - #11/INFO]: <Arcabat> aie
+[14:42:44] [Async Chat Thread - #11/INFO]: <Shadowmere_Swift> ça c'est dommage
+[14:43:23] [Async Chat Thread - #11/INFO]: <Arcabat> oui
+[14:43:29] [Async Chat Thread - #11/INFO]: <Arcabat> surtout pour mes 20levels
+[14:43:41] [Async Chat Thread - #11/INFO]: <Arcabat> mais bon, au moins j'ai récup mon stuff x)
+[14:46:07] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> 15 bibliothèques c'est bon
+[14:46:13] [Async Chat Thread - #12/INFO]: <Arcabat> nice
+[14:46:22] [Async Chat Thread - #12/INFO]: <Arcabat> j'ai 3 alambics
+[14:51:08] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> le charbon c'est difficile
+[14:51:26] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> y'en a pas en profondeur du coup on est pas du tout riche
+[14:51:58] [Async Chat Thread - #13/INFO]: <Arcabat> ah bah faut pas creuser en profondeur
+[14:53:59] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> ouhhh
+[14:54:03] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> mon précieux
+[14:54:07] [Server thread/INFO]: Shadowmere_Swift has made the advancement [Diamonds!]
+[14:54:13] [Async Chat Thread - #14/INFO]: <Arcabat> gg
+[14:54:24] [Async Chat Thread - #14/INFO]: <Arcabat> j'ai des patates !!
+[14:54:34] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> ça c'est nice
+[14:54:53] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> je sais pas sur quoi on va partir ? Poulet ? Steack ? Patates ?
+[14:55:01] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> les trois ont leurs avantages
+[14:55:01] [Async Chat Thread - #14/INFO]: <Arcabat> carotte d'or
+[14:55:14] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> ca coute cher
+[14:55:23] [Async Chat Thread - #14/INFO]: <Arcabat> ça va en vrai
+[14:56:13] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> à force quand même
+[14:56:29] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> et c'est plus "complexe" à farm, faut crafter
+[14:56:43] [Async Chat Thread - #14/INFO]: <Arcabat> mouai
+[14:57:04] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> chè pas, jamais trop aimé mais apès... libre à toi ^^
+[14:57:35] [Async Chat Thread - #14/INFO]: <Arcabat> tqt
+[15:00:02] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> quand on aura fortune par contre, le minage ça sera autre chose
+[15:00:09] [Async Chat Thread - #15/INFO]: <Arcabat> grave
+[15:00:09] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> pour le fer et l'or
+[15:02:37] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> par contre relou les diams qui spawn solo
+[15:02:42] [Async Chat Thread - #16/INFO]: <Arcabat> oui
+[15:05:46] [Server thread/INFO]: Arcabat has made the advancement [We Need to Go Deeper]
+[15:12:35] [Async Chat Thread - #17/INFO]: <Shadowmere_Swift> comment est le nether ?
+[15:12:52] [Async Chat Thread - #17/INFO]: <Arcabat> sympa, après je suis juste aller dedans et je suis resortie
+[15:25:08] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> ah t'es venu déposé toute ta merde
+[15:25:13] [Async Chat Thread - #18/INFO]: <Arcabat> oui
+[15:25:53] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> tu feras un bel accès au ponton ?
+[15:26:16] [Async Chat Thread - #18/INFO]: <Arcabat> yep
+[15:26:50] [Async Chat Thread - #18/INFO]: <Arcabat> Laisse tout comme ça, change rien, meme le passage dans le tunnel pour remonter, laisse le aussi ;)
+[15:27:12] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> Ah oui tkt je te laisse faire
+[15:27:28] [Async Chat Thread - #18/INFO]: <Shadowmere_Swift> je laisse 7 diamants
+[15:28:21] [Server thread/INFO]: Shadowmere_Swift has made the advancement [We Need to Go Deeper]
+[15:30:58] [Async Chat Thread - #19/INFO]: <Shadowmere_Swift> je farm un peu les yeux et guette vite fait si on a une forteresse
+[15:31:06] [Async Chat Thread - #19/INFO]: <Arcabat> dacc
+[15:32:34] [Async Chat Thread - #20/INFO]: <Shadowmere_Swift> et je ramène du sable des ames pour l'eau
+[15:32:43] [Async Chat Thread - #20/INFO]: <Arcabat> ah super ça :D
+[15:33:29] [Async Chat Thread - #20/INFO]: <Arcabat> je re dans 10min
+[15:33:31] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[15:33:31] [Server thread/INFO]: Arcabat left the game
+[15:36:07] [Server thread/INFO]: Shadowmere_Swift has made the advancement [Hidden in the Depths]
+[16:02:58] [User Authenticator #5/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[16:02:58] [Server thread/INFO]: Arcabat joined the game
+[16:02:58] [Server thread/INFO]: Arcabat[/46.193.65.177:63699] logged in with entity id 106580 at ([world]101.8511982801962, 63.0, 259.9869074107311)
+[16:03:01] [Async Chat Thread - #21/INFO]: <Arcabat> re
+[16:03:54] [Async Chat Thread - #21/INFO]: <Shadowmere_Swift> vive les minimap et les balise pour se repérer dans le nether (oui c'est légèrement de la triche mais c'est trop confort)
+[16:04:10] [Async Chat Thread - #21/INFO]: <Arcabat> je te comprends tellement
+[16:11:21] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[16:11:21] [Server thread/INFO]: Arcabat left the game
+[16:13:05] [User Authenticator #6/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[16:13:05] [Server thread/INFO]: Arcabat joined the game
+[16:13:06] [Server thread/INFO]: Arcabat[/46.193.65.177:54604] logged in with entity id 109046 at ([world]102.04404511930335, 63.0, 258.9542375277504)
+[16:14:15] [Server thread/INFO]: Shadowmere_Swift has completed the challenge [Hot Tourist Destinations]
+[16:14:27] [Async Chat Thread - #22/INFO]: <Arcabat> gg
+[16:16:23] [Server thread/INFO]: Shadowmere_Swift has completed the challenge [Return to Sender]
+[16:16:28] [Async Chat Thread - #23/INFO]: <Arcabat> gg
+[16:16:33] [Async Chat Thread - #23/INFO]: <Shadowmere_Swift> ah larme dans la lave
+[16:16:37] [Async Chat Thread - #23/INFO]: <Arcabat> triste
+[16:16:46] [Async Chat Thread - #23/INFO]: <Arcabat> tu vas verser une larme ?
+[16:16:48] [Async Chat Thread - #23/INFO]: <Arcabat> :)
+[16:16:53] [Async Chat Thread - #23/INFO]: <Shadowmere_Swift> oui naussi
+[16:17:43] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[16:17:43] [Server thread/INFO]: Arcabat left the game
+[16:19:19] [User Authenticator #7/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[16:19:19] [Server thread/INFO]: Arcabat joined the game
+[16:19:20] [Server thread/INFO]: Arcabat[/46.193.65.177:54647] logged in with entity id 110777 at ([world]101.81713467125405, 63.0, 258.0385299826263)
+[16:20:24] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[16:20:24] [Server thread/INFO]: Arcabat left the game
+[16:21:05] [User Authenticator #8/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[16:21:05] [Server thread/INFO]: Arcabat joined the game
+[16:21:05] [Server thread/INFO]: Arcabat[/46.193.65.177:56730] logged in with entity id 111266 at ([world]98.122497932331, 65.0, 255.78850888842229)
+[16:21:19] [Async Chat Thread - #24/INFO]: <Shadowmere_Swift> tu fais des allé retour créa ?
+[16:21:23] [Async Chat Thread - #24/INFO]: <Arcabat> ouep
+[16:36:38] [Async Chat Thread - #25/INFO]: <Shadowmere_Swift> enfin
+[16:36:43] [Async Chat Thread - #25/INFO]: <Arcabat> ?
+[16:36:47] [Async Chat Thread - #25/INFO]: <Shadowmere_Swift> forteresse
+[16:36:50] [Async Chat Thread - #25/INFO]: <Arcabat> gg
+[16:36:58] [Server thread/INFO]: Shadowmere_Swift has made the advancement [A Terrible Fortress]
+[16:38:06] [Server thread/INFO]: Shadowmere_Swift has made the advancement [Into Fire]
+[16:38:13] [Async Chat Thread - #26/INFO]: <Arcabat> nice
+[16:38:22] [Async Chat Thread - #26/INFO]: <Shadowmere_Swift> je suis dans le caca mais je vaios revenir en vie
+[16:38:28] [Async Chat Thread - #26/INFO]: <Arcabat> mdr
+[16:38:30] [Async Chat Thread - #26/INFO]: <Arcabat> bonne chance
+[16:41:54] [Server thread/INFO]: Shadowmere_Swift was burnt to a crisp whilst fighting Blaze
+[16:41:58] [Async Chat Thread - #27/INFO]: <Arcabat> ah
+[16:42:05] [Async Chat Thread - #27/INFO]: <Shadowmere_Swift> nan
+[16:42:13] [Async Chat Thread - #27/INFO]: <Shadowmere_Swift> bon bah a poil
+[16:42:23] [Async Chat Thread - #27/INFO]: <Arcabat> triste
+[16:42:41] [Async Chat Thread - #27/INFO]: <Arcabat> non
+[16:42:44] [Async Chat Thread - #27/INFO]: <Arcabat> oops
+[16:42:51] [Async Chat Thread - #27/INFO]: <Shadowmere_Swift> ca me soule, je me suis fait enflammé à travers un bloc
+[16:43:01] [Async Chat Thread - #27/INFO]: <Arcabat> ah trop nul :/
+[16:48:05] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode creative
+[16:48:05] [Server thread/INFO]: [Shadowmere_Swift: Set own game mode to Creative Mode]
+[16:48:40] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[16:48:40] [Server thread/INFO]: [Shadowmere_Swift: Set own game mode to Survival Mode]
+[17:18:08] [Server thread/INFO]: Shadowmere_Swift issued server command: /whitelist add Cha_Rospo
+[17:18:08] [Server thread/INFO]: [Shadowmere_Swift: Added Cha_Rospo to the whitelist]
+[17:39:42] [Server thread/INFO]: Shadowmere_Swift has made the advancement [Take Aim]
+[17:50:47] [User Authenticator #9/INFO]: UUID of player Cha_Rospo is b6c6700b-bb8c-42c1-b474-ec39bbeadb74
+[17:50:47] [Server thread/INFO]: Cha_Rospo joined the game
+[17:50:47] [Server thread/INFO]: Cha_Rospo[/92.145.216.126:53767] logged in with entity id 134652 at ([world]36.5, 69.0, 292.5)
+[17:53:09] [Server thread/INFO]: Cha_Rospo has made the advancement [Suit Up]
+[17:53:29] [Server thread/INFO]: Cha_Rospo has made the advancement [Acquire Hardware]
+[17:54:03] [Server thread/INFO]: Cha_Rospo has made the advancement [Isn't It Iron Pick]
+[17:54:18] [Server thread/INFO]: Arcabat has made the advancement [Cover Me with Diamonds]
+[18:00:53] [Server thread/INFO]: Cha_Rospo has made the advancement [Stone Age]
+[18:02:02] [Server thread/INFO]: Cha_Rospo has made the advancement [Monster Hunter]
+[18:08:08] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[18:08:08] [Server thread/INFO]: Arcabat left the game
+[18:14:43] [Server thread/INFO]: Cha_Rospo has made the advancement [Diamonds!]
+[18:35:44] [User Authenticator #10/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[18:35:44] [Server thread/INFO]: Arcabat joined the game
+[18:35:44] [Server thread/INFO]: Arcabat[/46.193.65.177:49691] logged in with entity id 142569 at ([world]94.30000001192093, 64.5625, 259.69999998807907)
+[19:06:17] [Server thread/INFO]: Cha_Rospo has made the advancement [Enchanter]
+[19:31:46] [Server thread/INFO]: Cha_Rospo was shot by Skeleton
+[19:33:45] [Server thread/INFO]: Shadowmere_Swift issued server command: /kick Cha_Rospo
+[19:33:45] [Server thread/INFO]: Cha_Rospo lost connection: Kicked by an operator
+[19:33:45] [Server thread/INFO]: Cha_Rospo left the game
+[19:33:45] [Server thread/INFO]: [Shadowmere_Swift: Kicked Cha_Rospo: Kicked by an operator]
+[19:34:51] [User Authenticator #11/INFO]: UUID of player Helios_49 is e6e69f28-5b9c-458c-bcaf-b8091aba0a12
+[19:34:51] [Server thread/INFO]: Helios_49 joined the game
+[19:34:51] [Server thread/INFO]: Helios_49[/90.49.197.114:50588] logged in with entity id 165957 at ([world]81.83562648470216, 73.0, 305.53621012811016)
+[19:35:29] [User Authenticator #11/INFO]: UUID of player Cha_Rospo is b6c6700b-bb8c-42c1-b474-ec39bbeadb74
+[19:35:29] [Server thread/INFO]: Cha_Rospo joined the game
+[19:35:29] [Server thread/INFO]: Cha_Rospo[/92.145.216.126:54054] logged in with entity id 166471 at ([world]101.94247913529684, 73.0, 324.8759482001381)
+[19:38:24] [Server thread/INFO]: Helios_49 has made the advancement [We Need to Go Deeper]
+[19:41:06] [Server thread/INFO]: Cha_Rospo has made the advancement [We Need to Go Deeper]
+[19:47:45] [Server thread/INFO]: Shadowmere_Swift issued server command: /weather clear
+[19:47:45] [Server thread/INFO]: [Shadowmere_Swift: Set the weather to clear]
+[19:52:37] [Server thread/INFO]: Shadowmere_Swift issued server command: /locate Arcabat
+[19:55:20] [Server thread/INFO]: Helios_49 has made the advancement [Enchanter]
+[19:58:07] [Server thread/INFO]: Shadowmere_Swift has made the advancement [Fishy Business]
+[20:00:42] [Server thread/INFO]: Helios_49 was slain by Cha_Rospo
+[20:07:31] [Server thread/INFO]: Shadowmere_Swift issued server command: /whitelist add Caelis5129
+[20:07:31] [Server thread/INFO]: [Shadowmere_Swift: Added Caelis5129 to the whitelist]
+[20:08:25] [User Authenticator #12/INFO]: UUID of player Caelis5129 is bd5ebb58-28e9-4d2b-8802-fd09af96846a
+[20:08:25] [Server thread/INFO]: Caelis5129 joined the game
+[20:08:25] [Server thread/INFO]: Caelis5129[/86.236.84.109:53239] logged in with entity id 179837 at ([world]42.5, 67.0, 286.5)
+[20:08:51] [Server thread/INFO]: Helios_49 fell from a high place
+[20:09:56] [Server thread/INFO]: Caelis5129 drowned
+[20:09:56] [Server thread/INFO]: Shadowmere_Swift issued server command: /tp Caelis5129 Shadowmere_Swift
+[20:09:56] [Server thread/INFO]: [Shadowmere_Swift: Teleported Caelis5129 to Shadowmere_Swift]
+[20:13:21] [Server thread/INFO]: Cha_Rospo lost connection: Disconnected
+[20:13:21] [Server thread/INFO]: Cha_Rospo left the game
+[20:15:24] [Server thread/INFO]: Caelis5129 has made the advancement [We Need to Go Deeper]
+[20:20:00] [Server thread/INFO]: Helios_49 has made the advancement [A Terrible Fortress]
+[20:20:08] [Server thread/INFO]: Arcabat has made the advancement [A Terrible Fortress]
+[20:20:21] [Server thread/INFO]: Helios_49 has made the advancement [Into Fire]
+[20:20:50] [Server thread/INFO]: Arcabat has made the advancement [Into Fire]
+[20:26:30] [Server thread/INFO]: Helios_49 fell from a high place
+[20:35:30] [Server thread/INFO]: Helios_49 lost connection: Disconnected
+[20:35:30] [Server thread/INFO]: Helios_49 left the game
+[20:37:56] [Server thread/INFO]: Caelis5129 has made the advancement [Acquire Hardware]
+[20:40:01] [Server thread/INFO]: Caelis5129 has made the advancement [Isn't It Iron Pick]
+[20:42:47] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[20:42:47] [Server thread/INFO]: Arcabat left the game
+[20:49:27] [Server thread/INFO]: Caelis5129 lost connection: Disconnected
+[20:49:27] [Server thread/INFO]: Caelis5129 left the game
+[20:51:40] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[20:51:40] [Server thread/INFO]: Shadowmere_Swift left the game
+[21:53:38] [User Authenticator #13/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[21:53:38] [Server thread/INFO]: Arcabat joined the game
+[21:53:38] [Server thread/INFO]: Arcabat[/46.193.65.177:51542] logged in with entity id 190264 at ([world]81.58346594190881, 73.0, 313.5275804487158)
+[22:25:42] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[22:25:42] [Server thread/INFO]: Arcabat left the game
+[22:30:08] [User Authenticator #14/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[22:30:08] [Server thread/INFO]: Arcabat joined the game
+[22:30:08] [Server thread/INFO]: Arcabat[/46.193.65.177:57783] logged in with entity id 193961 at ([world]96.78724240707616, 64.0, 257.1186151425059)
+[22:32:18] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[22:32:18] [Server thread/INFO]: Arcabat left the game
+[22:34:21] [User Authenticator #15/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[22:34:21] [Server thread/INFO]: Arcabat joined the game
+[22:34:21] [Server thread/INFO]: Arcabat[/46.193.65.177:55453] logged in with entity id 194255 at ([world]96.88737819278336, 64.0, 257.4409742828722)
+[22:36:59] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[22:37:00] [Server thread/INFO]: Arcabat left the game
+[22:39:10] [User Authenticator #16/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[22:39:10] [Server thread/INFO]: Arcabat joined the game
+[22:39:10] [Server thread/INFO]: Arcabat[/46.193.65.177:63081] logged in with entity id 194584 at ([world]96.63388740707258, 64.0, 257.06105284279425)
+[22:39:47] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[22:39:47] [Server thread/INFO]: Arcabat left the game
+[22:42:13] [User Authenticator #17/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[22:42:13] [Server thread/INFO]: Arcabat joined the game
+[22:42:13] [Server thread/INFO]: Arcabat[/46.193.65.177:63258] logged in with entity id 194697 at ([world]96.59340897401853, 64.0, 257.00812032658047)
+[22:51:29] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[22:51:29] [Server thread/INFO]: Arcabat left the game
+[22:51:31] [User Authenticator #18/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[22:51:31] [Server thread/INFO]: Arcabat joined the game
+[22:51:31] [Server thread/INFO]: Arcabat[/46.193.65.177:63362] logged in with entity id 195739 at ([world]102.30365235538513, 63.0, 256.0891891661542)
+[22:51:58] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[22:51:58] [Server thread/INFO]: Arcabat left the game
+[22:57:08] [User Authenticator #19/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[22:57:08] [Server thread/INFO]: Arcabat joined the game
+[22:57:09] [Server thread/INFO]: Arcabat[/46.193.65.177:63413] logged in with entity id 195823 at ([world]102.30365235538513, 63.0, 256.0891891661542)
+[22:59:34] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[22:59:34] [Server thread/INFO]: Arcabat left the game
+[23:00:47] [User Authenticator #20/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[23:00:47] [Server thread/INFO]: Arcabat joined the game
+[23:00:47] [Server thread/INFO]: Arcabat[/46.193.65.177:63540] logged in with entity id 196121 at ([world]102.3175091651069, 63.0, 255.88206158492062)
+[23:01:40] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[23:01:40] [Server thread/INFO]: Arcabat left the game
+[23:03:39] [User Authenticator #21/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[23:03:39] [Server thread/INFO]: Arcabat joined the game
+[23:03:39] [Server thread/INFO]: Arcabat[/46.193.65.177:63643] logged in with entity id 196242 at ([world]102.07980422645069, 63.0, 256.3964942234603)
+[23:48:00] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[23:48:00] [Server thread/INFO]: Arcabat left the game

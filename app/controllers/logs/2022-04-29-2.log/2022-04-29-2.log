@@ -1,0 +1,58 @@
+[05:14:06] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:14:06] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:14:08] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:14:12] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:14:13] [Server thread/INFO]: Loading properties
+[05:14:13] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:14:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:14:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:14:14] [Server thread/INFO]: Default game type: SURVIVAL
+[05:14:14] [Server thread/INFO]: Generating keypair
+[05:14:14] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:14:14] [Server thread/INFO]: Using epoll channel type
+[05:14:14] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:14:14] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:14:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:14:14] [Server thread/INFO]: Preparing level "world"
+[05:14:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:14:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:21] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:21] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:22] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:22] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:23] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:23] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:24] [Server thread/INFO]: Preparing spawn area: 1%
+[05:14:24] [Server thread/INFO]: Time elapsed: 7319 ms
+[05:14:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:14:25] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:25] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:25] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:26] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:26] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:27] [Server thread/INFO]: Time elapsed: 2971 ms
+[05:14:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:14:28] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:28] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:28] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:29] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:29] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:31] [Server thread/INFO]: Time elapsed: 3266 ms
+[05:14:31] [Server thread/INFO]: Starting GS4 status listener
+[05:14:31] [Server thread/INFO]: Thread Query Listener started
+[05:14:31] [Server thread/INFO]: Running delayed init tasks
+[05:14:31] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:14:31] [Server thread/INFO]: Done (18.542s)! For help, type "help"
+[05:14:31] [Server thread/INFO]: Timings Reset
+[05:14:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5185ms or 103 ticks behind
+[05:19:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5336ms or 106 ticks behind

@@ -1,0 +1,179 @@
+[05:09:48] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:09:50] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:09:52] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:09:55] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:09:55] [Server thread/INFO]: Loading properties
+[05:09:55] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:09:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:09:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:09:56] [Server thread/INFO]: Default game type: SURVIVAL
+[05:09:56] [Server thread/INFO]: Generating keypair
+[05:09:56] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:09:56] [Server thread/INFO]: Using epoll channel type
+[05:09:56] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:09:56] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:09:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:09:57] [Server thread/INFO]: Preparing level "world"
+[05:10:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:10:01] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:01] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:01] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:02] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:02] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:03] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:03] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:04] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:04] [Server thread/INFO]: Time elapsed: 3998 ms
+[05:10:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:10:04] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:05] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:05] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:06] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:06] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:07] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:09] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:09] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:09] [Server thread/INFO]: Time elapsed: 4910 ms
+[05:10:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:10:09] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:10] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:10] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:11] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:11] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:12] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:10:12] [Server thread/INFO]: Time elapsed: 3177 ms
+[05:10:12] [Server thread/INFO]: Starting GS4 status listener
+[05:10:12] [Server thread/INFO]: Thread Query Listener started
+[05:10:13] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:10:13] [Server thread/INFO]: Running delayed init tasks
+[05:10:13] [Server thread/INFO]: Done (17.767s)! For help, type "help"
+[05:10:13] [Server thread/INFO]: Timings Reset
+[05:15:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5912ms or 118 ticks behind
+[15:48:35] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[15:48:36] [Server thread/INFO]: Shadowmere_Swift joined the game
+[15:48:36] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64539] logged in with entity id 234 at ([world]417.55404046772, 105.5625, 838.2127910061355)
+[16:13:32] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2882866059551361
+[16:13:44] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2956535761835113
+[16:27:49] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[16:27:49] [Server thread/INFO]: Shadowmere_Swift left the game
+[20:10:04] [User Authenticator #2/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[20:10:04] [Server thread/INFO]: Arcabat joined the game
+[20:10:05] [Server thread/INFO]: Arcabat[/46.193.65.177:63896] logged in with entity id 7414 at ([world]82.67590935007384, 73.0, 303.48419713949716)
+[22:41:04] [User Authenticator #3/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[22:41:04] [Server thread/INFO]: Shadowmere_Swift joined the game
+[22:41:04] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64847] logged in with entity id 27311 at ([world]86.39161264595613, 73.875, 310.76843650735003)
+[22:41:12] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> Hey
+[22:41:18] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> Comment que ça va ici
+[22:43:12] [Async Chat Thread - #1/INFO]: <Arcabat> hello ça va et toi ?
+[22:43:30] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> journée de merde au travail donc super raison de venir chill ici
+[22:43:49] [Async Chat Thread - #1/INFO]: <Arcabat> ah merde :/
+[22:43:53] [Async Chat Thread - #1/INFO]: <Arcabat> bonne raison oui
+[22:44:00] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> oh nan tkt, ça arrive rarement c'est plutot bien
+[22:44:06] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> (toujours positiver)
+[22:44:21] [Async Chat Thread - #1/INFO]: <Arcabat> Mdr oui, c'est sûr mais bon c'est jamais cool quand ça arrive x)
+[22:44:41] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> 4 projets avec les villageeois
+[22:44:56] [Async Chat Thread - #1/INFO]: <Arcabat> oh !
+[22:45:08] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> 1- Faire les cabanes et avoir en vente chaque enchantement , je farm le cuir pour les pupitre
+[22:45:40] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> 2- Avoir 6/8 villageois pour farm les émeraudes, je priviligierai bien patates et carottes vu que ça peut s'automatiser
+[22:45:57] [Async Chat Thread - #1/INFO]: <Arcabat> carrément
+[22:46:04] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> 3- ...grâce à une ferme automatique. PAs encore réussi à la faire marcher en créatif cependant
+[22:46:31] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> 4- Ferme à fer. Il suffit de comprendr le spawn et la région de spawn des golem et de tout bloquer sauf en endroit prévu pour
+[22:46:55] [Async Chat Thread - #1/INFO]: <Arcabat> Yep, plutot bien comme projet !
+[22:47:17] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> Mais long et complexe
+[22:47:33] [Async Chat Thread - #1/INFO]: <Arcabat> En vrai ça va
+[22:48:35] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> et je VEUX faire une ferme à bois
+[22:48:46] [Async Chat Thread - #2/INFO]: <Arcabat> Mdr je te laisserais la faire x)
+[22:48:53] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> j'en ai une de construite en créa, faudra que je vérifie si elle est toujours fonctionnelle
+[22:49:05] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> Car c'est une machine beaucoup trop satisfaisante
+[22:49:39] [Async Chat Thread - #2/INFO]: <Arcabat> Ah ouais ? bah vérifie oui x)
+[22:50:50] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> A quoi pourraient servir les graines de blé qu'on a en quantité énorme ?
+[22:51:01] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> (Autre que le compost ou je les met toujours)
+[22:51:27] [Async Chat Thread - #3/INFO]: <Arcabat> a rien, juste au compost
+[22:51:34] [Async Chat Thread - #3/INFO]: <Arcabat> ou pour les poules
+[22:51:38] [Async Chat Thread - #3/INFO]: <Arcabat> pour les nourrir
+[22:51:42] [Async Chat Thread - #3/INFO]: <Arcabat> mais osef
+[22:52:00] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> Ah oui les poules... j'ai aussi envie (oui je sais....) de faire une ferme pour chaque animaux
+[22:52:30] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> J'ai déja fait en version primitive celle des vaches
+[22:53:00] [Async Chat Thread - #3/INFO]: <Arcabat> c'est easy celle des vaches et poules
+[22:53:19] [Async Chat Thread - #3/INFO]: <Arcabat> cochon ça sert pas a grand chose, mouton juste pour la laine
+[22:53:20] [Async Chat Thread - #3/INFO]: <Shadowmere_Swift> vaches et mouton ouais identiques. Poules ^^ Love this
+[23:04:26] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> Est-ce que tu passes ton temps à pecher pour l'xp ?
+[23:04:38] [Async Chat Thread - #4/INFO]: <Arcabat> nope
+[23:04:43] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> ouff
+[23:04:58] [Async Chat Thread - #4/INFO]: <Arcabat> je peche pour les livres, mais c'est tout, genre quand je regarde une vidéo
+[23:05:16] [Async Chat Thread - #4/INFO]: <Shadowmere_Swift> ah ouais, et tu arrives à avoir tous les poissons ?
+[23:05:29] [Async Chat Thread - #4/INFO]: <Arcabat> pas tous mais beaucoup
+[23:09:21] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> direction nether
+[23:09:26] [Async Chat Thread - #5/INFO]: <Shadowmere_Swift> farm de ghast
+[23:09:28] [Async Chat Thread - #5/INFO]: <Arcabat> pour ?
+[23:09:30] [Async Chat Thread - #5/INFO]: <Arcabat> ah ?
+[23:14:16] [Async Chat Thread - #6/INFO]: <Shadowmere_Swift> Sinon Michel va bien
+[23:14:21] [Async Chat Thread - #6/INFO]: <Arcabat> mdr
+[23:17:56] [Async Chat Thread - #7/INFO]: <Shadowmere_Swift> beaucoup trop de canne a peche
+[23:18:02] [Async Chat Thread - #7/INFO]: <Arcabat> oui
+[23:18:06] [Async Chat Thread - #7/INFO]: <Arcabat> j'en peche plein
+[23:21:23] [Server thread/INFO]: Shadowmere_Swift issued server command: /seed
+[23:26:52] [Async Chat Thread - #8/INFO]: <Arcabat> au fait j'ai un projet du coup, c'est de faire une ville sur l'eau, au niveau de la cabane a pecheur !
+[23:27:11] [Async Chat Thread - #8/INFO]: <Shadowmere_Swift> dans quel style ?
+[23:27:29] [Async Chat Thread - #8/INFO]: <Arcabat> je sais pas encore xD
+[23:27:45] [Async Chat Thread - #8/INFO]: <Arcabat> mais dans le meme style que la cabane
+[23:27:49] [Async Chat Thread - #8/INFO]: <Arcabat> je pense
+[23:29:03] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> 9 119 38
+[23:29:16] [Async Chat Thread - #9/INFO]: <Shadowmere_Swift> et ok, hate de savoir a quoi ca ressemblera
+[23:31:57] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> ok projet escalier
+[23:32:05] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> des projets dans tous les sens
+[23:32:13] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> Ce jeu c'est projectcraft
+[23:32:29] [Async Chat Thread - #10/INFO]: <Arcabat> x)
+[23:32:39] [Async Chat Thread - #10/INFO]: <Arcabat> j'ai trouvé le moyen de se déplacer le plus vite
+[23:32:52] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> Hummm... ?
+[23:32:59] [Async Chat Thread - #10/INFO]: <Arcabat> agilité aquatique 3, dans l'eau, et tu prends un dauphin en laisse
+[23:33:17] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> xD, la blague
+[23:33:21] [Async Chat Thread - #10/INFO]: <Shadowmere_Swift> ca doit etre drole
+[23:33:25] [Async Chat Thread - #10/INFO]: <Arcabat> je te jure, tu vas tellement vite xD
+[23:33:27] [Async Chat Thread - #10/INFO]: <Arcabat> je viens de test
+[23:33:34] [Async Chat Thread - #10/INFO]: <Arcabat> c'est marrant oui x)
+[23:35:29] [Async Chat Thread - #11/INFO]: <Shadowmere_Swift> J'avais vu une vidéo. La personne avait fait un canon à vache
+[23:35:36] [Async Chat Thread - #11/INFO]: <Shadowmere_Swift> On dépasse le mur du son
+[23:35:36] [Async Chat Thread - #11/INFO]: <Arcabat> wow
+[23:35:40] [Async Chat Thread - #11/INFO]: <Arcabat> ah
+[23:35:42] [Async Chat Thread - #11/INFO]: <Arcabat> xD
+[23:35:49] [Async Chat Thread - #11/INFO]: <Shadowmere_Swift> Par contre c'est un one-shot
+[23:36:06] [Async Chat Thread - #11/INFO]: <Arcabat> j'imagine
+[23:36:28] [Async Chat Thread - #11/INFO]: <Shadowmere_Swift> Mais l'idée est simple, tu fais reproduire un max de vaches (ou autre) dans un seul blocs et après tu ouvres les vannes. IL avait fait 3000 blocs en genre 2 secondes
+[23:37:10] [Async Chat Thread - #11/INFO]: <Arcabat> Mmh mais c'est encore possible ça ? parce que maintenant, le nombre de mob dans un seul bloc est limité
+[23:37:23] [Async Chat Thread - #11/INFO]: <Shadowmere_Swift> C'est régit par une gamerule qui peut se changer
+[23:37:36] [Async Chat Thread - #11/INFO]: <Arcabat> dacc
+[23:37:45] [Async Chat Thread - #11/INFO]: <Shadowmere_Swift> D'ailleurs, à 70 par défaut, je l'ai monté à 120 avant que les mobs suffoquent
+[23:37:52] [Async Chat Thread - #11/INFO]: <Arcabat> dacc
+[23:40:51] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> au fait. Tu imagines le bruit des ghast ?
+[23:40:57] [Async Chat Thread - #12/INFO]: <Arcabat> non
+[23:41:08] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> Ah tu vois les bruits qu'ils font ?
+[23:41:13] [Async Chat Thread - #12/INFO]: <Arcabat> ah oui si
+[23:41:33] [Async Chat Thread - #12/INFO]: <Shadowmere_Swift> Ok... tu connais C418 le mec qui avait fait les musiques au début de Minecraft ?
+[23:46:46] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[23:46:46] [Server thread/INFO]: Shadowmere_Swift left the game
+[23:46:47] [User Authenticator #4/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[23:46:47] [Server thread/INFO]: Shadowmere_Swift joined the game
+[23:46:47] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64266] logged in with entity id 42923 at ([world_nether]71.32257435833523, 62.0, 37.22264868458893)
+[23:47:04] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> 71 62 36
+[23:47:17] [Async Chat Thread - #13/INFO]: <Arcabat> non je connais pas
+[23:47:55] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> bah c'est le compositeur des musiques en tout cas. Et bah le bruit des ghats, c'est des enregistrements des bruits de son chat qui dormait
+[23:48:05] [Async Chat Thread - #13/INFO]: <Arcabat> sérieux ? xD
+[23:48:18] [Async Chat Thread - #13/INFO]: <Shadowmere_Swift> oui, et en vrai... ça se reconnait je toruve ca trop mims
+[23:48:30] [Async Chat Thread - #13/INFO]: <Arcabat> Mouais, je trouve pas moi
+[23:48:41] [Async Chat Thread - #13/INFO]: <Arcabat> enfin je trouve pas que ça se reconnaisse
+[23:51:28] [Server thread/INFO]: Named entity EntityDolphin['Flipper'/34547, uuid='db2bff1f-d538-4c42-8ecd-581e78eb9e81', l='ServerLevel[world]', x=101.42, y=64.04, z=261.61, cpos=[6, 16], tl=29649, v=true] died: Flipper died from dehydration
+[23:53:39] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> On est d'accord que l'overworld, on essaie de pas trop le dégueulasser avec des blocs randoms, des trucs moches par ci par là en mode déchetterie mais que le nether on s'en branle ?
+[23:53:48] [Async Chat Thread - #14/INFO]: <Arcabat> oui
+[23:53:50] [Async Chat Thread - #14/INFO]: <Shadowmere_Swift> nice
+[23:57:01] [Async Chat Thread - #15/INFO]: <Shadowmere_Swift> quitte a être dans le nether je vais farmer or et quartz en cherchant des ghasts
+[23:57:16] [Async Chat Thread - #15/INFO]: <Arcabat> tu peux ouais
+[23:58:29] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> hum...
+[23:58:33] [Async Chat Thread - #16/INFO]: <Arcabat> oui ?
+[23:58:44] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> je m'interroge c'est tout
+[23:59:01] [Async Chat Thread - #16/INFO]: <Arcabat> dacc x)
+[23:59:17] [Async Chat Thread - #16/INFO]: <Shadowmere_Swift> je verrai plus tard ce que tu auras fait, j'aime bien les surprise
+[23:59:27] [Async Chat Thread - #16/INFO]: <Arcabat> :D

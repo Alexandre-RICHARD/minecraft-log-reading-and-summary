@@ -1,0 +1,19 @@
+[00:51:43] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[00:51:44] [Server thread/INFO]: Shadowmere_Swift joined the game
+[00:51:44] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:57251] logged in with entity id 671 at ([world]398.6372854732505, 79.0, 837.3000000119209)
+[00:53:01] [Server thread/INFO]: Shadowmere_Swift fell from a high place
+[01:54:03] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[01:54:03] [Server thread/INFO]: Shadowmere_Swift left the game
+[05:00:33] [Server thread/INFO]: Stopping the server
+[05:00:33] [Server thread/INFO]: Stopping server
+[05:00:33] [Server thread/INFO]: Saving players
+[05:00:34] [Server thread/INFO]: Saving worlds
+[05:00:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:00:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:00:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:00:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:00:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:00:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:00:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:00:34] [Server thread/INFO]: Flushing Chunk IO
+[05:00:34] [Server thread/INFO]: Closing Thread Pool

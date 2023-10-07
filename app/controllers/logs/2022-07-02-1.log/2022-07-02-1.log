@@ -1,0 +1,44 @@
+[02:04:23] [User Authenticator #6/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[02:04:23] [Server thread/INFO]: Shadowmere_Swift joined the game
+[02:04:23] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:50176] logged in with entity id 84366 at ([world]389.47146386419604, 79.0, 829.9746424556367)
+[03:53:45] [User Authenticator #7/INFO]: UUID of player Cheliness is 6eac5eb0-892d-466b-9c19-b798f3460bf0
+[03:53:45] [Server thread/INFO]: Cheliness joined the game
+[03:53:45] [Server thread/INFO]: Cheliness[/90.93.220.14:50198] logged in with entity id 104643 at ([world]494.33396780768874, 33.0, 135.31014859388216)
+[03:54:24] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> ALORS
+[03:54:33] [Async Chat Thread - #0/INFO]: <Cheliness> hum
+[03:54:38] [Async Chat Thread - #0/INFO]: <Cheliness> ça dort vraiment pas?
+[03:54:46] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> la réponse s'appelle "réveil précoce et insomnie"
+[03:54:55] [Async Chat Thread - #0/INFO]: <Cheliness> du coup ça vient sur minecraft
+[03:54:57] [Async Chat Thread - #0/INFO]: <Cheliness> jpp
+[03:54:58] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> yep
+[03:55:07] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> je pourrai dire la même
+[03:55:13] [Async Chat Thread - #0/INFO]: <Cheliness> moi je rentre de ferm
+[03:55:24] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> moi je construit une ferme ^^
+[03:55:44] [Async Chat Thread - #0/INFO]: <Cheliness> on a finit tellement tard que notre cher directeur multi restos vient faire la ferm demain soir avec nous :'(
+[03:55:50] [Async Chat Thread - #0/INFO]: <Cheliness> tu veux de l'aide?
+[03:57:00] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> on voc .
+[03:57:02] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> ?
+[03:57:08] [Async Chat Thread - #1/INFO]: <Cheliness> j'osais pas te proposer
+[04:53:35] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[04:53:35] [Server thread/INFO]: Shadowmere_Swift left the game
+[04:54:41] [User Authenticator #8/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[04:54:42] [Server thread/INFO]: Shadowmere_Swift joined the game
+[04:54:42] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:54921] logged in with entity id 147346 at ([world]401.32263712265683, 83.04336948864832, 806.8422265664196)
+[05:00:21] [Server thread/INFO]: Stopping the server
+[05:00:21] [Server thread/INFO]: Stopping server
+[05:00:21] [Server thread/INFO]: Saving players
+[05:00:21] [Server thread/INFO]: Cheliness lost connection: Server closed
+[05:00:21] [Server thread/INFO]: Cheliness left the game
+[05:00:21] [Server thread/INFO]: Shadowmere_Swift lost connection: Server closed
+[05:00:21] [Server thread/INFO]: Shadowmere_Swift left the game
+[05:00:21] [Server thread/INFO]: Saving worlds
+[05:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:00:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:00:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:00:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:00:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:00:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:00:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:00:28] [Server thread/INFO]: Flushing Chunk IO
+[05:00:28] [Server thread/INFO]: Closing Thread Pool
+[05:00:28] [Server thread/INFO]: Closing Server

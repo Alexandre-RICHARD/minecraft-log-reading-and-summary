@@ -1,0 +1,91 @@
+[05:10:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:10:32] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:10:35] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:10:43] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:10:43] [Server thread/INFO]: Loading properties
+[05:10:44] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:10:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:10:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:10:45] [Server thread/INFO]: Default game type: SURVIVAL
+[05:10:45] [Server thread/INFO]: Generating keypair
+[05:10:45] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:10:45] [Server thread/INFO]: Using epoll channel type
+[05:10:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:10:45] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:10:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:10:46] [Server thread/INFO]: Preparing level "world"
+[05:10:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:10:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:56] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:57] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:57] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:58] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:58] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:59] [Server thread/INFO]: Preparing spawn area: 0%
+[05:10:59] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:00] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:00] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:01] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:01] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:02] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:02] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:03] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:03] [Server thread/INFO]: Time elapsed: 10420 ms
+[05:11:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:11:04] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:04] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:04] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:04] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:05] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:06] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:06] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:06] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:07] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:07] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:09] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:09] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:10] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:10] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:12] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:12] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:12] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:12] [Server thread/INFO]: Time elapsed: 9475 ms
+[05:11:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:11:13] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:13] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:13] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:14] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:14] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:15] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:15] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:16] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:16] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:18] [Server thread/INFO]: Time elapsed: 5307 ms
+[05:11:18] [Server thread/INFO]: Starting GS4 status listener
+[05:11:18] [Server thread/INFO]: Thread Query Listener started
+[05:11:18] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:11:18] [Server thread/INFO]: Running delayed init tasks
+[05:11:18] [Server thread/INFO]: Done (34.916s)! For help, type "help"
+[05:11:18] [Server thread/INFO]: Timings Reset
+[05:11:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[05:16:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5170ms or 103 ticks behind
+[19:39:51] [User Authenticator #1/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[19:39:51] [Server thread/INFO]: Arcabat joined the game
+[19:39:51] [Server thread/INFO]: Arcabat[/90.105.56.68:54965] logged in with entity id 469 at ([world]98.86002297088494, 72.0, 356.19746778368807)
+[19:50:22] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[19:50:22] [Server thread/INFO]: Arcabat left the game
+[21:51:21] [User Authenticator #2/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[21:51:21] [Server thread/INFO]: Arcabat joined the game
+[21:51:21] [Server thread/INFO]: Arcabat[/90.105.56.68:62861] logged in with entity id 3393 at ([world]83.58395759395421, 74.0, 292.60386264027994)
+[22:54:00] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[22:54:00] [Server thread/INFO]: Arcabat left the game

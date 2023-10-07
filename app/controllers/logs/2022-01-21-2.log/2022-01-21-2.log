@@ -1,0 +1,125 @@
+[05:09:36] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:09:36] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:09:38] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:09:40] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:09:40] [Server thread/INFO]: Loading properties
+[05:09:40] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:09:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:09:40] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:09:41] [Server thread/INFO]: Default game type: SURVIVAL
+[05:09:41] [Server thread/INFO]: Generating keypair
+[05:09:41] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:09:41] [Server thread/INFO]: Using epoll channel type
+[05:09:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:09:41] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:09:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:09:41] [Server thread/INFO]: Preparing level "world"
+[05:09:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:09:44] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:44] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:45] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:45] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:46] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:46] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:47] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:47] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:48] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:48] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:48] [Server thread/INFO]: Time elapsed: 4635 ms
+[05:09:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:09:49] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:49] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:49] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:50] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:50] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:50] [Server thread/INFO]: Time elapsed: 2109 ms
+[05:09:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:09:51] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:51] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:51] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:52] [Server thread/INFO]: Preparing spawn area: 0%
+[05:09:52] [Server thread/INFO]: Time elapsed: 1663 ms
+[05:09:52] [Server thread/INFO]: Starting GS4 status listener
+[05:09:52] [Server thread/INFO]: Thread Query Listener started
+[05:09:52] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:09:52] [Server thread/INFO]: Running delayed init tasks
+[05:09:52] [Server thread/INFO]: Done (12.268s)! For help, type "help"
+[05:09:52] [Server thread/INFO]: Timings Reset
+[05:14:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5035ms or 100 ticks behind
+[13:27:48] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[13:27:49] [Server thread/INFO]: Shadowmere_Swift joined the game
+[13:27:49] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64797] logged in with entity id 250 at ([world]399.5280272735331, -54.0, 846.7981658266107)
+[13:34:48] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode spectator
+[13:34:58] [Server thread/INFO]: Shadowmere_Swift issued server command: /gamemode survival
+[13:34:59] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[13:34:59] [Server thread/INFO]: Shadowmere_Swift left the game
+[13:40:03] [User Authenticator #2/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[13:40:03] [Server thread/INFO]: Shadowmere_Swift joined the game
+[13:40:03] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63889] logged in with entity id 2179 at ([world]406.248724592929, -54.0, 847.7115801375755)
+[13:48:50] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.538255239789919
+[13:48:56] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.45858971589314024
+[13:48:57] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.26691431578967695
+[13:48:57] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.3183162177728036
+[13:48:57] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.3696290445449222
+[13:48:57] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.3178122778363104
+[13:48:57] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.3687515046833596
+[13:48:57] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.41971131790842264
+[13:48:59] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.2501086666700303
+[13:54:33] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[13:54:33] [Server thread/INFO]: Shadowmere_Swift left the game
+[13:59:54] [User Authenticator #3/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[13:59:54] [Server thread/INFO]: Shadowmere_Swift joined the game
+[13:59:54] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65518] logged in with entity id 5091 at ([world]83.94193247432526, 74.875, 298.02082874455436)
+[14:00:56] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[14:00:56] [Server thread/INFO]: Shadowmere_Swift left the game
+[14:03:56] [User Authenticator #4/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[14:03:56] [Server thread/INFO]: Shadowmere_Swift joined the game
+[14:03:56] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64307] logged in with entity id 5297 at ([world]85.64102526990577, 74.875, 297.21562392326007)
+[14:05:52] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[14:05:52] [Server thread/INFO]: Shadowmere_Swift left the game
+[14:07:37] [User Authenticator #5/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[14:07:37] [Server thread/INFO]: Shadowmere_Swift joined the game
+[14:07:37] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65365] logged in with entity id 5649 at ([world]80.98519943030094, 73.0, 299.98728520439215)
+[14:34:31] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[14:34:31] [Server thread/INFO]: Shadowmere_Swift left the game
+[16:36:11] [User Authenticator #6/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[16:36:11] [Server thread/INFO]: Shadowmere_Swift joined the game
+[16:36:11] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63874] logged in with entity id 11131 at ([world]83.82563413922527, 73.0, 308.33818697426176)
+[16:51:07] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[16:51:07] [Server thread/INFO]: Shadowmere_Swift left the game
+[16:52:28] [User Authenticator #7/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[16:52:29] [Server thread/INFO]: Shadowmere_Swift joined the game
+[16:52:29] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64175] logged in with entity id 13241 at ([world]-93.51604127578709, 66.0, 234.4003299559236)
+[16:56:39] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[16:56:39] [Server thread/INFO]: Shadowmere_Swift left the game
+[16:57:30] [User Authenticator #8/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[16:57:30] [Server thread/INFO]: Shadowmere_Swift joined the game
+[16:57:30] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64512] logged in with entity id 13913 at ([world]-99.44721626954488, 64.0, 225.43724986561392)
+[17:16:02] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[17:16:02] [Server thread/INFO]: Shadowmere_Swift left the game
+[17:18:45] [User Authenticator #9/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[17:18:45] [Server thread/INFO]: Shadowmere_Swift joined the game
+[17:18:45] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63763] logged in with entity id 19744 at ([world]-80.63042182467076, 63.0, 271.3589740786393)
+[18:13:28] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[18:13:28] [Server thread/INFO]: Shadowmere_Swift left the game
+[18:19:43] [User Authenticator #10/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[18:19:43] [Server thread/INFO]: Shadowmere_Swift joined the game
+[18:19:43] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65288] logged in with entity id 27890 at ([world]-60.13208321862178, 63.0, 271.5082872879997)
+[18:38:50] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[18:38:50] [Server thread/INFO]: Shadowmere_Swift left the game
+[18:39:41] [User Authenticator #11/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[18:39:41] [Server thread/INFO]: Shadowmere_Swift joined the game
+[18:39:41] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64301] logged in with entity id 31521 at ([world]-99.1807298092709, 65.0, 248.18337553346078)
+[19:09:21] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[19:09:21] [Server thread/INFO]: Shadowmere_Swift left the game
+[19:19:00] [User Authenticator #12/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[19:19:01] [Server thread/INFO]: Shadowmere_Swift joined the game
+[19:19:01] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65493] logged in with entity id 36776 at ([world]-116.70769505608996, 63.0, 203.2076090594874)
+[19:50:54] [Server thread/INFO]: Shadowmere_Swift has reached the goal [Zombie Doctor]
+[20:42:45] [Server thread/WARN]: Furfild (vehicle of Shadowmere_Swift) moved wrongly! 0.4884481770251341
+[21:11:19] [Server thread/INFO]: Shadowmere_Swift has made the advancement [Not Today, Thank You]
+[21:38:35] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[21:38:35] [Server thread/INFO]: Shadowmere_Swift left the game
+[23:05:42] [User Authenticator #13/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[23:05:42] [Server thread/INFO]: Shadowmere_Swift joined the game
+[23:05:42] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65183] logged in with entity id 72882 at ([world]77.47964185336484, 75.875, 292.73716360329183)

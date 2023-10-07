@@ -1,0 +1,31 @@
+[00:12:25] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[00:12:25] [Server thread/INFO]: Shadowmere_Swift left the game
+[00:37:44] [User Authenticator #9/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[00:37:44] [Server thread/INFO]: Shadowmere_Swift joined the game
+[00:37:44] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64288] logged in with entity id 80482 at ([world]391.7348834007054, 79.875, 838.1719362043299)
+[00:40:07] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[00:40:07] [Server thread/INFO]: Shadowmere_Swift left the game
+[00:40:34] [User Authenticator #10/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[00:40:34] [Server thread/INFO]: Shadowmere_Swift joined the game
+[00:40:34] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64366] logged in with entity id 81044 at ([world]422.4047328949214, 79.0, 824.6758519999698)
+[00:46:28] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[00:46:28] [Server thread/INFO]: Shadowmere_Swift left the game
+[00:47:50] [User Authenticator #11/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[00:47:50] [Server thread/INFO]: Shadowmere_Swift joined the game
+[00:47:50] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64084] logged in with entity id 82719 at ([world]425.5507713926954, 79.875, 829.7255406430712)
+[00:53:56] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[00:53:56] [Server thread/INFO]: Shadowmere_Swift left the game
+[05:00:25] [Server thread/INFO]: Stopping the server
+[05:00:25] [Server thread/INFO]: Stopping server
+[05:00:25] [Server thread/INFO]: Saving players
+[05:00:25] [Server thread/INFO]: Saving worlds
+[05:00:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:00:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:00:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:00:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:00:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:00:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:00:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:00:25] [Server thread/INFO]: Flushing Chunk IO
+[05:00:25] [Server thread/INFO]: Closing Thread Pool
+[05:00:25] [Server thread/INFO]: Closing Server

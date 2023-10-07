@@ -1,0 +1,119 @@
+[05:11:39] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:11:39] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:11:39] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:11:41] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:11:41] [Server thread/INFO]: Loading properties
+[05:11:41] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:11:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:11:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:11:41] [Server thread/INFO]: Default game type: SURVIVAL
+[05:11:41] [Server thread/INFO]: Generating keypair
+[05:11:41] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:11:41] [Server thread/INFO]: Using epoll channel type
+[05:11:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:11:41] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:11:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:11:41] [Server thread/INFO]: Preparing level "world"
+[05:11:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:11:43] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:43] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:43] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:44] [Server thread/INFO]: Time elapsed: 1394 ms
+[05:11:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:11:44] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:44] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:45] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:45] [Server thread/INFO]: Time elapsed: 1107 ms
+[05:11:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:11:45] [Server thread/INFO]: Preparing spawn area: 0%
+[05:11:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:11:45] [Server thread/INFO]: Time elapsed: 559 ms
+[05:11:45] [Server thread/INFO]: Starting GS4 status listener
+[05:11:45] [Server thread/INFO]: Thread Query Listener started
+[05:11:45] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:11:45] [Server thread/INFO]: Running delayed init tasks
+[05:11:45] [Server thread/INFO]: Done (4.500s)! For help, type "help"
+[05:11:45] [Server thread/INFO]: Timings Reset
+[12:50:50] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[12:50:51] [Server thread/INFO]: Shadowmere_Swift joined the game
+[12:50:51] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64463] logged in with entity id 296 at ([world]417.1000912137607, 105.0, 835.3229868328002)
+[12:53:03] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.25348287884844467
+[12:53:03] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.4012220714708974
+[12:53:03] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.33834640799443605
+[12:53:03] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.48438729862562013
+[12:53:03] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.630181438495697
+[12:53:03] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 1.2758245868226368
+[12:53:03] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 1.9213822462456847
+[12:53:09] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.6135121054850288
+[12:53:44] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.38718655370195165
+[13:57:57] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.301659731889913
+[13:58:08] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.26285046709222115
+[13:58:09] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.2526946124621645
+[13:59:51] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.29718099160686506
+[13:59:52] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.33535387838207953
+[13:59:52] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.48406905522369925
+[13:59:52] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.27718428193941236
+[13:59:52] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.4242599491032024
+[13:59:54] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.43782753016375864
+[13:59:58] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.4173930251350839
+[14:00:48] [Server thread/WARN]: Horse (vehicle of Shadowmere_Swift) moved wrongly! 0.6414870528320762
+[14:17:23] [Async Chat Thread - #0/INFO]: <Shadowmere_Swift> 100 280 -18.7
+[14:21:37] [Async Chat Thread - #1/INFO]: <Shadowmere_Swift> 655 370 1.7
+[14:26:48] [Async Chat Thread - #2/INFO]: <Shadowmere_Swift> 1240 955 36.5
+[14:31:56] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[14:31:56] [Server thread/INFO]: Shadowmere_Swift left the game
+[19:19:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10397ms or 207 ticks behind
+[19:21:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8360ms or 167 ticks behind
+[19:30:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15249ms or 304 ticks behind
+[19:41:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15321ms or 306 ticks behind
+[19:41:58] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-126 (MC: 1.18.1) ---
+[19:41:58] [Paper Watchdog Thread/ERROR]: The server has not responded for -52 seconds! Creating thread dump
+[19:41:58] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:41:58] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[19:41:58] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:41:58] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[19:41:58] [Paper Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: false | State: RUNNABLE
+[19:41:58] [Paper Watchdog Thread/ERROR]: 	Stack:
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.LevelReader.hasChunksAt(LevelReader.java:204)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.touchingUnloadedChunk(Entity.java:3931)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.updateFluidHeightAndDoFluidPushing(Entity.java:3848)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.updateInWaterStateAndDoWaterCurrentPushing(Entity.java:1594)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.updateInWaterStateAndDoFluidPushing(Entity.java:1584)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.baseTick(Entity.java:736)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.baseTick(LivingEntity.java:389)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.baseTick(Mob.java:323)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.tick(Entity.java:703)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:2867)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:396)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Zombie.tick(Zombie.java:233)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1128)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer$$Lambda$4821/0x00000008018f6910.accept(Unknown Source)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:970)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$5(ServerLevel.java:670)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer$$Lambda$4804/0x00000008018d3af0.accept(Unknown Source)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:43)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:650)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1607)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:480)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1470)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$3942/0x000000080140d268.run(Unknown Source)
+[19:41:58] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+[19:41:58] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:41:58] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[19:41:58] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:42:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24581ms or 491 ticks behind
+[22:16:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11466ms or 229 ticks behind
+[22:19:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14575ms or 291 ticks behind
+[22:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5240ms or 104 ticks behind
+[23:40:09] [User Authenticator #2/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[23:40:09] [Server thread/INFO]: Shadowmere_Swift joined the game
+[23:40:09] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63928] logged in with entity id 19733 at ([world]82.38238399459229, 73.0, 303.238087209892)
+[23:40:44] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[23:40:45] [Server thread/INFO]: Shadowmere_Swift left the game
+[23:46:34] [User Authenticator #3/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[23:46:34] [Server thread/INFO]: Shadowmere_Swift joined the game
+[23:46:34] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64706] logged in with entity id 19847 at ([world]82.00212210458928, 74.0, 292.17827439951185)
+[23:58:04] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[23:58:05] [Server thread/INFO]: Shadowmere_Swift left the game

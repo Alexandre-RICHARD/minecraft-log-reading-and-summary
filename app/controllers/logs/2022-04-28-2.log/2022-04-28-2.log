@@ -1,0 +1,105 @@
+[05:13:55] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:13:56] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:13:58] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:14:05] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:14:06] [Server thread/INFO]: Loading properties
+[05:14:06] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:14:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:14:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:14:07] [Server thread/INFO]: Default game type: SURVIVAL
+[05:14:07] [Server thread/INFO]: Generating keypair
+[05:14:08] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:14:09] [Server thread/INFO]: Using epoll channel type
+[05:14:09] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:14:09] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:14:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:14:09] [Server thread/INFO]: Preparing level "world"
+[05:14:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:14:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:18] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:18] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:19] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:19] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:21] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:21] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:22] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:22] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:23] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:23] [Server thread/INFO]: Preparing spawn area: 1%
+[05:14:24] [Server thread/INFO]: Preparing spawn area: 1%
+[05:14:24] [Server thread/INFO]: Time elapsed: 10250 ms
+[05:14:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:14:25] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:25] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:25] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:26] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:26] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:28] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:28] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:29] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:29] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:31] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:31] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:31] [Server thread/INFO]: Time elapsed: 7381 ms
+[05:14:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:14:32] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:32] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:32] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:33] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:34] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:34] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:34] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:35] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:35] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:37] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:37] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:37] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:38] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:38] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:38] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:39] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:39] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:40] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:40] [Server thread/INFO]: Preparing spawn area: 0%
+[05:14:41] [Server thread/INFO]: Time elapsed: 9108 ms
+[05:14:41] [Server thread/INFO]: Starting GS4 status listener
+[05:14:41] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:14:41] [Server thread/INFO]: Thread Query Listener started
+[05:14:41] [Server thread/INFO]: Running delayed init tasks
+[05:14:41] [Server thread/INFO]: Done (35.614s)! For help, type "help"
+[05:14:41] [Server thread/INFO]: Timings Reset
+[05:14:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5156ms or 103 ticks behind
+[05:15:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9740ms or 194 ticks behind
+[10:32:02] [User Authenticator #1/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[10:32:03] [Server thread/INFO]: Shadowmere_Swift joined the game
+[10:32:03] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:59498] logged in with entity id 366 at ([world]381.36303618944345, -54.0, 858.6999999880791)
+[10:38:30] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[10:38:30] [Server thread/INFO]: Shadowmere_Swift left the game
+[12:25:37] [User Authenticator #2/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[12:25:38] [Server thread/INFO]: Shadowmere_Swift joined the game
+[12:25:38] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:60420] logged in with entity id 1735 at ([world]377.2776761577704, -54.0, 826.387560056695)
+[12:29:06] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[12:29:06] [Server thread/INFO]: Shadowmere_Swift left the game
+[12:49:31] [User Authenticator #3/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[12:49:32] [Server thread/INFO]: Shadowmere_Swift joined the game
+[12:49:32] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:61018] logged in with entity id 2755 at ([world]395.06432813382935, -54.0, 835.8440172570039)
+[13:16:34] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[13:16:34] [Server thread/INFO]: Shadowmere_Swift left the game
+[21:20:00] [User Authenticator #4/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[21:20:00] [Server thread/INFO]: Shadowmere_Swift joined the game
+[21:20:00] [Server thread/INFO]: Shadowmere_Swift[/176.131.4.117:50132] logged in with entity id 9186 at ([world]382.6773315333043, -54.0, 839.04279792291)
+[21:44:30] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[21:44:30] [Server thread/INFO]: Shadowmere_Swift left the game

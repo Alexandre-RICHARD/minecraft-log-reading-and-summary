@@ -1,0 +1,101 @@
+[05:12:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:12:58] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[05:13:00] [Worker-Main-1/INFO]: Loaded 7 recipes
+[05:13:05] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[05:13:06] [Server thread/INFO]: Loading properties
+[05:13:06] [Server thread/INFO]: This server is running Paper version git-Paper-126 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: d3f3429)
+[05:13:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:13:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:13:07] [Server thread/INFO]: Default game type: SURVIVAL
+[05:13:07] [Server thread/INFO]: Generating keypair
+[05:13:08] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25608
+[05:13:08] [Server thread/INFO]: Using epoll channel type
+[05:13:08] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:13:08] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:13:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:13:09] [Server thread/INFO]: Preparing level "world"
+[05:13:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:13:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:17] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:18] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:18] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:19] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:19] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:20] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:21] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:21] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:22] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:22] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:23] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:23] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:25] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:25] [Server thread/INFO]: Preparing spawn area: 1%
+[05:13:26] [Server thread/INFO]: Preparing spawn area: 1%
+[05:13:26] [Server thread/INFO]: Preparing spawn area: 21%
+[05:13:26] [Server thread/INFO]: Time elapsed: 13047 ms
+[05:13:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:13:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:27] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:28] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:28] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:29] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:29] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:31] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:31] [Server thread/INFO]: Time elapsed: 4573 ms
+[05:13:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:13:31] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:31] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:33] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:33] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:34] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:34] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:35] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:35] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:36] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:36] [Server thread/INFO]: Preparing spawn area: 0%
+[05:13:37] [Server thread/INFO]: Time elapsed: 5564 ms
+[05:13:37] [Server thread/INFO]: Starting GS4 status listener
+[05:13:37] [Query Listener #1/INFO]: Query running on 0.0.0.0:25608
+[05:13:37] [Server thread/INFO]: Thread Query Listener started
+[05:13:37] [Server thread/INFO]: Running delayed init tasks
+[05:13:37] [Server thread/INFO]: Done (31.924s)! For help, type "help"
+[05:13:37] [Server thread/INFO]: Timings Reset
+[05:13:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[05:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7074ms or 141 ticks behind
+[05:18:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5175ms or 103 ticks behind
+[09:48:55] [User Authenticator #1/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[09:48:56] [Server thread/INFO]: Arcabat joined the game
+[09:48:56] [Server thread/INFO]: Arcabat[/46.193.65.177:56902] logged in with entity id 819 at ([world]51.87006420221722, 73.0, 323.17063874356387)
+[09:53:49] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[09:53:49] [Server thread/INFO]: Arcabat left the game
+[11:02:37] [User Authenticator #2/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[11:02:37] [Server thread/INFO]: Shadowmere_Swift joined the game
+[11:02:37] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:65485] logged in with entity id 2161 at ([world]356.33625910715625, 79.0, 905.0003507662168)
+[11:05:39] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[11:05:39] [Server thread/INFO]: Shadowmere_Swift left the game
+[15:22:37] [User Authenticator #3/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[15:22:37] [Server thread/INFO]: Arcabat joined the game
+[15:22:37] [Server thread/INFO]: Arcabat[/46.193.65.177:55020] logged in with entity id 3069 at ([world]86.61225777004871, 84.0, 355.3567936184204)
+[15:26:02] [Server thread/INFO]: Arcabat has made the advancement [Total Beelocation]
+[15:54:29] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[15:54:29] [Server thread/INFO]: Arcabat left the game
+[15:55:48] [User Authenticator #4/INFO]: UUID of player Arcabat is 3e887fe0-c5a9-45b6-9b30-aa8352bb5e3a
+[15:55:48] [Server thread/INFO]: Arcabat joined the game
+[15:55:48] [Server thread/INFO]: Arcabat[/46.193.65.177:62698] logged in with entity id 10892 at ([world]68.36852312569019, 78.0, 355.7632154354601)
+[16:03:38] [Server thread/INFO]: Arcabat lost connection: Disconnected
+[16:03:38] [Server thread/INFO]: Arcabat left the game

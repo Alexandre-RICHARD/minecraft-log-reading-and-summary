@@ -1,0 +1,24 @@
+[01:18:54] [User Authenticator #6/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[01:18:54] [Server thread/INFO]: Shadowmere_Swift joined the game
+[01:18:54] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:64562] logged in with entity id 36924 at ([world_nether]-230.21545451938746, 15.0, 65.50069858887369)
+[01:44:25] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[01:44:25] [Server thread/INFO]: Shadowmere_Swift left the game
+[01:45:31] [User Authenticator #7/INFO]: UUID of player Shadowmere_Swift is ff3bff8b-0d11-422f-a6f6-2e2b8da24bfb
+[01:45:32] [Server thread/INFO]: Shadowmere_Swift joined the game
+[01:45:32] [Server thread/INFO]: Shadowmere_Swift[/81.220.197.61:63703] logged in with entity id 43275 at ([world]410.59972369084863, 79.0, 817.6021632384412)
+[02:24:13] [Server thread/INFO]: Shadowmere_Swift lost connection: Disconnected
+[02:24:13] [Server thread/INFO]: Shadowmere_Swift left the game
+[05:00:24] [Server thread/INFO]: Stopping the server
+[05:00:24] [Server thread/INFO]: Stopping server
+[05:00:24] [Server thread/INFO]: Saving players
+[05:00:25] [Server thread/INFO]: Saving worlds
+[05:00:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:00:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:00:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:00:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:00:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:00:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:00:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:00:25] [Server thread/INFO]: Flushing Chunk IO
+[05:00:25] [Server thread/INFO]: Closing Thread Pool
+[05:00:25] [Server thread/INFO]: Closing Server
